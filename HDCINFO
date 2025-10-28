@@ -2868,7 +2868,8 @@ addSpawnTableSingleEntry => { "tableName": "BossEyeReplaces", "name": "HDBossEye
 
 // Cacodemon
 newSpawnTable => { "spawnName": "Cacodemon", "tableName": "CacodemonReplaces" }
-addSpawnTableSingleEntry => { "tableName": "CacodemonReplaces", "name": "FlyZapper", "weight": "19", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CacodemonReplaces", "name": "HDGhoul", "weight": "12", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CacodemonReplaces", "name": "FlyZapper", "weight": "7", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CacodemonReplaces", "name": "Bogus_AstralCacodemon", "weight": "1", "persists": "true" }
 
 // Chaingun Guy
@@ -2952,8 +2953,6 @@ newSpawnTable => { "spawnName": "LostSoul", "tableName": "LostSoulReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "LostSoulReplaces", "name": "Hatchling", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "LostSoulReplaces", "name": "FlyingSkull", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "LostSoulReplaces", "name": "EvilSprite", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "LostSoulReplaces", "name": "HDGhoul", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "LostSoulReplaces", "name": "WretchedGhoul", "weight": "1", "persists": "true" }
 
 // Melee Zombiemen
 newSpawnTable => { "spawnName": "MeleeZombieSpawner", "tableName": "MeleeZombieSpawner" }
@@ -2970,7 +2969,8 @@ addSpawnTableSingleEntry => { "tableName": "NightmareDemonReplaces", "name": "Bo
 
 // Pain Elemental
 newSpawnTable => { "spawnName": "PainElemental", "tableName": "PainElementalReplaces" }
-addSpawnTableSingleEntry => { "tableName": "PainElementalReplaces", "name": "FlySpitter", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "PainElementalReplaces", "name": "FlySpitter", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "PainElementalReplaces", "name": "WretchedGhoul", "weight": "1", "persists": "true" }
 
 // Revenant
 newSpawnTable => { "spawnName": "Revenant", "tableName": "RevenantReplaces" }
@@ -3068,7 +3068,7 @@ addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "MeleeZo
 addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "WitheredSpawner", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieSMGStormtrooper", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "PB_ColtSMGZombie", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "UMPZombie", "weight": "1", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "UMPZombie", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "PB_UndeadHomeslice", "weight": "1", "persists": "true" }
 
 // Zombie Scientist

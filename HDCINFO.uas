@@ -1,0 +1,57 @@
+clearFlashlightBotClasses => {}
+clearFlashlightHumanClasses => {}
+clearFlashlightOtherClasses => {}
+
+
+// ------------------------------------------------------------
+// UGLY AS SIN AI FLASHLIGHT CLASSES
+// ------------------------------------------------------------
+
+// Bots, *ERPs, etc.
+addFlashlightBotClass => { "name": "HERPBot" }
+addFlashlightBotClass => { "name": "DERPBot" }
+
+// Humans, Zombiemen, etc.
+// addFlashlightHumanClass => { "name": "BrawlerJackboot" }
+// addFlashlightHumanClass => { "name": "Hideous_ZombieScientist" }
+// addFlashlightHumanClass => { "name": "MeleeZombie" }
+addFlashlightHumanClass => { "name": "AltisShotgunner" }
+addFlashlightHumanClass => { "name": "Bogus_FormerCaptain" }
+addFlashlightHumanClass => { "name": "BPXTrooper" }
+addFlashlightHumanClass => { "name": "CombatJackboot" }
+addFlashlightHumanClass => { "name": "DMRTrooper" }
+addFlashlightHumanClass => { "name": "DoomedZombieShotgunner" }
+addFlashlightHumanClass => { "name": "GreelyShortgunner" }
+addFlashlightHumanClass => { "name": "HDLiberatorZombie" }
+addFlashlightHumanClass => { "name": "HDOperator" }
+addFlashlightHumanClass => { "name": "HDREZombieman" }
+addFlashlightHumanClass => { "name": "HLARTrooper" }
+addFlashlightHumanClass => { "name": "MinervaZombie" }
+addFlashlightHumanClass => { "name": "PB_ACRZombie" }
+addFlashlightHumanClass => { "name": "PB_ColtSMGZombie" }
+addFlashlightHumanClass => { "name": "PB_DozerZombie" }
+addFlashlightHumanClass => { "name": "PB_UndeadHomeslice" }
+addFlashlightHumanClass => { "name": "RiotCopZombie" }
+addFlashlightHumanClass => { "name": "StenZombie" }
+addFlashlightHumanClass => { "name": "TenMilHomeboy" }
+addFlashlightHumanClass => { "name": "TenMilRifleman" }
+addFlashlightHumanClass => { "name": "UMPZombie" }
+addFlashlightHumanClass => { "name": "USPHomeboy" }
+addFlashlightHumanClass => { "name": "VeraZombie" }
+addFlashlightHumanClass => { "name": "VulcanetteZombie" }
+addFlashlightHumanClass => { "name": "ZombieShotgunner" }
+addFlashlightHumanClass => { "name": "ZombieStormTrooper" }
+addFlashlightHumanClass => { "name": "ZombieTrogTrooper" }
+
+
+// Others
+addFlashlightOtherClass => { "name": "Balor" }
+addFlashlightOtherClass => { "name": "BalorBase" }
+addFlashlightOtherClass => { "name": "Behemoth" }
+addFlashlightOtherClass => { "name": "Bogus_Annihilator" }
+addFlashlightOtherClass => { "name": "HDAnnihilator" }
+addFlashlightOtherClass => { "name": "HDCyberGunner" }
+addFlashlightOtherClass => { "name": "HDHarbringer" }
+addFlashlightOtherClass => { "name": "HDREArachnotron" }
+addFlashlightOtherClass => { "name": "SatanRobo" }
+addFlashlightOtherClass => { "name": "Spiderdemon" }

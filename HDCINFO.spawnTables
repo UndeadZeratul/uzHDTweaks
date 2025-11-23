@@ -151,7 +151,7 @@ newSpawnTable => { "spawnName": "HDGoreBits", "tableName": "HDGoreBits" }
 addSpawnTableNestedEntry => { "tableName": "HDGoreBits", "name": "HDCasingBits", "weight": "32", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "SmallBloodPool", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "BarrelGibs", "weight": "8", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "HDGoreBits", "name": "SpentRadiCola", "weight": "6", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "SpentRadiCola", "weight": "6", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "ColonGibs", "weight": "4", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "Gibs", "weight": "4", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "GibMonster", "weight": "1", "persists": "false" }
@@ -1519,7 +1519,7 @@ addSpawnTableSingleEntry => { "tableName": "Meat5Replaces", "name": "HDMt5", "we
 
 // Meat 2 (Non-Solid)
 newSpawnTable => { "spawnName": "NonSolidMeat2", "tableName": "NonSolidMeat2Replaces" }
-addSpawnTableSingleEntry => { "tableName": "NonSolidMeat2Replaces", "name": "HDM2NS", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "NonSolidMeat2Replaces", "name": "HDMt2NS", "weight": "1", "persists": "true" }
 
 // Meat 3 (Non-Solid)
 newSpawnTable => { "spawnName": "NonSolidMeat3", "tableName": "NonSolidMeat3Replaces" }

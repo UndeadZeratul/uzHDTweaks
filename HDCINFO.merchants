@@ -127,7 +127,7 @@ newMerchantStoreItem => { "type": "ammo", "category": "$MERCH_CAT_7MM", "item": 
 newMerchantStoreItem => { "type": "ammo", "category": "$MERCH_CAT_GASTANK", "item": "HDGasTank", "storeAmount": "@Multiply", "storeAmount.valueA": "@Random", "storeAmount.valueA.min": "1", "storeAmount.valueA.max": "4", "storeAmount.valueB": "#hdm_stock_ammo", "icon": "AGASA0", "displayName": "$MERCH_TAG_GASTANK", "basePrice": "55", "flavorText": "$MERCH_FLAVOR_GASTANK" }
 newMerchantStoreItem => { "type": "ammo", "category": "$MERCH_CAT_10MM", "item": "Reusable10mmBox", "amount": "1", "icon": "BX10A0", "displayName": "$MERCH_TAG_10MM", "basePrice": "60", "flavorText": "$MERCH_FLAVOR_10MM" }
 newMerchantStoreItem => { "type": "ammo", "category": "$MERCH_CAT_50OMG", "item": "Reusable50OMGBox", "amount": "1", "icon": "OGBXA0", "displayName": "$MERCH_TAG_50OMG", "basePrice": "70", "flavorText": "$MERCH_FLAVOR_50OMG" }
-newMerchantStoreItem => { "type": "ammo", "category": "$MERCH_CAT_4MM_BOX", "item": "V_4mmBox", "amount": "1", "icon": "4BOXA0", "displayName": "$MERCH_TAG_4MM_BOX", "basePrice": "300", "flavorText": "$MERCH_FLAVOR_4MM" }
+newMerchantStoreItem => { "type": "ammo", "category": "$MERCH_CAT_4MM_BOX", "item": "Reusable4mmBox", "amount": "1", "icon": "4BOXA0", "displayName": "$MERCH_TAG_4MM_BOX", "basePrice": "320", "flavorText": "$MERCH_FLAVOR_4MM_BOX" }
 
 // Armor Merchant
 // newMerchantStoreItem => { "type": "armor", "category": "$MERCH_CAT_BARRICADE", "item": "HDDeployableBarricade", "icon": "DABRB0", "displayName": "$MERCH_TAG_BARRICADE", "basePrice": "700", "flavorText": "$MERCH_FLAVOR_BARRICADE" }

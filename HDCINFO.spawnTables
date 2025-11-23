@@ -725,7 +725,7 @@ addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "PB_Colt9m
 addSpawnTableNestedEntry => { "tableName": "ClipBoxReplaces", "name": "HDAB", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HD9mBoxPickup", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HD355BoxPickup", "weight": "1", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "V_4mmBox", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "Reusable4mmBox", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HD45ACPBoxPickup", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HD7mBoxPickup", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HD50OMGBoxPickup", "weight": "1", "persists": "true" }
@@ -2101,6 +2101,17 @@ addSpawnTableSingleEntry => { "tableName": "URL.DeadRiflemanGunsmithPouchSpawns"
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "URL.ReallyDeadRiflemanGunsmithPouchSpawns", "replaces": "false" }
 addSpawnTableSingleEntry => { "tableName": "URL.ReallyDeadRiflemanGunsmithPouchSpawns", "name": "WildGSP", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "WildGSP.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "WildGSP.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+
+
+// 4mm Bulk Box
+// ------------
+
+newSpawnTable => { "spawnName": "HDBackpack", "tableName": "4mmBox.BackpackSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "4mmBox.BackpackSpawns", "name": "Reusable4mmBoxEmpty", "chance": "51", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "HDAmBox", "tableName": "4mmBox.AmmoBoxSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "4mmBox.AmmoBoxSpawns", "name": "Reusable4mmBoxEmpty", "chance": "51", "replaces": "false" }
+
 
 // CRITTERS
 // ------------

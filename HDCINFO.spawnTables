@@ -1101,13 +1101,13 @@ addSpawnTableSingleEntry => { "tableName": "DemonReplaces", "name": "WretchedGho
 newSpawnTable => { "spawnName": "DoomImp", "tableName": "DoomImpReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "WitheredSpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "ZombieScientistSpawner", "weight": "0", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "Wither", "weight": "16", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "FighterImp", "weight": "8", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "MageImp", "weight": "4", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "ShockImp", "weight": "4", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "FlamerImp", "weight": "4", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "HealerImp", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "TeenDeviler", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "Wither", "weight": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "FighterImp", "weight": "16", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "MageImp", "weight": "8", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "ShockImp", "weight": "8", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "FlamerImp", "weight": "8", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "HealerImp", "weight": "4", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "TeenDeviler", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "HDHellSquire", "weight": "1", "persists": "true" }
 
 // Mancubus

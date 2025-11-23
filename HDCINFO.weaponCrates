@@ -131,6 +131,7 @@ addWeaponCrateBlacklist => { "name": "Savage99SniperRifle" }
 // addWeaponCrateWhitelist => { "name": "HDColt355" }
 // addWeaponCrateWhitelist => { "name": "HDCombatKnife" }
 // addWeaponCrateWhitelist => { "name": "HDCombatShotgun" }
+// addWeaponCrateWhitelist => { "name": "HDDEagle" }
 // addWeaponCrateWhitelist => { "name": "HDDelivererShotgun" }
 // addWeaponCrateWhitelist => { "name": "HDFenris" }
 // addWeaponCrateWhitelist => { "name": "HDFlamethrower" }

@@ -304,6 +304,7 @@ addAmmoUser => { "ammoName": "HDReapD20", "name": "RIReaper" }
 addAmmoUser => { "ammoName": "HDReapM8", "name": "RIReaper" }
 addAmmoUser => { "ammoName": "HDRevolverAmmo", "name": "HDBlackjack" }
 addAmmoUser => { "ammoName": "HDRevolverAmmo", "name": "HDColt355" }
+addAmmoUser => { "ammoName": "HDRevolverAmmo", "name": "HDDEagle" }
 addAmmoUser => { "ammoName": "HDRevolverAmmo", "name": "HDHelzing" }
 addAmmoUser => { "ammoName": "HDRevolverAmmo", "name": "HDNyx" }
 addAmmoUser => { "ammoName": "HDRevolverAmmo", "name": "HDScopedRevolver" }

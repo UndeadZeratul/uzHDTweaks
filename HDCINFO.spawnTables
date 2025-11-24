@@ -1252,7 +1252,7 @@ newSpawnTable => { "spawnName": "WitheredSummonSpawner", "tableName": "WitheredS
 addSpawnTableSingleEntry => { "tableName": "WitheredSummonSpawner", "name": "BrawlerJackboot", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "WitheredSummonSpawner", "name": "MeleeZombieSpawner", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "WitheredSummonSpawner", "name": "WitheredRandom", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "WitheredSummonSpawner", "name": "ZombieScientistRandom", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "WitheredSummonSpawner", "name": "ZombieScientistRandom", "persists": "true" }
 
 // Wolfenstein SS
 newSpawnTable => { "spawnName": "WolfensteinSS", "tableName": "WolfensteinSSReplaces" }

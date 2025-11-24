@@ -239,7 +239,7 @@ addSpawnTableSingleEntry => { "tableName": "HDHandgunRandomDrop", "name": "HDNCT
 
 // Altis O/U Shotgun
 newSpawnTable => { "spawnName": "WildAltis", "tableName": "WildAltis" }
-addSpawnTableSingleEntry => { "tableName": "WildAltis", "name": "WildAltisShells", "weight": "10", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "WildAltis", "name": "WildAltisShells", "weight": "9", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "WildAltis", "name": "WildAltisSlugs", "weight": "1", "persists": "true" }
 
 // Boss Rifle
@@ -260,7 +260,7 @@ newSpawnTable => { "spawnName": "Brontornis", "addOriginalThing": "true", "weigh
 addSpawnTableSingleEntry => { "tableName": "Brontornis", "name": "RIBrontoBuddy", "weight": "1", "persists": "true" }
 
 // ZM-66 Assault Rifle
-newSpawnTable => { "spawnName": "ZM66Random", "addOriginalThing": "true", "weight": "20", "persists": "true" }
+newSpawnTable => { "spawnName": "ZM66Random", "addOriginalThing": "true", "weight": "19", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ZM66Random", "name": "HackedZM66Random", "weight": "1", "persists": "true" }
 
 
@@ -609,8 +609,9 @@ newSpawnTable => { "spawnName": "SuperShotgun", "tableName": "SuperShotgunReplac
 // addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "Six12Random", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "ViperRandom", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "WiseauSpawn", "weight": "5.125", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "HD_M14K_Random", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "HD_M14K_Random", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "LiberatorRandom", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "HD_FNFAL", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "WyvernRandom", "weight": "1", "persists": "true" }
 
 
@@ -628,10 +629,8 @@ newSpawnTable => { "spawnName": "Cell", "tableName": "CellReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HDSHAKMag", "weight": "0.1016","persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "LadderLauncher", "weight": "0", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "ChargerRandom", "weight": "16", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HDBattery", "weight": "8", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HD7mMag", "weight": "4", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HD_FALMag", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HDZM94Mag", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HDBattery", "weight": "4", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HD7mMag", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "BrontornisRound", "weight": "1", "persists": "true" }
 
 // Cell Pack
@@ -646,6 +645,8 @@ newSpawnTable => { "spawnName": "CellPack", "tableName": "CellPackReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "YokaiSpawner", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "HDBattery", "weight": "4", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "HD7mMag", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "HD_FALMag", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "HDZM94Mag", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "BrontornisSpawner", "weight": "1", "persists": "true" }
 
 // Clip

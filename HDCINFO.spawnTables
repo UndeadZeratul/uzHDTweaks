@@ -1822,11 +1822,11 @@ addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name
 
 // Secrets
 newSpawnTable => { "spawnName": "SecretSectorSpawner", "tableName": "SecretSectorSpawnerReplaces" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDAB", "weight": "32", "chance": "16", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "LeetAttachment_Spawner", "weight": "16", "chance": "32", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDWeaponCrate", "weight": "8", "chance": "32", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "BackpackReplaces", "weight": "4", "chance": "64", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "CivvieDropper", "weight": "2", "chance": "128", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDAB", "weight": "10", "chance": "32", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "LeetAttachment_Spawner", "weight": "5", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDWeaponCrate", "weight": "3", "chance": "64", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "BackpackReplaces", "weight": "2", "chance": "64", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "CivvieDropper", "weight": "1", "chance": "128", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDOperator", "weight": "1", "chance": "256", "persists": "true" }
 
 // Brightest Sectors

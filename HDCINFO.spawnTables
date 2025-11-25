@@ -1803,68 +1803,68 @@ addSpawnTableNestedEntry => { "tableName": "DoctorLootSpawner", "name": "Berserk
 // ------------
 
 // Deathmatch Starts
-newSpawnTable => { "spawnName": "DeathMatchSpawner", "tableName": "DeathMatchSpawnerReplaces", "replaces": "true" }
+newSpawnTable => { "spawnName": "DeathMatchSpawner", "tableName": "DeathMatchSpawnerReplaces" }
 
 
 // Hurtfloors
-newSpawnTable => { "spawnName": "HurtfloorSectorSpawner", "tableName": "HurtfloorSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "SpicyAirSource", "weight": "5", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "BFGNecroShard", "weight": "1", "chance": "64", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "HurtfloorSectorSpawner", "tableName": "HurtfloorSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "SpicyAirSource", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "8", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "16", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "BFGNecroShard", "weight": "1", "chance": "32", "persists": "true" }
 
 // Outdoors
-newSpawnTable => { "spawnName": "OutdoorSectorSpawner", "tableName": "OutdoorSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "SpicyAirSink", "weight": "5", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "128", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "OutdoorSectorSpawner", "tableName": "OutdoorSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "SpicyAirSink", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "8", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "16", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "32", "persists": "true" }
 
 // Secrets
-newSpawnTable => { "spawnName": "SecretSectorSpawner", "tableName": "SecretSectorSpawnerReplaces", "replaces": "true" }
-// addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "LeetAttachment_Spawner", "weight": "5", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDAB", "weight": "5", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDWeaponCrate", "weight": "4", "chance": "96", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "BackpackReplaces", "weight": "3", "chance": "64", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "CivvieDropper", "weight": "2", "chance": "32", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDOperator", "weight": "1", "chance": "16", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "SecretSectorSpawner", "tableName": "SecretSectorSpawnerReplaces" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDAB", "weight": "32", "chance": "16", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "LeetAttachment_Spawner", "weight": "16", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDWeaponCrate", "weight": "8", "chance": "32", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "BackpackReplaces", "weight": "4", "chance": "64", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "CivvieDropper", "weight": "2", "chance": "128", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "SecretSectorSpawnerReplaces", "name": "HDOperator", "weight": "1", "chance": "256", "persists": "true" }
 
 // Brightest Sectors
-newSpawnTable => { "spawnName": "BrightestSectorSpawner", "tableName": "BrightestSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "BrightestSectorSpawnerReplaces", "name": "DecoPusher", "weight": "1", "chance": "128", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "BrightestSectorSpawner", "tableName": "BrightestSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "BrightestSectorSpawnerReplaces", "name": "DecoPusher", "weight": "1", "chance": "1", "persists": "true" }
 
 // Brighter Sectors
-newSpawnTable => { "spawnName": "BrighterSectorSpawner", "tableName": "BrighterSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "BrighterSectorSpawnerReplaces", "name": "DecoPusher", "weight": "1", "chance": "128", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "BrighterSectorSpawner", "tableName": "BrighterSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "BrighterSectorSpawnerReplaces", "name": "DecoPusher", "weight": "1", "chance": "1", "persists": "true" }
 
 // Bright Sectors
-newSpawnTable => { "spawnName": "BrightSectorSpawner", "tableName": "BrightSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "BrightSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "BrightSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "64", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "BrightSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "32", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "BrightSectorSpawner", "tableName": "BrightSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "BrightSectorSpawnerReplaces", "name": "DecoPusher", "weight": "4", "chance": "4", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "BrightSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "32", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "BrightSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "64", "persists": "true" }
 
 // Dark Sectors
-newSpawnTable => { "spawnName": "DarkSectorSpawner", "tableName": "DarkSectorSpawnerReplaces", "replaces": "true" }
-// addSpawnTableNestedEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "SpectreReplaces", "weight": "1", "chance": "16", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "DecoPusher", "weight": "256", "chance": "64", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "128", "chance": "32", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "UaS_Glowstick", "weight": "128", "chance": "32", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "64", "chance": "16", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "UaS_Flare", "weight": "64", "chance": "16", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "DarkSectorSpawner", "tableName": "DarkSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "DecoPusher", "weight": "2048", "chance": "4", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "1024", "chance": "8", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "512", "chance": "16", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "UaS_Glowstick", "weight": "256", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "UaS_Flare", "weight": "128", "chance": "64", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "DarkSectorSpawnerReplaces", "name": "SpectreReplaces", "weight": "1", "chance": "8", "persists": "true" }
 
 // Darker Sectors
-newSpawnTable => { "spawnName": "DarkerSectorSpawner", "tableName": "DarkerSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "DecoPusher", "weight": "256", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "UaS_Glowstick", "weight": "128", "chance": "64", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "UaS_Flare", "weight": "64", "chance": "32", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "SpectreReplaces", "weight": "1", "chance": "16", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "DarkerSectorSpawner", "tableName": "DarkerSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "DecoPusher", "weight": "512", "chance": "16", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "UaS_Glowstick", "weight": "256", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "UaS_Flare", "weight": "128", "chance": "64", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "DarkerSectorSpawnerReplaces", "name": "SpectreReplaces", "weight": "1", "chance": "16", "persists": "true" }
 
 // Darkest Sectors
-newSpawnTable => { "spawnName": "DarkestSectorSpawner", "tableName": "DarkestSectorSpawnerReplaces", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "DecoPusher", "weight": "256", "chance": "192", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "UaS_Glowstick", "weight": "128", "chance": "128", "persists": "true", "replaces": "true" }
-addSpawnTableSingleEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "UaS_Flare", "weight": "64", "chance": "64", "persists": "true", "replaces": "true" }
-addSpawnTableNestedEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "SpectreReplaces", "weight": "1", "chance": "32", "persists": "true", "replaces": "true" }
+newSpawnTable => { "spawnName": "DarkestSectorSpawner", "tableName": "DarkestSectorSpawnerReplaces" }
+addSpawnTableSingleEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "DecoPusher", "weight": "256", "chance": "16", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "UaS_Glowstick", "weight": "128", "chance": "64", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "UaS_Flare", "weight": "64", "chance": "128", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name": "SpectreReplaces", "weight": "1", "chance": "32", "persists": "true" }
 
 
 // ------------------------------------------------------------

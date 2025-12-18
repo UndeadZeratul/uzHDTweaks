@@ -1156,6 +1156,7 @@ addSpawnTableSingleEntry => { "tableName": "FormerCaptainReplaces", "name": "Bog
 // Hell Knight
 newSpawnTable => { "spawnName": "HellKnight", "tableName": "HellKnightReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "HellKnightReplaces", "name": "Bogus_Annihilator", "weight": "0", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "GreelyShortgunner", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HellKnightReplaces", "name": "PB_DozerZombie", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HellKnightReplaces", "name": "HDHellSquire", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HellKnightReplaces", "name": "Knave", "weight": "2", "persists": "true" }
@@ -1208,9 +1209,9 @@ newSpawnTable => { "spawnName": "ShotgunGuy", "tableName": "ShotgunGuyReplaces" 
 addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "DoomedJackboot", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "CombatJackboot", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "Jackboot", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "GreelyShortgunner", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "JackAndJillboot", "weight": "1", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "AltisShotgunner", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "JackAndJillboot", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "AltisShotgunner", "weight": "2", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "GreelyShortgunner", "weight": "1", "persists": "true" }
 
 // Spectre
 newSpawnTable => { "spawnName": "Spectre", "tableName": "SpectreReplaces" }

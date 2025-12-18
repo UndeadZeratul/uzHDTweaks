@@ -1097,8 +1097,8 @@ addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "Undea
 addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "Bogus_FormerCaptain", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "UndeadRifleman", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "HDPartyGoon", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "EnemyHERP", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "EnemyDERP", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "EnemyHERP", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "FrontiersmanZombie", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunGuyReplaces", "name": "HDZombieShockTrooperSpawn", "weight": "1", "persists": "true" }
 
@@ -1197,6 +1197,7 @@ newSpawnTable => { "spawnName": "ShotgunGuy", "tableName": "ShotgunGuyReplaces" 
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "DoggySpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "EnemyDERP", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "EnemyHERP", "weight": "1", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "GreelyShortgunner", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "HDSemiLibShockTrooper", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "MeleeZombieSpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_ColtSMGZombie", "weight": "0", "persists": "true" }
@@ -1212,7 +1213,6 @@ addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "Combat
 addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "Jackboot", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "JackAndJillboot", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "AltisShotgunner", "weight": "2", "persists": "true" }
-// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "GreelyShortgunner", "weight": "1", "persists": "true" }
 
 // Spectre
 newSpawnTable => { "spawnName": "Spectre", "tableName": "SpectreReplaces" }

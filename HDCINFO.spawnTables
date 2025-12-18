@@ -1111,7 +1111,7 @@ addSpawnTableSingleEntry => { "tableName": "CyberdemonReplaces", "name": "SatanR
 addSpawnTableSingleEntry => { "tableName": "CyberdemonReplaces", "name": "HDCyberGunner", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CyberdemonReplaces", "name": "Behemoth", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CyberdemonReplaces", "name": "HDAnnihilator", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "CyberdemonReplaces", "name": "HDHarbringer", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CyberdemonReplaces", "name": "HDHarbinger", "weight": "1", "persists": "true" }
 
 // Demon
 newSpawnTable => { "spawnName": "Demon", "tableName": "DemonReplaces" }

@@ -957,8 +957,9 @@ addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "BFGNe
 
 // Lite-Amp Goggles
 newSpawnTable => { "spawnName": "Infrared", "tableName": "InfraredReplaces" }
-addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildFlareGun", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildMetalFlareGun", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildFlareGun", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildMetalFlareGun", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "DarkDoomZ_Flashlight", "chance": "2", "replaces": "false" }
 addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "PortableLiteAmp", "weight": "1", "persists": "true" }
 
 // Invulnerability Sphere

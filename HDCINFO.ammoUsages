@@ -449,6 +449,7 @@ addAmmoUser => { "ammoName": "ReusableShellBox", "name": "DoomHunter" }
 addAmmoUser => { "ammoName": "ReusableShellBox", "name": "FireBlooper" }
 addAmmoUser => { "ammoName": "ReusableShellBox", "name": "HDAltis" }
 addAmmoUser => { "ammoName": "ReusableShellBox", "name": "HDBarracuda" }
+addAmmoUser => { "ammoName": "ReusableShellBox", "name": "HD_CAWSGUN" }
 addAmmoUser => { "ammoName": "ReusableShellBox", "name": "HDCombatShotgun" }
 addAmmoUser => { "ammoName": "ReusableShellBox", "name": "HDGreely" }
 addAmmoUser => { "ammoName": "ReusableShellBox", "name": "HDSix12" }

@@ -93,3 +93,4 @@ addSpicyThingBlacklist => { "name": "VisualOperator_Updater" }
 addSpicyThingBlacklist => { "name": "VisualStormtrooper_Updater" }
 addSpicyThingBlacklist => { "name": "WallChunk" }
 addSpicyThingBlacklist => { "name": "Weapon" }
+addSpicyThingBlacklist => { "name": "ZS_Thing" }

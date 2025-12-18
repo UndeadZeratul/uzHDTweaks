@@ -1873,6 +1873,21 @@ addSpawnTableNestedEntry => { "tableName": "DarkestSectorSpawnerReplaces", "name
 // SPAWN ALONGSIDE TABLES
 // ------------------------------------------------------------
 
+// DDZ FLASHLIGHT
+// ------------
+
+newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "DDZ.DeadRiflemanFlashlightSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanFlareSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "DDZ.ReallyDeadRiflemanFlashlightSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanFlareSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "DDZ.DeadRiflemanFlashlightSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanGlowstickSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "DDZ.ReallyDeadRiflemanFlashlightSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "replaces": "false" }
+
 // UGLY AS SIN
 // ------------
 

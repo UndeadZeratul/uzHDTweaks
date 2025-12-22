@@ -1350,9 +1350,10 @@ addSpawnTableSingleEntry => { "tableName": "DeadShotgunGuyReplaces", "name": "De
 newSpawnTable => { "spawnName": "DeadZombieMan", "tableName": "DeadZombieManReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "HDOperator", "weight": "0" }
 // addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "WitheredSpawner", "weight": "0", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "DeadZombieStormtrooper", "weight": "5", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "DeadZombieManReplaces", "name": "Dead_HumanVictim", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "PistolZombiemanCorpse", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "RevolverZombiemanCorpse", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "RevolverZombiemanCorpse", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DeadZombieManReplaces", "name": "DeadZombieStormtrooper", "weight": "1", "persists": "true" }
 
 // Dead Zombie Scientist
 newSpawnTable => { "spawnName": "Dead_HumanVictim" }

@@ -1345,6 +1345,7 @@ newSpawnTable => { "spawnName": "DeadShotgunGuy", "tableName": "DeadShotgunGuyRe
 // addSpawnTableSingleEntry => { "tableName": "DeadShotgunGuyReplaces", "name": "SawnoffZombiemanCorpse", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "DeadShotgunGuyReplaces", "name": "WitheredSpawner", "weight": "0", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "DeadShotgunGuyReplaces", "name": "DeadZombieShotgunner", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DeadShotgunGuyReplaces", "name": "DeadZombieStormtrooper", "weight": "1", "persists": "true" }
 
 // Dead Zombie Man
 newSpawnTable => { "spawnName": "DeadZombieMan", "tableName": "DeadZombieManReplaces" }

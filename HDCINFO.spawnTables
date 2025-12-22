@@ -1464,7 +1464,9 @@ addSpawnTableSingleEntry => { "tableName": "ColumnReplaces", "name": "HDColumn",
 
 // Corpse on a Stick
 newSpawnTable => { "spawnName": "DeadStick", "tableName": "DeadStickReplaces" }
-addSpawnTableSingleEntry => { "tableName": "DeadStickReplaces", "name": "HDDeadStick", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DeadStickReplaces", "name": "HDDeadStick", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DeadStickReplaces", "name": "ImpaledFemaleScientist", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DeadStickReplaces", "name": "ImpaledMaleScientist", "weight": "1", "persists": "true" }
 
 // Evil Eye
 newSpawnTable => { "spawnName": "EvilEye", "tableName": "EvilEyeReplaces" }

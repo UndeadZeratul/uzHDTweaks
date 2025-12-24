@@ -865,6 +865,7 @@ addSpawnTableSingleEntry => { "tableName": "ShellBoxReplaces", "name": "Explosiv
 
 // All-Map
 newSpawnTable => { "spawnName": "AllMap", "tableName": "AllMapReplaces" }
+addSpawnTableSingleEntry => { "tableName": "AllMapReplaces", "name": "UaS_Automap", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "AllMapReplaces", "name": "HDMap", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "AllMapReplaces", "name": "HDSecretFinder", "weight": "1", "persists": "true" }
 
@@ -903,8 +904,9 @@ newSpawnTable => { "spawnName": "Berserk", "tableName": "BerserkReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "HDJetpack", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "HDScanner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "HEATAmmo", "weight": "1", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "PortableSuperStimpack", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "PortableBerserkPack", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "UaS_EmptyZerkpack", "weight": "3", "persists": "false" }
+addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "PortableSuperStimpack", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "BerserkReplaces", "name": "PortableBerserkPack", "weight": "1", "persists": "true" }
 
 // Blue Armor
 newSpawnTable => { "spawnName": "BlueArmor", "tableName": "BlueArmorReplaces" }
@@ -958,9 +960,10 @@ addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "BFGNe
 
 // Lite-Amp Goggles
 newSpawnTable => { "spawnName": "Infrared", "tableName": "InfraredReplaces" }
-addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildFlareGun", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildMetalFlareGun", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "DarkDoomZ_Flashlight", "chance": "2", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildFlareGun", "weight": "10", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildMetalFlareGun", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "DarkDoomZ_Flashlight", "chance": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "UaS_BrokenLiteAmp", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "PortableLiteAmp", "weight": "1", "persists": "true" }
 
 // Invulnerability Sphere
@@ -973,10 +976,10 @@ newSpawnTable => { "spawnName": "Medikit", "tableName": "MedikitReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "HDFirstAidSpray", "weight": "10", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "HDHealingPotion", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "PortableStimpack", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "UaS_EmptyMedikit", "weight": "10", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "UaS_TraumaKit", "weight": "10", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "HDFieldMedicKit", "weight": "5", "chance": "128", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "UaS_EmptyMedikit", "weight": "10", "chance": "64", "persists": "false" }
+addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "HDFieldMedicKit", "weight": "5", "chance": "96", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "HDScanner", "weight": "3", "chance": "128", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "UaS_TraumaKit", "weight": "2", "chance": "128", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "MedikitReplaces", "name": "PortableMedikit", "weight": "1", "chance": "196", "persists": "true" }
 
 // Mega Sphere
@@ -1001,11 +1004,11 @@ newSpawnTable => { "spawnName": "Stimpack", "tableName": "StimpackReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "HDScanner", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "PortableMedikit", "weight": "2", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "PortableSuperStimpack", "weight": "1", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "SpentStim", "chance": "10", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "UaS_EmptyStimpack", "chance": "10", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "RadiColaSpawn", "chance": "5", "chance": "128", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "SpentStim", "chance": "10", "chance": "96", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "UaS_EmptyStimpack", "chance": "10", "chance": "64", "persists": "false" }
+addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "RadiColaSpawn", "chance": "5", "chance": "96", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "HDFirstAidSpray", "weight": "3", "chance": "128", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "SecondBlood", "weight": "2", "chance": "196", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "SecondBlood", "weight": "2", "chance": "128", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "PortableStimpack", "weight": "1", "chance": "196", "persists": "true" }
 
 // KEYS
@@ -2016,6 +2019,25 @@ addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanStabilizerSpawns", "
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "UaS.ReallyDeadRiflemanStabilizerSpawns", "replaces": "false" }
 addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanStabilizerSpawns", "name": "UaS_GyroStabilizer", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_GyroStabilizer.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_GyroStabilizer.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
+
+// Scarcity-style Back-spawns
+newSpawnTable => { "spawnName": "UaS_EmptyStimpack", "tableName": "UaS.EmptyStimpackSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyStimpackSpawns", "name": "SpentStim", "chance": "128", "persists": "true", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyStimpackSpawns", "name": "UaS_StimInjector", "chance": "64", "persists": "true", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "UaS_EmptyZerkpack", "tableName": "UaS.EmptyZerkpackSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyZerkpackSpawns", "name": "SpentZerk", "chance": "128", "persists": "true", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyZerkpackSpawns", "name": "UaS_ZerkInjector", "chance": "64", "persists": "true", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "UaS_EmptyMedikit", "tableName": "UaS.EmptyMedikitStimpackSpawns", "persists": "true", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyMedikitStimpackSpawns", "name": "UaS_EmptyStimpack", "weight": "2", "Chance": "128", "persists": "true", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyMedikitStimpackSpawns", "name": "PortableStimpack", "weight": "1", "Chance": "64", "persists": "true", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "UaS_EmptyMedikit", "tableName": "UaS.EmptyMedikitSecondBloodSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyMedikitSecondBloodSpawns", "name": "SecondBlood", "Chance": "128", "persists": "true", "replaces": "false" }
+
+newSpawnTable => { "spawnName": "UaS_EmptyMedikit", "tableName": "UaS.EmptyMedikit2FASpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.EmptyMedikit2FASpawns", "name": "HDMedikitter", "Chance": "32", "persists": "true", "replaces": "false" }
 
 
 // OFFWORLD WARES

@@ -1904,10 +1904,10 @@ addSpawnTableNestedEntry => { "tableName": "UZ.ReallyDeadRiflemanBackpackSpawns"
 // ------------
 
 newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "DDZ.DeadRiflemanFlashlightSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanFlashlightSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "DDZ.DeadRiflemanFlashlightSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "persists": "true", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "DDZ.ReallyDeadRiflemanFlashlightSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanFlashlightSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "DDZ.ReallyDeadRiflemanFlashlightSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "persists": "true", "replaces": "false" }
 
 // UGLY AS SIN
 // ------------

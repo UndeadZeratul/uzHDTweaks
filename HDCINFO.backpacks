@@ -206,6 +206,7 @@ addBPSpawnPoolBlacklist => { "name": "VirSabreSheath" }
 addBPSpawnPoolBlacklist => { "name": "WAN_20mmGrenadeAmmo" }
 addBPSpawnPoolBlacklist => { "name": "Wan_ThuRKTAmmo" }
 addBPSpawnPoolBlacklist => { "name": "Wan_TortRKTAmmo" }
+addBPSpawnPoolBlacklist => { "name": "Wan_MA76C" }
 
 // addBPSpawnPoolWhitelist => { "name": "AcePrideCacoPlushDoll" }
 // addBPSpawnPoolWhitelist => { "name": "AgenderPrideCacoPlushDoll" }

@@ -950,9 +950,10 @@ newSpawnTable => { "spawnName": "HealthBonus", "tableName": "HealthBonusReplaces
 // addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "PortableStimpack", "weight": "1", "chance": "48", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "ZombieScientistSpawner", "weight": "0", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "DecoPusher", "weight": "32", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "VIRMealkit", "weight": "5", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "HDCO2GrenadeAmmo", "weight": "3", "chance": "96", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "HDHealingPotion", "weight": "2", "chance": "96", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "HDCO2GrenadeAmmo", "weight": "5", "chance": "64", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "VIRMealkit", "weight": "3", "chance": "128", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "SecondBlood", "weight": "3", "chance": "128", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "HDHealingPotion", "weight": "2", "chance": "196", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "BFGNecroShard", "weight": "1", "chance": "96", "persists": "true" }
 
 // Lite-Amp Goggles

@@ -95,9 +95,9 @@ addSpawnTableSingleEntry => { "tableName": "HDAB", "name": "HDAmBox", "weight": 
 
 // Casing Bits
 newSpawnTable => { "spawnName": "HDCasingBits", "tableName": "HDCasingBits" }
-// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "Dead_HumanVictim", "weight": "0", "persists": "false" }
-// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "EvilSprite", "weight": "0", "persists": "false" }
-// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "GibMonster", "weight": "0", "persists": "false" }
+// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "Dead_HumanVictim", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "EvilSprite", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "GibMonster", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "HD9mMag50Empty", "weight": "0.96", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "HDBallAmmo", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "HDCoyoteMagEmpty", "weight": "0.8", "persists": "true" }
@@ -139,8 +139,8 @@ newSpawnTable => { "spawnName": "HDCasingBits", "tableName": "HDCasingBits" }
 // addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "ReusableNDMBoxEmpty", "weight": "8", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "Savage300Brass", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "TokarevBrass", "weight": "0", "persists": "true" }
-// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "WitheredSpawner", "weight": "0", "persists": "false" }
-// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "ZombieScientistSpawner", "weight": "0", "persists": "false" }
+// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "WitheredSpawner", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "ZombieScientistSpawner", "weight": "0", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "HDSpent9mm", "weight": "24", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "HDSpent355", "weight": "9", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "HDSpent45ACP", "weight": "9", "persists": "true" }
@@ -174,9 +174,9 @@ addSpawnTableSingleEntry => { "tableName": "HDCasingBits", "name": "Reusable50OM
 
 // Gore Bits
 newSpawnTable => { "spawnName": "HDGoreBits", "tableName": "HDGoreBits" }
-// addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "EvilSprite", "weight": "1", "persists": "false" }
-// addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "WitheredSpawner", "weight": "1", "persists": "false" }
-// addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "ZombieScientistSpawner", "weight": "1", "persists": "false" }
+// addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "EvilSprite", "weight": "1", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "WitheredSpawner", "weight": "1", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "ZombieScientistSpawner", "weight": "1", "persists": "true" }
 // addSpawnTableNestedEntry => { "tableName": "HDGoreBits", "name": "HDCasingBits", "weight": "32", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "SmallBloodPool", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "HDGoreBits", "name": "BarrelGibs", "weight": "8", "persists": "true" }
@@ -397,7 +397,7 @@ newSpawnTable => { "spawnName": "Chainsaw", "tableName": "ChainsawReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDPlasmaPistol", "weight": "5.125", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDPS20", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDSoulCube", "weight": "0", "persists": "true" }
-// addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDStunGun", "weight": "0", "persists": "false" }
+// addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDStunGun", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDZorcher", "weight": "3.84", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "MG13GrenadeP", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "NCTRandom", "weight": "0", "persists": "true" }
@@ -1913,20 +1913,20 @@ addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanFlashlightSpaw
 // addSpawnTableSingleEntry => { "tableName": "UaS.AmmoBoxAmmoPouchSpawns", "name": "UaS_WildAmmoPouch", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "UaS.DeadRiflemanAmmoPouchSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanAmmoPouchSpawns", "name": "UaS_WildAmmoPouch", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanAmmoPouchSpawns", "name": "UaS_WildAmmoPouch", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "UaS.ReallyDeadRiflemanAmmoPouchSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanAmmoPouchSpawns", "name": "UaS_WildAmmoPouch", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanAmmoPouchSpawns", "name": "UaS_WildAmmoPouch", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_WildAmmoPouch.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
 
 // LLM
 // newSpawnTable => { "spawnName": "HDAmBox", "tableName": "UaS.AmmoBoxLLMSpawns", "replaces": "false" }
 // addSpawnTableSingleEntry => { "tableName": "UaS.AmmoBoxLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "HDBackpack", "tableName": "UaS.BackpackLLMSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.BackpackLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.BackpackLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "persists": "true", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "PortableLiteAmp", "tableName": "UaS.InfraredLLMSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.InfraredLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.InfraredLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "persists": "true", "replaces": "false" }
 
 // Flare
 // newSpawnTable => { "spawnName": "HDAmBox", "tableName": "UaS.AmmoBoxFlareSpawns", "replaces": "false" }
@@ -1942,10 +1942,10 @@ addSpawnTableSingleEntry => { "tableName": "UaS.InfraredLLMSpawns", "name": "UaS
 // addSpawnTableSingleEntry => { "tableName": "UaS.StimpackFlareSpawns", "name": "UaS_Flare", "chance": "51", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "UaS.DeadRiflemanFlareSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanFlareSpawns", "name": "UaS_Flare", "chance": "51", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanFlareSpawns", "name": "UaS_Flare", "chance": "51", "persists": "true", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "UaS.ReallyDeadRiflemanFlareSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanFlareSpawns", "name": "UaS_Flare", "chance": "51", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanFlareSpawns", "name": "UaS_Flare", "chance": "51", "persists": "true", "replaces": "false" }
 
 // Glowstick
 // newSpawnTable => { "spawnName": "HDAmBox", "tableName": "UaS.AmmoBoxGlowstickSpawns", "replaces": "false" }
@@ -1961,10 +1961,10 @@ addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanFlareSpawns", 
 // addSpawnTableSingleEntry => { "tableName": "UaS.StimpackGlowstickSpawns", "name": "UaS_Glowstick", "chance": "51", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "UaS.DeadRiflemanGlowstickSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanGlowstickSpawns", "name": "UaS_Glowstick", "chance": "51", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanGlowstickSpawns", "name": "UaS_Glowstick", "chance": "51", "persists": "true", "replaces": "false" }
 
-newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawns", "name": "UaS_Glowstick", "chance": "51", "replaces": "false" }
+newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawns", "persists": "true", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawns", "name": "UaS_Glowstick", "chance": "51", "persists": "true", "replaces": "false" }
 
 // Trauma Kit
 // newSpawnTable => { "spawnName": "HDAmBox", "tableName": "UaS.AmmoBoxTraumaKitSpawns", "replaces": "false" }
@@ -2011,10 +2011,10 @@ addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawn
 // addSpawnTableNestedEntry => { "tableName": "UaS.BossRifleStabilizerSpawns", "name": "StabilizerRandom", "chance": "13", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "UaS.DeadRiflemanStabilizerSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanStabilizerSpawns", "name": "UaS_GyroStabilizer", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_GyroStabilizer.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_GyroStabilizer.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.DeadRiflemanStabilizerSpawns", "name": "UaS_GyroStabilizer", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_GyroStabilizer.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_GyroStabilizer.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "UaS.ReallyDeadRiflemanStabilizerSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanStabilizerSpawns", "name": "UaS_GyroStabilizer", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_GyroStabilizer.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_GyroStabilizer.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanStabilizerSpawns", "name": "UaS_GyroStabilizer", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "UaS_GyroStabilizer.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "UaS_GyroStabilizer.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
 
 
 // OFFWORLD WARES
@@ -2075,10 +2075,10 @@ addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanStabilizerSpaw
 // addSpawnTableSingleEntry => { "tableName": "Slogstin.AmmoBoxLunchboxSpawns", "name": "WildLCHBX", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "WildLCHBX.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "WildLCHBX.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "Slogstin.DeadRiflemanLunchboxSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "Slogstin.DeadRiflemanLunchboxSpawns", "name": "WildLCHBX", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "WildLCHBX.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "WildLCHBX.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "Slogstin.DeadRiflemanLunchboxSpawns", "name": "WildLCHBX", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "WildLCHBX.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "WildLCHBX.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "Slogstin.ReallyDeadRiflemanLunchboxSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "Slogstin.ReallyDeadRiflemanLunchboxSpawns", "name": "WildLCHBX", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "WildLCHBX.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "WildLCHBX.spawn.success", "chance.min": "0", "chance.max": "255", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "Slogstin.ReallyDeadRiflemanLunchboxSpawns", "name": "WildLCHBX", "chance": "@Clamp", "chance.value": "@Subtract", "chance.value.valueA": "@Add", "chance.value.valueA.valueA": "13", "chance.value.valueA.valueB": "@Multiply", "chance.value.valueA.valueB.valueA": "13", "chance.value.valueA.valueB.valueB": "@MapStat", "chance.value.valueA.valueB.valueB.key": "WildLCHBX.spawn.fail", "chance.value.valueB": "@Multiply", "chance.value.valueB.valueA": "128", "chance.value.valueB.valueB": "@MapStat", "chance.value.valueB.valueB.key": "WildLCHBX.spawn.success", "chance.min": "0", "chance.max": "255", "persists": "true", "replaces": "false" }
 
 
 // RADTECH WEAPONS

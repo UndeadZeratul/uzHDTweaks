@@ -1804,7 +1804,7 @@ addSpawnTableSingleEntry => { "tableName": "CivvieDropper", "name": "CivvieDoc2f
 
 // Civilian Drop Loot Tables
 newSpawnTable => { "spawnName": "CivvieLootSpawner", "tableName": "CivvieLootSpawner" }
-addSpawnTableNestedEntry => { "tableName": "CivvieLootSpawner", "name": "ClipMagReplaces", "weight": "20", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "CivvieLootSpawner", "name": "ClipReplaces", "weight": "20", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "CivvieLootSpawner", "name": "ShellReplaces", "weight": "15", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "CivvieLootSpawner", "name": "CellReplaces", "weight": "12", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "CivvieLootSpawner", "name": "ShellBoxReplaces", "weight": "10", "persists": "true" }

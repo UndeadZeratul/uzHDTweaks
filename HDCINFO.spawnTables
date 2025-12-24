@@ -769,8 +769,8 @@ newSpawnTable => { "spawnName": "RocketAmmo", "tableName": "RocketAmmoReplaces" 
 // addSpawnTableSingleEntry => { "tableName": "RocketAmmoReplaces", "name": "HDMBRMagHeavy", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketAmmoReplaces", "name": "HDNapalmTank", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketAmmoReplaces", "name": "HDGasTank", "weight": "0", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "RocketAmmoReplaces", "name": "FragGrenadeSingle", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "RocketAmmoReplaces", "name": "HDRocketAmmo", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "RocketAmmoReplaces", "name": "HDRocketAmmo", "weight": "2", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "RocketAmmoReplaces", "name": "FragGrenadeSingle", "weight": "1", "persists": "true" }
 
 // Rocket Box
 newSpawnTable => { "spawnName": "RocketBox", "tableName": "RocketBoxReplaces" }
@@ -781,18 +781,18 @@ newSpawnTable => { "spawnName": "RocketBox", "tableName": "RocketBoxReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HD9mBoxPickup", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDAT4_WEP", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDCGM25_WEP", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDCO2GrenadePickup", "weight": "5", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDGasGrenadePickup", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDIEDPack", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDWilliePeteGrenadePickup", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "LadderLauncher", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "PortableLadder", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "WAN_20mmGrenadeBox", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "WAN_ThuRKTAmmo", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "WAN_TortRktAmmo", "weight": "0", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "RocketBigPickup", "weight": "10", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDCO2GrenadePickup", "weight": "5", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "RocketBoxReplaces", "name": "FragGrenadePack", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDGasTank", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDIEDPack", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "RocketBigPickup", "weight": "5", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "RocketBoxReplaces", "name": "FragGrenadePack", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "RocketBoxReplaces", "name": "HDGasTank", "weight": "1", "persists": "true" }
 
 // Shotgun Shell
 newSpawnTable => { "spawnName": "Shell", "tableName": "ShellReplaces" }
@@ -920,11 +920,11 @@ addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "OldPsgR
 // Blur Sphere
 newSpawnTable => { "spawnName": "BlurSphere", "tableName": "BlurSphereReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "GarrisonArmour", "weight": "2", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDCO2GrenadePickup", "weight": "5", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDFragGrenades", "weight": "6", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDHealingPotion", "weight": "2", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDJetpack", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "SquadSummoner", "weight": "14", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDCO2GrenadePickup", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDBlurSphere", "weight": "1", "persists": "true" }
 
 // Green Armor

@@ -1193,37 +1193,55 @@ addSpawnTableSingleEntry => { "tableName": "PainElementalReplaces", "name": "Wre
 
 // Revenant
 newSpawnTable => { "spawnName": "Revenant", "tableName": "RevenantReplaces" }
+addSpawnTableSingleEntry => { "tableName": "RevenantReplaces", "name": "MageImp", "weight": "4", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "RevenantReplaces", "name": "Boner", "weight": "1", "persists": "true" }
+
+// Shotgun Zombie Man
+newSpawnTable => { "spawnName": "UZ.ShotgunZombieMan", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "SawnoffZombieman", "weight": "16", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "CombatJackboot", "weight": "10", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "AltisShotgunner", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "DoomedJackboot", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "JackAndJillboot", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "Jackboot", "weight": "1", "persists": "true" }
+
+// ZM Zombie Man
+newSpawnTable => { "spawnName": "UZ.ZMZombieMan", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ZMZombieMan", "name": "ZombieAutoStormtrooper", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ZMZombieMan", "name": "ZombieTrogTrooper", "weight": "1", "persists": "true" }
 
 // Shotgun Guy
 newSpawnTable => { "spawnName": "ShotgunGuy", "tableName": "ShotgunGuyReplaces" }
+// addSpawnTableNestedEntry => { "tableName": "ShotgunGuyReplaces", "name": "UndeadHomeboy", "weight": "5", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "AltisShotgunner", "weight": "2", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "BrawlerJackboot", "weight": "24", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "CombatJackboot", "weight": "5", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "DoggySpawner", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "DoomedJackboot", "weight": "4", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "EnemyDERP", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "EnemyHERP", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "GreelyShortgunner", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "HDSemiLibShockTrooper", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "JackAndJillboot", "weight": "2", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "Jackboot", "weight": "3", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "MeleeZombieSpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_ColtSMGZombie", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_ColtSMGZombie", "weight": "2", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_UndeadHomeslice", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_UndeadHomeslice", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "RiotCopZombie", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "SawnoffZombieman", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "TenMilHomeboy", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "UMPZombie", "weight": "0", "persists": "true" }
-// addSpawnTableNestedEntry => { "tableName": "ShotgunGuyReplaces", "name": "UndeadHomeboy", "weight": "5", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "WitheredSpawner", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieAutoStormtrooper", "weight": "5", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieScientistSpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieSemiStormtrooper", "weight": "32", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "DoomedJackboot", "weight": "10", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieTrogTrooper", "weight": "10", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "CombatJackboot", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieAutoStormtrooper", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "Jackboot", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieSMGStormtrooper", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "AltisShotgunner", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "JackAndJillboot", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_ColtSMGZombie", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "PB_UndeadHomeslice", "weight": "1", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieSMGStormtrooper", "weight": "3", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "ShotgunGuyReplaces", "name": "ZombieTrogTrooper", "weight": "10", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ShotgunGuyReplaces", "name": "UZ.ShotgunZombieMan", "weight": "3", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ShotgunGuyReplaces", "name": "UZ.ZMZombieMan", "weight": "2", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ShotgunGuyReplaces", "name": "UZ.SMGZombieMan", "weight": "1", "persists": "true" }
 
 // Spectre
 newSpawnTable => { "spawnName": "Spectre", "tableName": "SpectreReplaces" }
@@ -1253,8 +1271,22 @@ addSpawnTableSingleEntry => { "tableName": "StenZombieSpawner", "name": "StenZom
 // Undead Homeboy
 newSpawnTable => { "spawnName": "UndeadHomeboy", "addOriginalThing": "true", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "UndeadHomeboy", "name": "HDRE.PistolZombieSpawns", "weight": "10", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "UndeadHomeboy", "name": "HDRE.RevolverZombieSpawns", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "UndeadHomeboy", "name": "USPHomeboy", "weight": "1", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "UndeadHomeboy", "name": "HDRE.RevolverZombieSpawns", "weight": "4", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UndeadHomeboy", "name": "USPHomeboy", "weight": "2", "persists": "true" }
+
+// Melee Zombie Man
+newSpawnTable => { "spawnName": "UZ.MeleeZombieMan", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "UZ.MeleeZombieMan", "name": "MeleeZombieSpawner", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.MeleeZombieMan", "name": "BrawlerJackboot", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.MeleeZombieMan", "name": "Withered", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.MeleeZombieMan", "name": "ZombieScientistRandom", "weight": "1", "persists": "true" }
+
+
+// SMG-Style Zombie Man
+newSpawnTable => { "spawnName": "UZ.SMGZombieMan", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.SMGZombieMan", "name": "ZombieSMGStormtrooper", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.SMGZombieMan", "name": "PB_ColtSMGZombie", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.SMGZombieMan", "name": "PB_UndeadHomeslice", "weight": "1", "persists": "true" }
 
 // Withered
 newSpawnTable => { "spawnName": "WitheredRandom", "tableName": "WitheredRandom" }
@@ -1281,22 +1313,17 @@ newSpawnTable => { "spawnName": "ZombieMan", "tableName": "ZombieManReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "DoggySpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "EnemyHERP", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "HDAurorchZombieman", "weight": "0", "persists": "true" }
-// addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "StenZombieSpawner", "weight": "0", "persists": "true" }
+// addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "StenZombieSpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "TenMilHomeboy", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "TenMilRifleman", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "UMPZombie", "weight": "1", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "USPHomeboy", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieAutoStormtrooper", "weight": "32", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieTrogTrooper", "weight": "16", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "MeleeZombieSpawner", "weight": "64", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "Withered", "weight": "32", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "BrawlerJackboot", "weight": "24", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieScientistRandom", "weight": "16", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieSemiStormtrooper", "weight": "10", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "UndeadHomeboy", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieSMGStormtrooper", "weight": "3", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "PB_ColtSMGZombie", "weight": "2", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "PB_UndeadHomeslice", "weight": "1", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "UZ.MeleeZombieMan", "weight": "10", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ZombieManReplaces", "name": "ZombieSemiStormtrooper", "weight": "3", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "UndeadHomeboy", "weight": "2", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ZombieManReplaces", "name": "UZ.SMGZombieMan", "weight": "1", "persists": "true" }
 
 // Zombie Scientist
 newSpawnTable => { "spawnName": "ZombieScientistRandom" }

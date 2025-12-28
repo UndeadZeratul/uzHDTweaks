@@ -58,17 +58,17 @@ newMerchantSkin => { "name": "Kecleon", "tag": "$TAG_KECLEON_MERCHANT", "classna
 // MERCHANT STORE TYPES
 // ------------------------------------------------------------
 
-newMerchantStore => { "type": "ammo", "chance": "#hdm_chance_ammo", "skins": "#hdm_skin_ammo" }
-newMerchantStore => { "type": "armor", "chance": "#hdm_chance_item", "skins": "#hdm_skin_item" }
-newMerchantStore => { "type": "artifact", "chance": "0.666", "skins": "Succubus" }
-newMerchantStore => { "type": "craftingMaterial", "chance": "#hdm_chance_item", "skins": "Daina3" }
-newMerchantStore => { "type": "explosive", "chance": "#hdm_chance_ammo", "skins": "Morshu,ResidentEvil" }
-newMerchantStore => { "type": "item", "chance": "#hdm_chance_item", "skins": "#hdm_skin_item" }
-newMerchantStore => { "type": "mag", "chance": "#hdm_chance_mag", "skins": "#hdm_skin_mag" }
-newMerchantStore => { "type": "medical", "chance": "#hdm_chance_item", "skins": "Daina4" }
-newMerchantStore => { "type": "mongoose", "chance": "#hdm_chance_item", "skins": "Daina2" }
-newMerchantStore => { "type": "robot", "chance": "#hdm_chance_item", "skins": "Nari1" }
-newMerchantStore => { "type": "weapon", "chance": "#hdm_chance_weapon", "skins": "hobo,ResidentEvil" }
+newMerchantStore => { "type": "medical", "weight": "64", "chance": "#hdm_chance_item", "skins": "Daina4" }
+newMerchantStore => { "type": "armor", "weight": "48", "chance": "#hdm_chance_item", "skins": "#hdm_skin_item" }
+newMerchantStore => { "type": "item", "weight": "32", "chance": "#hdm_chance_item", "skins": "#hdm_skin_item" }
+newMerchantStore => { "type": "craftingMaterial", "weight": "32", "chance": "#hdm_chance_item", "skins": "Daina3" }
+newMerchantStore => { "type": "ammo", "weight": "24", "chance": "#hdm_chance_ammo", "skins": "#hdm_skin_ammo" }
+newMerchantStore => { "type": "mag", "weight": "20", "chance": "#hdm_chance_mag", "skins": "#hdm_skin_mag" }
+newMerchantStore => { "type": "explosive", "weight": "16", "chance": "#hdm_chance_ammo", "skins": "Morshu,ResidentEvil" }
+newMerchantStore => { "type": "weapon", "weight": "16", "chance": "#hdm_chance_weapon", "skins": "hobo,ResidentEvil" }
+newMerchantStore => { "type": "robot", "weight": "10", "chance": "#hdm_chance_item", "skins": "Nari1" }
+newMerchantStore => { "type": "mongoose", "weight": "2", "chance": "#hdm_chance_item", "skins": "Daina2" }
+newMerchantStore => { "type": "artifact", "weight": "1", "chance": "0.666", "skins": "Succubus" }
 
 
 // ------------------------------------------------------------

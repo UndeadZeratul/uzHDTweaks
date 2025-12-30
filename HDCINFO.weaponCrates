@@ -11,20 +11,8 @@ addWeaponCrateBlacklist => { "name": "HDefib" }
 addWeaponCrateBlacklist => { "name": "HDShitbostDummy" }
 addWeaponCrateBlacklist => { "name": "HDPlushDummy" }
 addWeaponCrateBlacklist => { "name": "CacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "LesbianPrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "GayPrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "BisexualCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "TransPrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "AcePrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "AroCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "AgenderPrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "EnbyPrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "PanPrideCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "UkraineCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "TwoEyedCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "RenegadeCacoPlushDoll" }
-addWeaponCrateBlacklist => { "name": "FeloniousBolus" }
 addWeaponCrateBlacklist => { "name": "HDPocketRadio" }
+addWeaponCrateBlacklist => { "name": "UaS_Consumable" }
 
 // Vanilla Weapons
 // addWeaponCrateWhitelist => { "name": "BFG9K" }

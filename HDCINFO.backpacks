@@ -195,6 +195,7 @@ addBPSpawnPoolBlacklist => { "name": "Savage300Ammo" }
 addBPSpawnPoolBlacklist => { "name": "Savage300Brass" }
 addBPSpawnPoolBlacklist => { "name": "Savage99SniperRifle" }
 addBPSpawnPoolBlacklist => { "name": "SavageAutoReloader" }
+addBPSpawnPoolBlacklist => { "name": "StingerTubeRound" }
 addBPSpawnPoolBlacklist => { "name": "TenMilAutoReloader" }
 addBPSpawnPoolBlacklist => { "name": "TenMilBrass" }
 addBPSpawnPoolBlacklist => { "name": "ThirtyAughtSixAmmo" }

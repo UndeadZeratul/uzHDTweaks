@@ -1954,11 +1954,11 @@ addSpawnTableSingleEntry => { "tableName": "UaS.ReallyDeadRiflemanAmmoPouchSpawn
 // newSpawnTable => { "spawnName": "HDAmBox", "tableName": "UaS.AmmoBoxLLMSpawns", "replaces": "false" }
 // addSpawnTableSingleEntry => { "tableName": "UaS.AmmoBoxLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "replaces": "false" }
 
-newSpawnTable => { "spawnName": "HDBackpack", "tableName": "UaS.BackpackLLMSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.BackpackLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "persists": "true", "replaces": "false" }
+// newSpawnTable => { "spawnName": "HDBackpack", "tableName": "UaS.BackpackLLMSpawns", "replaces": "false" }
+// addSpawnTableSingleEntry => { "tableName": "UaS.BackpackLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "replaces": "false" }
 
 newSpawnTable => { "spawnName": "PortableLiteAmp", "tableName": "UaS.InfraredLLMSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "UaS.InfraredLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "persists": "true", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "UaS.InfraredLLMSpawns", "name": "UaS_LaserLightModule", "chance": "85", "replaces": "false" }
 
 // Flare
 // newSpawnTable => { "spawnName": "HDAmBox", "tableName": "UaS.AmmoBoxFlareSpawns", "replaces": "false" }

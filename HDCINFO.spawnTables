@@ -963,7 +963,7 @@ addSpawnTableSingleEntry => { "tableName": "HealthBonusReplaces", "name": "BFGNe
 newSpawnTable => { "spawnName": "Infrared", "tableName": "InfraredReplaces" }
 addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildFlareGun", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "WildMetalFlareGun", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "DarkDoomZ_Flashlight", "chance": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "HDFlashlight", "chance": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "UaS_BrokenLiteAmp", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "InfraredReplaces", "name": "PortableLiteAmp", "weight": "1", "persists": "true" }
 
@@ -1928,14 +1928,14 @@ addSpawnTableNestedEntry => { "tableName": "UZ.DeadRiflemanBackpackSpawns", "nam
 newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "DDZ.ReallyDeadRiflemanBackpackSpawns", "replaces": "false" }
 addSpawnTableNestedEntry => { "tableName": "UZ.ReallyDeadRiflemanBackpackSpawns", "name": "BackpackReplaces", "chance": "64", "persists": "true", "replaces": "false" }
 
-// DDZ FLASHLIGHT
+// HDEST FLASHLIGHT
 // ------------
 
-newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "DDZ.DeadRiflemanFlashlightSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "DDZ.DeadRiflemanFlashlightSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "persists": "true", "replaces": "false" }
+newSpawnTable => { "spawnName": "DeadRifleman", "tableName": "HDFL.DeadRiflemanFlashlightSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "HDFL.DeadRiflemanFlashlightSpawns", "name": "HDFlashlight", "chance": "26", "persists": "true", "replaces": "false" }
 
-newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "DDZ.ReallyDeadRiflemanFlashlightSpawns", "replaces": "false" }
-addSpawnTableSingleEntry => { "tableName": "DDZ.ReallyDeadRiflemanFlashlightSpawns", "name": "DarkDoomZ_Flashlight", "chance": "26", "persists": "true", "replaces": "false" }
+newSpawnTable => { "spawnName": "ReallyDeadRifleman", "tableName": "HDFL.ReallyDeadRiflemanFlashlightSpawns", "replaces": "false" }
+addSpawnTableSingleEntry => { "tableName": "HDFL.ReallyDeadRiflemanFlashlightSpawns", "name": "HDFlashlight", "chance": "26", "persists": "true", "replaces": "false" }
 
 // UGLY AS SIN
 // ------------

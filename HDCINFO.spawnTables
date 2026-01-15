@@ -1863,7 +1863,7 @@ addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "na
 
 // Outdoors
 newSpawnTable => { "spawnName": "OutdoorSectorSpawner", "tableName": "OutdoorSectorSpawnerReplaces" }
-addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "SpicyAirSink", "weight": "5", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "SpicyAirSink", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "8", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "16", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "32", "persists": "true" }

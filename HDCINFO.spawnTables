@@ -1206,7 +1206,7 @@ addSpawnTableSingleEntry => { "tableName": "RevenantReplaces", "name": "MageImp"
 addSpawnTableSingleEntry => { "tableName": "RevenantReplaces", "name": "Boner", "weight": "1", "persists": "true" }
 
 // Shotgun Zombie Man
-newSpawnTable => { "spawnName": "UZ.ShotgunZombieMan", "persists": "true" }
+newSpawnTable => { "spawnName": "UZ.ShotgunZombieMan" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "SawnoffZombieman", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "CombatJackboot", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "AltisShotgunner", "weight": "5", "persists": "true" }
@@ -1215,7 +1215,7 @@ addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "JackA
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "Jackboot", "weight": "1", "persists": "true" }
 
 // ZM Zombie Man
-newSpawnTable => { "spawnName": "UZ.ZMZombieMan", "persists": "true" }
+newSpawnTable => { "spawnName": "UZ.ZMZombieMan" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ZMZombieMan", "name": "ZombieAutoStormtrooper", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ZMZombieMan", "name": "ZombieTrogTrooper", "weight": "1", "persists": "true" }
 

@@ -410,7 +410,7 @@ addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDFireEx
 addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDFireAxe", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDSledgehammer", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "Lumberjack", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "SabreDrop", "weight": "5", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "ChainsawReplaces", "name": "Slogstin.SabreDrop", "weight": "5", "persists": "true" }
 
 // Fists
 newSpawnTable => { "spawnName": "Fist", "tableName": "FistReplaces" }
@@ -2202,6 +2202,13 @@ addSpawnTableSingleEntry => { "tableName": "UaS.EmptyMedikit2FASpawns", "name": 
 // newSpawnTable => { "spawnName": "ThunderBuster", "tableName": "XTB.ThunderBusterSpawns", "replaces": "false" }
 // addSpawnTableSingleEntry => { "tableName": "XTB.ThunderBusterSpawns", "name": "CrossPulseModificationKit", "chance": "#xtk_tb_spawn_bias", "persists": "true", "replaces": "false" }
 
+
+// CAVALRY SABRE
+// ------------
+
+newSpawnTable => { "spawnName": "Slogstin.SabreDrop" }
+addSpawnTableSingleEntry => { "tableName": "Slogstin.SabreDrop", "name": "SabreSheathDrop", "weight": "1", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "Slogstin.SabreDrop", "name": "VirSabre", "weight": "1", "persists": "true" }
 
 // LUNCHBOXES
 // ------------

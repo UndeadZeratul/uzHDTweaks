@@ -1433,20 +1433,20 @@ addSpawnTableSingleEntry => { "tableName": "UZ.DeadShotgunZombieMan", "name": "D
 
 // Dead SMG Zombie Man
 newSpawnTable => { "spawnName": "UZ.DeadSMGZombieMan" }
-addSpawnTableSingleEntry => { "tableName": "UZ.DeadSMGZombieMan", "name": "DeadSMGZombieStormtrooper", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.DeadSMGZombieMan", "name": "DeadZombieSMGStormtrooper", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.DeadSMGZombieMan", "name": "DeadHLARTrooper", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.DeadSMGZombieMan", "name": "DeadColtSMGZombie", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.DeadSMGZombieMan", "name": "DeadHomeslice", "weight": "1", "persists": "true" }
 
 // Dead Rifle (Auto) Zombie Man
 newSpawnTable => { "spawnName": "UZ.DeadRifleAutoZombieMan" }
-addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleAutoZombieMan", "name": "DeadAutoZombieStormtrooper", "weight": "2", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleAutoZombieMan", "name": "DeadZombieAutoStormtrooper", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleAutoZombieMan", "name": "DeadZombieTrogTrooper", "weight": "1", "persists": "true" }
 
 // Dead Rifle (Semi) Zombie Man
 newSpawnTable => { "spawnName": "UZ.DeadRifleSemiZombieMan" }
 addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleSemiZombieMan", "name": "DeadBPXTrooper", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleSemiZombieMan", "name": "DeadSemiZombieStormtrooper", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleSemiZombieMan", "name": "DeadZombieSemiStormtrooper", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.DeadRifleSemiZombieMan", "name": "DeadDMRTrooper", "weight": "2", "persists": "true" }
 
 // Dead Zombie Man

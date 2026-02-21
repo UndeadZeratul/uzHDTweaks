@@ -1149,7 +1149,8 @@ newSpawnTable => { "spawnName": "DoomImp", "tableName": "DoomImpReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "MageImp", "weight": "8", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "WitheredSpawner", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "ZombieScientistSpawner", "weight": "0", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "Wither", "weight": "32", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "Wither", "weight": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "WitheredRandom", "weight": "32", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "FighterImp", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "DoomImpReplaces", "name": "ShockImp", "weight": "8", "persists": "true" }
 
@@ -1208,10 +1209,10 @@ addSpawnTableSingleEntry => { "tableName": "RevenantReplaces", "name": "Boner", 
 
 // Shotgun Zombie Man
 newSpawnTable => { "spawnName": "UZ.ShotgunZombieMan" }
-addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "SawnoffZombieman", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "CombatJackboot", "weight": "10", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "AltisShotgunner", "weight": "5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "DoomedJackboot", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "SawnoffZombieman", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "JackAndJillboot", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "UZ.ShotgunZombieMan", "name": "Jackboot", "weight": "1", "persists": "true" }
 
@@ -1271,12 +1272,13 @@ addSpawnTableSingleEntry => { "tableName": "StenZombieSpawner", "name": "StenZom
 addSpawnTableSingleEntry => { "tableName": "StenZombieSpawner", "name": "StenZombie_Red", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "StenZombieSpawner", "name": "StenZombie_Brown", "weight": "1", "persists": "true" }
 
-// Undead Homeboy
+// Handgun Zombie Man
 newSpawnTable => { "spawnName": "UndeadHomeboy", "tableName": "UZ.PistolZombieMan", "addOriginalThing": "true" }
 // addSpawnTableSingleEntry => { "tableName": "UZ.PistolZombieMan", "name": "HDAurorchZombieman", "weight": "0", "persists": "true" }
 addSpawnTableNestedEntry => { "tableName": "UZ.PistolZombieMan", "name": "HDRE.PistolZombieSpawns", "weight": "10", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "UZ.PistolZombieMan", "name": "HDRE.RevolverZombieSpawns", "weight": "4", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "UZ.PistolZombieMan", "name": "USPHomeboy", "weight": "2", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "UZ.PistolZombieMan", "name": "HDRE.RevolverZombieSpawns", "weight": "5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.PistolZombieMan", "name": "SawnoffZombieman", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "UZ.PistolZombieMan", "name": "USPHomeboy", "weight": "1", "persists": "true" }
 
 // Melee Zombie Man
 newSpawnTable => { "spawnName": "UZ.MeleeZombieMan" }
@@ -1942,17 +1944,17 @@ newSpawnTable => { "spawnName": "DeathMatchSpawner", "tableName": "DeathMatchSpa
 
 // Hurtfloors
 newSpawnTable => { "spawnName": "HurtfloorSectorSpawner", "tableName": "HurtfloorSectorSpawnerReplaces" }
-addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "SpicyAirSource", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "8", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "16", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "BFGNecroShard", "weight": "1", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "SpicyAirSource", "weight": "32", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "5", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "2", "chance": "64", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "HurtfloorSectorSpawnerReplaces", "name": "BFGNecroShard", "weight": "1", "chance": "128", "persists": "true" }
 
 // Outdoors
 newSpawnTable => { "spawnName": "OutdoorSectorSpawner", "tableName": "OutdoorSectorSpawnerReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "SpicyAirSink", "weight": "5", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "3", "chance": "8", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "2", "chance": "16", "persists": "true" }
-addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "32", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDGoreBits", "weight": "5", "chance": "32", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "DecoPusher", "weight": "2", "chance": "64", "persists": "true" }
+addSpawnTableNestedEntry => { "tableName": "OutdoorSectorSpawnerReplaces", "name": "HDCasingBits", "weight": "1", "chance": "128", "persists": "true" }
 
 // Secrets
 newSpawnTable => { "spawnName": "SecretSectorSpawner", "tableName": "SecretSectorSpawnerReplaces" }

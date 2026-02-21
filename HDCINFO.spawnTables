@@ -382,6 +382,7 @@ newSpawnTable => { "spawnName": "Chaingun", "tableName": "ChaingunReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "PDFourRandom", "weight": "42", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "UMPRandom", "weight": "1.5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "HDVera", "weight": "20", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "UZRipper", "weight": "18", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "Vulcanette", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "HERPUsable", "weight": "12", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "MinervaRandom", "weight": "10", "persists": "true" }

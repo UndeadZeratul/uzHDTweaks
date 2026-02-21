@@ -166,3 +166,4 @@ addWeaponCrateBlacklist => { "name": "Savage99SniperRifle" }
 // addWeaponCrateWhitelist => { "name": "UZLandMineAmmo" }
 // addWeaponCrateWhitelist => { "name": "UZLaserTripBomb" }
 // addWeaponCrateWhitelist => { "name": "UZPipeBombAmmo" }
+// addWeaponCrateWhitelist => { "name": "UZRipper" }

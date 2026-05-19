@@ -895,7 +895,7 @@ addSpawnTableSingleEntry => { "tableName": "ArmorBonusReplaces", "name": "BFGNec
 newSpawnTable => { "spawnName": "Backpack", "tableName": "BackpackReplaces" }
 addSpawnTableSingleEntry => { "tableName": "BackpackReplaces", "name": "UaS_WildAssaultPack", "weight": "16", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BackpackReplaces", "name": "WildHalfPack", "weight": "8", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "BackpackReplaces", "name": "WildBackpack", "weight": "4", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "BackpackReplaces", "name": "HDCoreWildBackpack", "weight": "4", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BackpackReplaces", "name": "WildGearBox", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BackpackReplaces", "name": "DSDInterface", "weight": "1", "persists": "true" }
 
@@ -1012,6 +1012,10 @@ addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "RadiCola
 addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "HDFirstAidSpray", "weight": "3", "chance": "128", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "SecondBlood", "weight": "2", "chance": "128", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "StimpackReplaces", "name": "PortableStimpack", "weight": "1", "chance": "196", "persists": "true" }
+
+// Wild Backpack -> HDCoreLib Wild Backpacks
+newSpawnTable => { "spawnName": "WildBackpack" }
+addSpawnTableSingleEntry => { "tableName": "WildBackpack", "name": "HDCoreWildBackpack", "weight": "1", "persists": "true" }
 
 // KEYS
 // ------------

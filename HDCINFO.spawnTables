@@ -917,7 +917,7 @@ newSpawnTable => { "spawnName": "BlueArmor", "tableName": "BlueArmorReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "HDRiotShieldItem", "weight": "0.25", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "PsgRandom", "weight": "1", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "BattleArmour", "weight": "10", "persists": "true" }
-addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "HEVArmour", "weight": "3", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "HDHEVArmour", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "HDCorporateArmour", "weight": "2", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "BlueArmorReplaces", "name": "OldPsgRandom", "weight": "1", "persists": "true" }
 
@@ -935,7 +935,7 @@ addSpawnTableSingleEntry => { "tableName": "BlurSphereReplaces", "name": "HDBlur
 newSpawnTable => { "spawnName": "GreenArmor", "tableName": "GreenArmorReplaces" }
 // addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "Despicyto", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "HDCorporateArmour", "weight": "0.046875", "persists": "true" }
-// addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "HEVArmour", "weight": "0", "persists": "true" }
+// addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "HDHEVArmour", "weight": "0", "persists": "true" }
 // addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "PB_ArmorPlate_MultipleDrops", "weight": "0.076923", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "HDLeatherArmour", "weight": "3", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "GreenArmorReplaces", "name": "WAN_SneakingSuit", "weight": "2", "persists": "true" }

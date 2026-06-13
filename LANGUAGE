@@ -1,0 +1,31 @@
+[en default]
+
+SKILL_VERYEASY          = "\c[White] Homely";
+SKILL_CONFIRM_VERYEASY  = "Baby enemy spawns. Press Y or N";
+
+SKILL_EASY              = "\c[White] Ugly";
+SKILL_CONFIRM_EASY      = "Easy enemy spawns. Press Y or N";
+
+SKILL_NORMAL            = "\c[White] Grotesque";
+SKILL_CONFIRM_NORMAL    = "Normal enemy spawns. Press Y or N";
+
+SKILL_HARD              = "\c[White] Hideous";
+SKILL_CONFIRM_HARD      = "Hard enemy spawns. Press Y or N";
+
+SKILL_VERYHARD          = "\c[White] b e a u t i f u l";
+SKILL_CONFIRM_VERYHARD  = "Nightmare enemy spawns. Press Y or N";
+
+SKILL_SPOOKY            = "\c[Gray] Spooky";
+SKILL_CONFIRM_SPOOKY    = "Extra mode: Baby enemy spawns. Monsters are twice as fast. Press Y or N";
+
+SKILL_SCARY             = "\c[Ice] Scary";
+SKILL_CONFIRM_SCARY     = "Extra mode: Easy enemy spawns. Monsters are twice as fast. Press Y or N";
+
+SKILL_HORRIFIC          = "\c[DarkGray] Horrific";
+SKILL_CONFIRM_HORRIFIC  = "Extra mode: Normal enemy spawns. Monsters are twice as fast. Press Y or N";
+
+SKILL_GRIMDARK          = "\c[Black] Grimdark";
+SKILL_CONFIRM_GRIMDARK  = "Extra mode: Hard enemy spawns. Monsters are twice as fast. Press Y or N";
+
+SKILL_NIGHTMARE         = "\c[DarkRed] n i g h t m a r e";
+SKILL_CONFIRM_NIGHTMARE = "Extra mode: Nightmare enemy spawns. Monsters are twice as fast. Press Y or N";

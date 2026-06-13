@@ -1,0 +1,84 @@
+clearskills
+
+// VANILLA HDEST DIFFICULTIES
+
+skill veryeasy {
+    EasyBossBrain
+    SpawnFilter   = Baby
+    Name          = "$SKILL_VERYEASY"
+    MustConfirm   = "$SKILL_CONFIRM_VERYEASY"
+    Key           = "1"
+}
+
+skill easy {
+    EasyBossBrain
+    SpawnFilter   = Easy
+    Name          = "$SKILL_EASY"
+    MustConfirm   = "$SKILL_CONFIRM_EASY"
+    Key           = "2"
+}
+
+skill normal {
+    DefaultSkill
+    SpawnFilter   = Normal
+    Name          = "$SKILL_NORMAL"
+    MustConfirm   = "$SKILL_CONFIRM_NORMAL"
+    Key           = "3"
+}
+
+skill hard {
+    SpawnFilter   = Hard
+    Name          = "$SKILL_HARD"
+    MustConfirm   = "$SKILL_CONFIRM_HARD"
+    Key           = "4"
+}
+
+skill veryhard {
+    SpawnFilter   = Nightmare
+    Name          = "$SKILL_VERYHARD"
+    MustConfirm   = "$SKILL_CONFIRM_VERYHARD"
+    Key           = "5"
+}
+
+// "SPOOKY" DIFFICULTIES
+
+skill spooky {
+    FastMonsters
+    SpawnFilter   = baby
+    name          = "$SKILL_SPOOKY"
+    MustConfirm   = "$SKILL_CONFIRM_SPOOKY"
+    Key           = "6"
+}
+
+skill scary {
+    FastMonsters
+    SpawnFilter   = easy
+    name          = "$SKILL_SCARY"
+    MustConfirm   = "$SKILL_CONFIRM_SCARY"
+    Key           = "7"
+}
+
+skill horrific {
+    FastMonsters
+    SpawnFilter   = normal
+    name          = "$SKILL_HORRIFIC"
+    MustConfirm   = "$SKILL_CONFIRM_HORRIFIC"
+    Key           = "8"
+}
+
+skill grimdark {
+    FastMonsters
+    SpawnFilter   = hard
+    name          = "$SKILL_GRIMDARK"
+    MustConfirm   = "$SKILL_CONFIRM_GRIMDARK"
+    Key           = "9"
+}
+
+skill nightmare {
+    FastMonsters
+    DisableCheats
+    SpawnFilter   = Nightmare
+    Name          = "$SKILL_NIGHTMARE"
+    MustConfirm   = "$SKILL_CONFIRM_NIGHTMARE"
+    Key           = "0"
+}

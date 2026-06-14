@@ -1,0 +1,2515 @@
+{
+  "clean": true,
+  "safeMaps": [
+    "LOTSAGUN",
+    "RANGE",
+    "RANGE2",
+    "TEST"
+  ],
+  "nonBountyBlacklist": [
+    "HDBarrel",
+    "HDPlayerCorpse",
+    "HDPlayerPawn",
+    "Trite"
+  ],
+  "bountyTargets": [
+    {
+      "name": "Babuinito",
+      "value": 100,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Hideous_ZombieScientist",
+      "value": 100,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Wither",
+      "value": 100,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "ZombieDog",
+      "value": 100,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "SpecBabuinito",
+      "value": 150,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "SpecZombieDog",
+      "value": 150,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "AltisShotgunner",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Babuin",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "BPXTrooper",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "CabalCultist",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "DMRTrooper",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "GreelyShortgunner",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "UMPZombie",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "USPHomeboy",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "ZombieTrogTrooper",
+      "value": 200,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "CabalFanatic",
+      "value": 250,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDHumanoid",
+      "value": 250,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDREZombieman",
+      "value": 250,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "FighterImp",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDREImp",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "PB_ColtSMGZombie",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "PB_SpecOpsZombie",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "PB_UndeadHomeslice",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "TenMilRifleman",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "WingedBab",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "VeraZombie",
+      "value": 300,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Bogus_FormerCaptain",
+      "value": 350,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "CabalAcolyte",
+      "value": 350,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "NinjaPirate",
+      "value": 350,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "PB_ACRZombie",
+      "value": 350,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Bogus_NightmareDemon",
+      "value": 400,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDHellSquire",
+      "value": 450,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "PB_DozerZombie",
+      "value": 450,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "CabalZealot",
+      "value": 500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "FrontiersmanZombie",
+      "value": 500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDLiberatorZombie",
+      "value": 500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Mancubus",
+      "value": 500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Boner",
+      "value": 550,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "FlyZapper",
+      "value": 600,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Knave",
+      "value": 600,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "PeeDeeFourtyTrooper",
+      "value": 600,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Necromancer",
+      "value": 666,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Bogus_AstralCacodemon",
+      "value": 700,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDREArachnotron",
+      "value": 700,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Balor",
+      "value": 700,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Baron",
+      "value": 800,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Bogus_Annihilator",
+      "value": 1000,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Behemoth",
+      "value": 2500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDCybergunner",
+      "value": 2500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "SatanRobo",
+      "value": 2500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "Spiderdemon",
+      "value": 2500,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDAnnihilator",
+      "value": 3000,
+      "effect": "BountyEffectLegenDoom"
+    },
+    {
+      "name": "HDHarbringer",
+      "value": 3500,
+      "effect": "BountyEffectLegenDoom"
+    }
+  ],
+  "currencies": [
+    {
+      "name": "MercenaryBucks",
+      "icon": "MBCKA0"
+    }
+  ],
+  "skins": [
+    {
+      "name": "Hobo",
+      "tag": "$TAG_HOBO_MERCHANT",
+      "sprite": "HOBM"
+    },
+    {
+      "name": "ResidentEvil",
+      "tag": "$TAG_RE4_MERCHANT",
+      "sprite": "RESM",
+      "openState": "Buying.ResidentEvil",
+      "openSound": "ResidentEvil/Buying",
+      "closeState": "SpawnLoop",
+      "closeSound": "ResidentEvil/GoAway"
+    },
+    {
+      "name": "Succubus",
+      "tag": "$TAG_SUCCUBUS_MERCHANT",
+      "sprite": "MSUC",
+      "openState": "OpenMenu.Succubus",
+      "openSound": "Succubus/Buying",
+      "closeState": "GoAway.Succubus",
+      "closeSound": "Succubus/GoAway"
+    },
+    {
+      "name": "Morshu",
+      "tag": "$TAG_MORSHU_MERCHANT",
+      "sprite": "MSHU",
+      "openState": "OpenMenu.Morshu",
+      "openSound": "Morshu/Buying",
+      "closeState": "GoAway.Morshu",
+      "closeSound": "Morshu/GoAway"
+    },
+    {
+      "name": "WanderingTrader",
+      "tag": "$TAG_WANDERING_TRADER",
+      "sprite": "WTRD",
+      "openState": "Buying.WanderingTrader",
+      "openSound": "WanderingTrader/Buying",
+      "closeState": "SpawnLoop",
+      "closeSound": "WanderingTrader/GoAway"
+    },
+    {
+      "name": "Daina1",
+      "tag": "$TAG_DAINA_MERCHANT",
+      "sprite": "DAI1",
+      "openState": "OpenMenu.Daina.Default",
+      "openSound": "Daina/Default/Buying",
+      "closeState": "GoAway.Daina.Default",
+      "closeSound": "Daina/Default/GoAway"
+    },
+    {
+      "name": "Daina2",
+      "tag": "$TAG_DAINA_MERCHANT",
+      "sprite": "DAI2",
+      "openState": "OpenMenu.Daina.Bunny",
+      "openSound": "Daina/Bunny/Buying",
+      "closeState": "GoAway.Daina.Bunny",
+      "closeSound": "Daina/Bunny/GoAway"
+    },
+    {
+      "name": "Daina3",
+      "tag": "$TAG_DAINA_MERCHANT",
+      "sprite": "DAI3",
+      "openState": "OpenMenu.Daina.Maid",
+      "openSound": "Daina/Maid/Buying",
+      "closeState": "GoAway.Daina.Maid",
+      "closeSound": "Daina/Maid/GoAway"
+    },
+    {
+      "name": "Daina4",
+      "tag": "$TAG_DAINA_MERCHANT",
+      "sprite": "DAI4",
+      "openState": "OpenMenu.Daina.Labcoat",
+      "openSound": "Daina/Labcoat/Buying",
+      "closeState": "GoAway.Daina.Succubus",
+      "closeSound": "Daina/Labcoat/GoAway"
+    },
+    {
+      "name": "Nari1",
+      "tag": "$TAG_NARI_MERCHANT",
+      "sprite": "NAR1",
+      "openState": "OpenMenu.Nari.Succubus",
+      "openSound": "Nari/Succubus/Buying",
+      "closeState": "GoAway.Nari.Succubus",
+      "closeSound": "Nari/Succubus/GoAway"
+    },
+    {
+      "name": "Spamton",
+      "tag": "$TAG_SPAMTON_MERCHANT",
+      "sprite": "SPAM",
+      "openState": "Buying.ResidentEvil",
+      "openSound": "Spamton/Buying",
+      "closeState": "SpawnLoop",
+      "closeSound": "Spamton/GoAway"
+    },
+    {
+      "name": "Kecleon",
+      "tag": "$TAG_KECLEON_MERCHANT",
+      "classname": "HDMerchantKecleonSkin"
+    },
+    {
+      "name": "GreenDrone",
+      "tag": "$TAG_DRONE_MERCHANT",
+      "classname": "HDMerchantGreenDroneSkin"
+    },
+    {
+      "name": "RedDrone",
+      "tag": "$TAG_DRONE_MERCHANT",
+      "classname": "HDMerchantRedDroneSkin"
+    },
+    {
+      "name": "BlueDrone",
+      "tag": "$TAG_DRONE_MERCHANT",
+      "classname": "HDMerchantBlueDroneSkin"
+    },
+    {
+      "name": "YellowDrone",
+      "tag": "$TAG_DRONE_MERCHANT",
+      "classname": "HDMerchantYellowDroneSkin"
+    }
+  ],
+  "stores": [
+    {
+      "type": "medical",
+      "weight": 64,
+      "chance": "#hdm_chance_item",
+      "skins": "Daina4",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_ITEM_MEDICAL",
+          "items": [
+            {
+              "item": "SecondBlood",
+              "icon": "PBLDA0",
+              "displayName": "$MERCH_TAG_BLOODBAG",
+              "chance": 1,
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_BLOODBAG"
+            },
+            {
+              "item": "HDFieldMedicKit",
+              "icon": "FMKTA0",
+              "displayName": "$MERCH_TAG_FIELDMEDICKIT",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_FIELDMEDICKIT"
+            },
+            {
+              "item": "HDFirstAidSpray",
+              "icon": "FAIDA0",
+              "displayName": "$MERCH_TAG_FIRSTAIDSPRAY",
+              "chance": 1,
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_FIRSTAIDSPRAY"
+            },
+            {
+              "item": "PortableStimpack",
+              "icon": "STIMA0",
+              "displayName": "$MERCH_TAG_STIMPACK",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_STIMPACK"
+            },
+            {
+              "item": "HDScanner",
+              "icon": "MEDIZ0",
+              "displayName": "$MERCH_TAG_MEDICALSCANNER",
+              "basePrice": 15,
+              "flavorText": "$MERCH_FLAVOR_MEDICALSCANNER"
+            },
+            {
+              "item": "PortableSuperStimpack",
+              "icon": "SSTMA0",
+              "displayName": "$MERCH_TAG_SUPERSTIM",
+              "basePrice": 35,
+              "flavorText": "$MERCH_FLAVOR_SUPERSTIM"
+            },
+            {
+              "item": "PortableMedikit",
+              "icon": "MEDIA0",
+              "displayName": "$MERCH_TAG_MEDIKIT",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_MEDIKIT"
+            },
+            {
+              "item": "PortableBerserkPack",
+              "icon": "PSTRA0",
+              "displayName": "$MERCH_TAG_BERSERK",
+              "basePrice": 70,
+              "flavorText": "$MERCH_FLAVOR_BERSERK"
+            },
+            {
+              "item": "portablecleanser",
+              "icon": "CLENA0",
+              "displayName": "$MERCH_TAG_PORTABLECLEANSER",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_PORTABLECLEANSER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "armor",
+      "weight": 48,
+      "chance": "#hdm_chance_item",
+      "skins": "GreenDrone",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_ARMOR_HEAD",
+          "items": [
+            {
+              "item": "HudHelmet",
+              "icon": "HELMA0",
+              "displayName": "$MERCH_TAG_HHELMET",
+              "basePrice": 72,
+              "chance": 0.5,
+              "flavorText": "$MERCH_FLAVOR_HHELMET"
+            },
+            {
+              "item": "Despicyto",
+              "icon": "DSPGA0",
+              "displayName": "$MERCH_TAG_GASMASK",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_GASMASK"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ARMOR_BODY",
+          "items": [
+            {
+              "item": "HDLeatherArmour",
+              "icon": "JAKTA0",
+              "displayName": "$MERCH_TAG_LEATHERARMOUR",
+              "basePrice": 100,
+              "chance": 1,
+              "flavorText": "$MERCH_FLAVOR_LEATHERARMOUR"
+            },
+            {
+              "item": "PortableRadsuit",
+              "icon": "SUITA0",
+              "displayName": "$MERCH_TAG_RADSUIT",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_RADSUIT"
+            },
+            {
+              "item": "GarrisonArmour",
+              "icon": "ARMSB0",
+              "displayName": "$MERCH_TAG_GARRISONARMOUR",
+              "basePrice": 180,
+              "chance": 0.5,
+              "flavorText": "$MERCH_FLAVOR_GARRISONARMOUR"
+            },
+            {
+              "item": "HEVArmour",
+              "icon": "HEVAA0",
+              "displayName": "$MERCH_TAG_HEVARMOUR",
+              "basePrice": 230,
+              "flavorText": "$MERCH_FLAVOR_HEVARMOUR"
+            },
+            {
+              "item": "BattleArmour",
+              "icon": "ARMCB0",
+              "displayName": "$MERCH_TAG_BATTLEARMOUR",
+              "basePrice": 280,
+              "flavorText": "$MERCH_FLAVOR_BATTLEARMOUR"
+            },
+            {
+              "item": "WAN_SneakingSuit",
+              "icon": "SNKSA0",
+              "displayName": "$MERCH_TAG_SNEAKINGSUIT",
+              "basePrice": 320,
+              "flavorText": "$MERCH_FLAVOR_SNEAKINGSUIT"
+            },
+            {
+              "item": "CorporateArmour",
+              "icon": "CARMA0",
+              "displayName": "$MERCH_TAG_CORPORATEARMOUR",
+              "basePrice": 350,
+              "flavorText": "$MERCH_FLAVOR_CORPORATEARMOUR"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ARMOR_BOOTS",
+          "items": [
+            {
+              "item": "ProtectiveRadBoots",
+              "icon": "RDBTA0",
+              "displayName": "$MERCH_TAG_ANTIRADBOOTS",
+              "basePrice": 80,
+              "flavorText": "$MERCH_FLAVOR_ANTIRADBOOTS"
+            },
+            {
+              "item": "AntiGravBoots",
+              "icon": "AGRVA0",
+              "displayName": "$MERCH_TAG_ANTIGRAVBOOTS",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_ANTIGRAVBOOTS"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ARMOR_MISC",
+          "items": [
+            {
+              "item": "DespicytoFilter",
+              "icon": "DSPFA0",
+              "displayName": "$MERCH_TAG_DESPFILTER",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_DESPFILTER"
+            },
+            {
+              "item": "HDArmorPlate",
+              "icon": "APL0A0",
+              "displayName": "$MERCH_TAG_ARMORPLATE",
+              "basePrice": 100,
+              "chance": 1,
+              "flavorText": "$MERCH_FLAVOR_ARMORPLATE"
+            },
+            {
+              "item": "HDRiotShieldItem",
+              "icon": "RSH0Z0",
+              "displayName": "$MERCH_TAG_RIOTSHIELD",
+              "basePrice": 225,
+              "flavorText": "$MERCH_FLAVOR_RIOTSHIELD"
+            },
+            {
+              "item": "HDPersonalShieldGenerator",
+              "icon": "PSH0A0",
+              "displayName": "$MERCH_TAG_PERSONALSHIELDGEN",
+              "basePrice": 1200,
+              "flavorText": "$MERCH_FLAVOR_PERSONALSHIELDGEN"
+            },
+            {
+              "item": "HDOldPersonalShieldGenerator",
+              "icon": "PZGNA0",
+              "displayName": "$TAG_PZG",
+              "basePrice": 1200,
+              "flavorText": "$ACRIVFLAVOR_PZG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "weight": 32,
+      "chance": "#hdm_chance_item",
+      "skins": "YellowDrone",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_ITEM_CONSUMABLE",
+          "items": [
+            {
+              "item": "HDRadiCola",
+              "icon": "RDCLA0",
+              "displayName": "$MERCH_TAG_RADICOLA",
+              "chance": 0.5,
+              "basePrice": 2,
+              "flavorText": "$MERCH_FLAVOR_RADICOLA"
+            },
+            {
+              "item": "UaS_FoodRation",
+              "icon": "HSCVA0",
+              "displayName": "$MERCH_TAG_FOODRATION",
+              "chance": 0.5,
+              "basePrice": 8,
+              "flavorText": "$MERCH_FLAVOR_FOODRATION"
+            },
+            {
+              "item": "UaS_WaterRation",
+              "icon": "HSCVR0",
+              "displayName": "$MERCH_TAG_WATERRATION",
+              "chance": 0.5,
+              "basePrice": 8,
+              "flavorText": "$MERCH_FLAVOR_WATERRATION"
+            },
+            {
+              "item": "UaS_MessKit",
+              "icon": "HSCVB0",
+              "displayName": "$MERCH_TAG_MESSKIT",
+              "chance": 0.5,
+              "basePrice": 12,
+              "flavorText": "$MERCH_FLAVOR_MESSKIT"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ITEM_EQUIPMENT",
+          "items": [
+            {
+              "item": "UaS_Glowstick",
+              "icon": "UGSIB0",
+              "displayName": "$MERCH_TAG_UASGLOWSTICKS",
+              "chance": 1,
+              "basePrice": 1,
+              "flavorText": "$MERCH_FLAVOR_UASGLOWSTICKS"
+            },
+            {
+              "item": "UaS_Flare",
+              "icon": "UGSFA0",
+              "displayName": "$MERCH_TAG_UASFLARES",
+              "chance": 1,
+              "basePrice": 1,
+              "flavorText": "$MERCH_FLAVOR_UASFLARES"
+            },
+            {
+              "item": "SnekTechSprayer",
+              "icon": "KSPRB0",
+              "displayName": "$MERCH_TAG_SPRAYCAN",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_SPRAYCAN"
+            },
+            {
+              "item": "UZPipeBombDetonator",
+              "icon": "PBDPA0",
+              "displayName": "$MERCH_TAG_PIPEBOMBDETONATOR",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_PIPEBOMBDETONATOR"
+            },
+            {
+              "item": "HDBinoculars",
+              "icon": "BINPA0",
+              "displayName": "$MERCH_TAG_BINOCULARS",
+              "basePrice": 30,
+              "flavorText": "$MERCH_FLAVOR_BINOCULARS"
+            },
+            {
+              "item": "HDFlashlight",
+              "icon": "DDFLA0",
+              "displayName": "$MERCH_TAG_DDZFLASHLIGHT",
+              "chance": 1,
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_DDZFLASHLIGHT"
+            },
+            {
+              "item": "hdcharger",
+              "icon": "CGPAA0",
+              "displayName": "$MERCH_TAG_HANDCHARGE",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_HANDCHARGE"
+            },
+            {
+              "item": "UaS_LaserLightModule",
+              "icon": "UGSIE0",
+              "displayName": "$MERCH_TAG_LLM",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_LLM"
+            },
+            {
+              "item": "VirSabreSheath",
+              "icon": "SBRPC0",
+              "displayName": "$MERCH_TAG_SABRESHEATH",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_SABRESHEATH"
+            },
+            {
+              "item": "UaS_Respirator",
+              "icon": "UGSID0",
+              "displayName": "$MERCH_TAG_RESPIRATOR",
+              "basePrice": 60,
+              "flavorText": "$MERCH_FLAVOR_RESPIRATOR"
+            },
+            {
+              "item": "HDOldRearviewMirror",
+              "icon": "RVMGZ0",
+              "displayName": "$TAG_REARWARDMIRROR",
+              "basePrice": 69,
+              "flavorText": "$ACRIVFLAVOR_HINDSIGHT"
+            },
+            {
+              "item": "UaS_WeaponSling",
+              "icon": "HSCVI0",
+              "displayName": "$MERCH_TAG_WEAPONSLING",
+              "basePrice": 80,
+              "flavorText": "$MERCH_FLAVOR_WEAPONSLING"
+            },
+            {
+              "item": "PortableLadder",
+              "icon": "LADDD0",
+              "displayName": "$MERCH_TAG_LADDER",
+              "basePrice": 90,
+              "flavorText": "$MERCH_FLAVOR_LADDER"
+            },
+            {
+              "item": "JumperCablesUsable",
+              "icon": "JMPKA0",
+              "displayName": "$MERCH_TAG_JUMPERCABLES",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_JUMPERCABLES"
+            },
+            {
+              "item": "HDPocketLamp",
+              "icon": "plmpa0",
+              "displayName": "$MERCH_TAG_POCKETLAMP",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_POCKETLAMP"
+            },
+            {
+              "item": "CrossPulseModificationKit",
+              "icon": "FKITA0",
+              "displayName": "$MERCH_TAG_CROSSPULSEMODKIT",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_CROSSPULSEMODKIT"
+            },
+            {
+              "item": "HDPocketRadio",
+              "icon": "RDIOA0",
+              "displayName": "$MERCH_TAG_RADIRADIO",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_RADIRADIO"
+            },
+            {
+              "item": "UaS_GyroStabilizer",
+              "icon": "UGSIR0",
+              "displayName": "$MERCH_TAG_GYROSTABILIZER",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_GYROSTABILIZER"
+            },
+            {
+              "item": "gretchencounter",
+              "icon": "KGCPA0",
+              "displayName": "$MERCH_TAG_GRETCHENCOUNTER",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_GRETCHENCOUNTER"
+            },
+            {
+              "item": "infrared",
+              "icon": "PVISB0",
+              "displayName": "$MERCH_TAG_LIGHTAMPGOGGLES",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_LIGHTAMPGOGGLES"
+            },
+            {
+              "item": "allmap",
+              "icon": "PMAPA0",
+              "displayName": "$MERCH_TAG_ALLMAP",
+              "basePrice": 300,
+              "flavorText": "$MERCH_FLAVOR_ALLMAP"
+            },
+            {
+              "item": "HDSecretFinder",
+              "icon": "FNDRA0",
+              "displayName": "$MERCH_TAG_SECRETFINDER",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_SECRETFINDER"
+            },
+            {
+              "item": "PortableZRadar",
+              "icon": "ZRDRA0",
+              "displayName": "$MERCH_TAG_ZRADAR",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_ZRADAR"
+            },
+            {
+              "item": "HDTeleporter",
+              "icon": "TPRTZ0",
+              "displayName": "$MERCH_TAG_PORTABLETELEPORTER",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_PORTABLETELEPORTER"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ITEM_STORAGE",
+          "items": [
+            {
+              "item": "WildHalfPack",
+              "icon": "HPAKA0",
+              "displayName": "$MERCH_TAG_HALFPACK",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_HALFPACK"
+            },
+            {
+              "item": "UaS_WildAmmoPouch",
+              "icon": "UGSPA0",
+              "displayName": "$MERCH_TAG_AMMOPOUCH",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_AMMOPOUCH"
+            },
+            {
+              "item": "UaS_WildAssaultPack",
+              "icon": "UGSQA0",
+              "displayName": "$MERCH_TAG_ASSAULTPACK",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_ASSAULTPACK"
+            },
+            {
+              "item": "WildBackpack",
+              "icon": "BPAKA0",
+              "displayName": "$MERCH_TAG_BACKPACK",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_BACKPACK"
+            },
+            {
+              "item": "WildGearbox",
+              "icon": "GRCRA0",
+              "displayName": "$MERCH_TAG_GEARBOX",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_GEARBOX"
+            },
+            {
+              "item": "DSDInterface",
+              "icon": "DSDDA0",
+              "displayName": "$MERCH_TAG_DSD",
+              "basePrice": 600,
+              "flavorText": "$MERCH_FLAVOR_DSD"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ITEM_SUPPLIES",
+          "items": [
+            {
+              "item": "HDSupplyBeacon",
+              "icon": "SPBCZ0",
+              "displayName": "$MERCH_TAG_SUPPLYBEACON",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_SUPPLYBEACON"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "craftingMaterial",
+      "weight": 32,
+      "chance": "#hdm_chance_item",
+      "skins": "Daina3",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_CRAFT_MAT",
+          "items": [
+            {
+              "item": "HDRel_RawFuel",
+              "amount": 5,
+              "icon": "FUELA0",
+              "displayName": "$MERCH_TAG_RAWFUEL",
+              "basePrice": 5,
+              "flavorText": "$MERCH_FLAVOR_RAWFUEL"
+            },
+            {
+              "item": "HDRel_RawSteel",
+              "amount": 10,
+              "icon": "STMTA0",
+              "displayName": "$MERCH_TAG_RAWSTEEL",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_RAWSTEEL"
+            },
+            {
+              "item": "HDRel_RawBrass",
+              "amount": 100,
+              "icon": "BRMTA0",
+              "displayName": "$MERCH_TAG_RAWBRASS",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_RAWBRASS"
+            },
+            {
+              "item": "HDRel_RawPlastic",
+              "amount": 100,
+              "icon": "PLTCA0",
+              "displayName": "$MERCH_TAG_RAWPLASTIC",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_RAWPLASTIC"
+            },
+            {
+              "item": "HDRel_RawLead",
+              "amount": 50,
+              "icon": "LEADA0",
+              "displayName": "$MERCH_TAG_RAWLEAD",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_RAWLEAD"
+            },
+            {
+              "item": "HDRel_RawPowder",
+              "amount": 50,
+              "icon": "PWDRA0",
+              "displayName": "$MERCH_TAG_RAWPOWDER",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_RAWPOWDER"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_CRAFT_DEVICE",
+          "items": [
+            {
+              "item": "LeetAttachment_Scope",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_SCOPE",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_SCOPE"
+            },
+            {
+              "item": "LeetAttachment_Silencer",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_SILENCER",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_SILENCER"
+            },
+            {
+              "item": "LeetAttachment_UBGL",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_UBGL",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_UBGL"
+            },
+            {
+              "item": "LeetAttachment_Parts",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_PARTS",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_PARTS"
+            },
+            {
+              "item": "LeetAttachment_Reflex",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_REFLEX",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_REFLEX"
+            },
+            {
+              "item": "LeetAttachment_Sear",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_SEAR",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_SEAR"
+            },
+            {
+              "item": "LeetAttachment_Disassembly",
+              "icon": "",
+              "diplsayName": "$MERCH_TAG_ATTACHMENT_DISASSEMBLY",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_ATTACHMENT_DISASSEMBLY"
+            },
+            {
+              "item": "HDFieldAssemblyKit",
+              "icon": "FAKTA0",
+              "displayName": "$MERCH_TAG_FAK",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_FAK"
+            },
+            {
+              "item": "HDUniversalReloader",
+              "icon": "URLDA0",
+              "displayName": "$MERCH_TAG_URL",
+              "chance": 1,
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_URL"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_ITEM_STORAGE",
+          "items": [
+            {
+              "item": "WildGSP",
+              "icon": "GSPPA0",
+              "displayName": "$MERCH_TAG_GUNSMITHPOUCH",
+              "basePrice": 100,
+              "chance": 0.5,
+              "flavorText": "$MERCH_FLAVOR_GUNSMITHPOUCH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ammo",
+      "weight": 24,
+      "chance": "#hdm_chance_ammo",
+      "skins": "BlueDrone",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_AMMO_HANDGUN",
+          "items": [
+            {
+              "item": "Reusable9mmBox",
+              "amount": 1,
+              "icon": "9BOXA0",
+              "displayName": "$MERCH_TAG_9MM",
+              "basePrice": 30,
+              "chance": 0.75,
+              "flavorText": "$MERCH_FLAVOR_9MM"
+            },
+            {
+              "item": "Reusable355Box",
+              "amount": 1,
+              "icon": "3BOXA0",
+              "displayName": "$MERCH_TAG_355",
+              "basePrice": 30,
+              "chance": 0.5,
+              "flavorText": "$MERCH_FLAVOR_355"
+            },
+            {
+              "item": "Reusable45ACPBox",
+              "amount": 1,
+              "icon": "45BXA0",
+              "displayName": "$MERCH_TAG_45ACP",
+              "basePrice": 50,
+              "chance": 0.45,
+              "flavorText": "$MERCH_FLAVOR_45ACP"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_AMMO_SHOTGUN",
+          "items": [
+            {
+              "item": "ReusableShellBox",
+              "amount": 1,
+              "icon": "SBOXA0",
+              "displayName": "$MERCH_TAG_12GSHELL",
+              "basePrice": 15,
+              "flavorText": "$MERCH_FLAVOR_12GSHELL"
+            },
+            {
+              "item": "ReusableFlareBox",
+              "amount": 1,
+              "icon": "FLBXA0",
+              "displayName": "$MERCH_TAG_12GFLARE",
+              "basePrice": 25,
+              "chance": 1,
+              "flavorText": "$MERCH_FLAVOR_12GFLARE"
+            },
+            {
+              "item": "ReusableSlugBox",
+              "amount": 1,
+              "icon": "SLBXA0",
+              "displayName": "$MERCH_TAG_12GSLUG",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_12GSLUG"
+            },
+            {
+              "item": "ReusableExplosiveShellBox",
+              "amount": 1,
+              "icon": "XLBXA0",
+              "displayName": "$MERCH_TAG_XSHELL",
+              "basePrice": 45,
+              "flavorText": "$MERCH_FLAVOR_XSHELL"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_AMMO_RIFLE",
+          "items": [
+            {
+              "item": "BrontornisRound",
+              "icon": "BROCA0",
+              "displayName": "$MERCH_TAG_BRONTOROUND",
+              "basePrice": 35,
+              "flavorText": "$MERCH_FLAVOR_BRONTOROUND"
+            },
+            {
+              "item": "Reusable4mmBox",
+              "amount": 1,
+              "icon": "4BOXA0",
+              "displayName": "$MERCH_TAG_4MM",
+              "basePrice": 320,
+              "chance": 0.4,
+              "flavorText": "$MERCH_FLAVOR_4MM"
+            },
+            {
+              "item": "Reusable50OMGBox",
+              "amount": 1,
+              "icon": "OGBXA0",
+              "displayName": "$MERCH_TAG_50OMG",
+              "basePrice": 70,
+              "flavorText": "$MERCH_FLAVOR_50OMG"
+            },
+            {
+              "item": "Reusable7mmBox",
+              "amount": 1,
+              "icon": "7BOXA0",
+              "displayName": "$MERCH_TAG_7MM",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_7MM"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_AMMO_EXPLOSIVE",
+          "items": [
+            {
+              "item": "HEATAmmo",
+              "icon": "ROCKA0",
+              "displayName": "$MERCH_TAG_HEATROCKET",
+              "basePrice": 25,
+              "flavorText": "$MERCH_FLAVOR_HEATROCKET"
+            },
+            {
+              "item": "ReusableRocketBox",
+              "amount": 1,
+              "icon": "BROKA0",
+              "displayName": "$MERCH_TAG_ROCKETGRENADE",
+              "basePrice": 45,
+              "flavorText": "$MERCH_FLAVOR_ROCKETGRENADE"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_AMMO_MISC",
+          "items": [
+            {
+              "item": "HDBattery",
+              "icon": "CELLA0",
+              "displayName": "$MERCH_TAG_BATTERY",
+              "basePrice": 20,
+              "flavorText": "$MERCH_FLAVOR_BATTERY"
+            },
+            {
+              "item": "HDGasTank",
+              "storeAmount": {
+                "name": "Multiply",
+                "params": {
+                  "valueA": {
+                    "name": "Random",
+                    "params": {
+                      "min": 1,
+                      "max": 4
+                    }
+                  },
+                  "valueB": "#hdm_stock_ammo"
+                }
+              },
+              "icon": "AGASA0",
+              "displayName": "$MERCH_TAG_GASTANK",
+              "basePrice": 55,
+              "flavorText": "$MERCH_FLAVOR_GASTANK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mag",
+      "weight": 20,
+      "chance": "#hdm_chance_mag",
+      "skins": "RedDrone",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_MAG_CLIP",
+          "items": [
+            {
+              "item": "HD9mClip",
+              "icon": "9CLPA0",
+              "displayName": "$MERCH_TAG_9MMCLIP",
+              "basePrice": 3,
+              "flavorText": "$MERCH_FLAVOR_9MMCLIP"
+            },
+            {
+              "item": "HD7mClip",
+              "icon": "RCLPA0",
+              "displayName": "$MERCH_TAG_7MMCLIP",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_7MMCLIP"
+            },
+            {
+              "item": "HDOmgClip",
+              "icon": "OCLPA0",
+              "displayName": "$MERCH_TAG_50OMGCLIP",
+              "basePrice": 18,
+              "flavorText": "$MERCH_FLAVOR_50OMGCLIP"
+            },
+            {
+              "item": "HDSlugSpeedloader",
+              "icon": "SGSPA0",
+              "displayName": "$MERCH_TAG_AUTO5MAG",
+              "basePrice": 80,
+              "flavorText": "$MERCH_FLAVOR_AUTO5MAG"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_MAG_HANDGUN",
+          "items": [
+            {
+              "item": "HD355Mag",
+              "icon": "3MAGB0",
+              "displayName": "$MERCH_TAG_HELZINGMAG",
+              "basePrice": 5,
+              "flavorText": "$MERCH_FLAVOR_HELZINGMAG"
+            },
+            {
+              "item": "HDColtMag7",
+              "icon": "CMG7A0",
+              "displayName": "$MERCH_TAG_COLT1911MAG",
+              "basePrice": 7,
+              "flavorText": "$MERCH_FLAVOR_COLT1911MAG"
+            },
+            {
+              "item": "HD9mMag15",
+              "icon": "CLP2A0",
+              "displayName": "$MERCH_TAG_PISTOLMAG",
+              "basePrice": 9,
+              "flavorText": "$MERCH_FLAVOR_PISTOLMAG"
+            },
+            {
+              "item": "HDUSPMag",
+              "icon": "USPMA0",
+              "displayName": "$MERCH_TAG_USPMAG",
+              "basePrice": 12,
+              "flavorText": "$MERCH_FLAVOR_USPMAG"
+            },
+            {
+              "item": "HD_MK23SOCOM_Mag",
+              "icon": "M2SPE0",
+              "displayName": "$MERCH_TAG_MK23SOCOMMAG",
+              "basePrice": 12,
+              "flavorText": "$MERCH_FLAVOR_MK23SOCOMMAG"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_MAG_SMG",
+          "items": [
+            {
+              "item": "HDPDFourMag",
+              "icon": "PDMGA0",
+              "displayName": "$MERCH_TAG_PD42MAG",
+              "basePrice": 6,
+              "flavorText": "$MERCH_FLAVOR_PD42MAG"
+            },
+            {
+              "item": "RITmpsM20",
+              "icon": "CLP3A0",
+              "displayName": "$MERCH_TAG_THOMPSONMAGM20",
+              "basePrice": 6,
+              "flavorText": "$MERCH_FLAVOR_THOMPSONMAGM20"
+            },
+            {
+              "item": "HDColt9mmMag25",
+              "icon": "C9MAA0",
+              "displayName": "$MERCH_TAG_355SMGMAG",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_355SMGMAG"
+            },
+            {
+              "item": "HD9mMag30",
+              "icon": "CLP3A0",
+              "displayName": "$MERCH_TAG_SMGMAG",
+              "basePrice": 18,
+              "flavorText": "$MERCH_FLAVOR_SMGMAG"
+            },
+            {
+              "item": "HD_MAC10_Mag",
+              "icon": "MC1PI0",
+              "displayName": "$MERCH_TAG_MAC10MAG",
+              "basePrice": 32,
+              "flavorText": "$MERCH_FLAVOR_MAC10MAG"
+            },
+            {
+              "item": "RITmpsD50",
+              "icon": "TDRMD0",
+              "displayName": "$MERCH_TAG_THOMPSONMAGD50",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_THOMPSONMAGD50"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_MAG_SHOTGUN",
+          "items": [
+            {
+              "item": "HDSix12MagShells",
+              "icon": "STMBA0",
+              "displayName": "$MERCH_TAG_SIX12MAGSHELL",
+              "basePrice": 5,
+              "flavorText": "$MERCH_FLAVOR_SIX12MAGSHELL"
+            },
+            {
+              "item": "RIReapM8",
+              "icon": "ASSMB0",
+              "displayName": "$MERCH_TAG_REAPERMAGM8",
+              "basePrice": 6,
+              "flavorText": "$MERCH_FLAVOR_REAPERMAGM8"
+            },
+            {
+              "item": "HDSix12MagSlugs",
+              "icon": "STMSA0",
+              "displayName": "$MERCH_TAG_SIX12MAGSLUG",
+              "basePrice": 12,
+              "flavorText": "$MERCH_FLAVOR_SIX12MAGSLUG"
+            },
+            {
+              "item": "RIReapD20",
+              "icon": "ASDMB0",
+              "displayName": "$MERCH_TAG_REAPERMAGD20",
+              "basePrice": 15,
+              "flavorText": "$MERCH_FLAVOR_REAPERMAGD20"
+            },
+            {
+              "item": "HD_CAWSMag",
+              "icon": "CWSMA0",
+              "displayName": "$MERCH_TAG_CAWSMAG",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_CAWSMAG"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_MAG_RIFLE",
+          "items": [
+            {
+              "item": "HDTrogMag",
+              "icon": "TMAGA0",
+              "displayName": "$MERCH_TAG_TROGMAG",
+              "basePrice": 5,
+              "flavorText": "$MERCH_FLAVOR_TROGMAG"
+            },
+            {
+              "item": "HD4mMag",
+              "icon": "ZMAGA0",
+              "displayName": "$MERCH_TAG_4MMMAG",
+              "basePrice": 8,
+              "flavorText": "$MERCH_FLAVOR_4MMMAG"
+            },
+            {
+              "item": "HDZM94Mag",
+              "icon": "OMG5A0",
+              "displayName": "$MERCH_TAG_ZM94MAG",
+              "basePrice": 17,
+              "flavorText": "$MERCH_FLAVOR_ZM94MAG"
+            },
+            {
+              "item": "HD7mMag",
+              "icon": "RMAGA0",
+              "displayName": "$MERCH_TAG_7MMMAG",
+              "basePrice": 30,
+              "flavorText": "$MERCH_FLAVOR_7MMMAG"
+            },
+            {
+              "item": "HD_FALMag",
+              "icon": "FALMD0",
+              "displayName": "$MERCH_TAG_FNFALMAG",
+              "basePrice": 75,
+              "flavorText": "$MERCH_FLAVOR_FNFALMAG"
+            },
+            {
+              "item": "HDDevincenziaMag",
+              "icon": "ATCMA0",
+              "displayName": "$MERCH_TAG_DEVINCENZIAMAG",
+              "basePrice": 175,
+              "flavorText": "$MERCH_FLAVOR_DEVINCENZIAMAG"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_MAG_HEAVY",
+          "items": [
+            {
+              "item": "HD_PB_7mmBeltBox",
+              "icon": "MBX1A0",
+              "displayName": "$MERCH_TAG_7MMBELTBOX",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_7MMBELTBOX"
+            },
+            {
+              "item": "HD_PB_50OMGBeltBox",
+              "icon": "M2ABA0",
+              "displayName": "$MERCH_TAG_M2HBMAG",
+              "basePrice": 350,
+              "flavorText": "$MERCH_FLAVOR_M2HBMAG"
+            },
+            {
+              "item": "HD_PB_35mmBeltBox",
+              "icon": "HW0BA0",
+              "displayName": "$MERCH_TAG_KELENKENMAG",
+              "basePrice": 525,
+              "flavorText": "$MERCH_FLAVOR_KELENKENMAG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "explosive",
+      "weight": 16,
+      "chance": "#hdm_chance_ammo",
+      "skins": "Morshu,ResidentEvil",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_EXPLOSIVE_GRENADE",
+          "items": [
+            {
+              "item": "HDCO2GrenadeAmmo",
+              "icon": "CO22A0",
+              "displayName": "$MERCH_TAG_CO2NADE",
+              "basePrice": 15,
+              "flavorText": "$MERCH_FLAVOR_CO2NADE"
+            },
+            {
+              "item": "HDDynamiteAmmo",
+              "icon": "DYNAA0",
+              "displayName": "$MERCH_TAG_DYNAMITE",
+              "basePrice": 20,
+              "flavorText": "$MERCH_FLAVOR_DYNAMITE"
+            },
+            {
+              "item": "HDFragGrenadeAmmo",
+              "icon": "FRAGA0",
+              "displayName": "$MERCH_TAG_FRAGGRENADE",
+              "basePrice": 20,
+              "flavorText": "$MERCH_FLAVOR_FRAGGRENADE"
+            },
+            {
+              "item": "UZPipeBombAmmo",
+              "icon": "PIPPA0",
+              "displayName": "$MERCH_TAG_PIPEBOMB",
+              "basePrice": 20,
+              "flavorText": "$MERCH_FLAVOR_PIPEBOMB"
+            },
+            {
+              "item": "HDImpactGrenadeAmmo",
+              "icon": "IMPGA0",
+              "displayName": "$MERCH_TAG_IMPACTGRENADE",
+              "basePrice": 30,
+              "flavorText": "$MERCH_FLAVOR_IMPACTGRENADE"
+            },
+            {
+              "item": "HDGasGrenadeAmmo",
+              "amount": 1,
+              "icon": "GGR2A0",
+              "displayName": "$MERCH_TAG_GASGRENADE",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_GASGRENADE"
+            },
+            {
+              "item": "HDThunderGrenadeAmmo",
+              "icon": "TFRGA0",
+              "displayName": "$MERCH_TAG_THUNDERGRENADE",
+              "basePrice": 40,
+              "flavorText": "$MERCH_FLAVOR_THUNDERGRENADE"
+            },
+            {
+              "item": "HDWilliePeteGrenadeAmmo",
+              "amount": 1,
+              "icon": "WPG0Z0",
+              "displayName": "$MERCH_TAG_WPGRENADE",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_WPGRENADE"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_EXPLOSIVE_MINE",
+          "items": [
+            {
+              "item": "UZLandMineAmmo",
+              "icon": "LMAMA0",
+              "displayName": "$MERCH_TAG_LANDMINE",
+              "basePrice": 25,
+              "flavorText": "$MERCH_FLAVOR_LANDMINE"
+            },
+            {
+              "item": "UZClaymoreMine",
+              "icon": "CLAPA0",
+              "displayName": "$MERCH_TAG_CLAYMORE",
+              "basePrice": 30,
+              "flavorText": "$MERCH_FLAVOR_CLAYMORE"
+            },
+            {
+              "item": "UZLaserTripBomb",
+              "icon": "LTBPA0",
+              "displayName": "$MERCH_TAG_LASERTRIPBOMB",
+              "basePrice": 35,
+              "flavorText": "$MERCH_FLAVOR_LASERTRIPBOMB"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_EXPLOSIVE_MISC",
+          "items": [
+            {
+              "item": "HDIEDKit",
+              "icon": "IEDKA0",
+              "displayName": "$MERCH_TAG_IEDKIT",
+              "basePrice": 10,
+              "flavorText": "$MERCH_FLAVOR_IEDKIT"
+            },
+            {
+              "item": "DoorBuster",
+              "icon": "BGRNA3A7",
+              "displayName": "$MERCH_TAG_DOORBUSTER",
+              "basePrice": 25,
+              "flavorText": "$MERCH_FLAVOR_DOORBUSTER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "weapon",
+      "weight": 16,
+      "chance": "#hdm_chance_weapon",
+      "skins": "hobo,ResidentEvil",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_WEAPON_MELEE",
+          "items": [
+            {
+              "item": "HDCombatKnife",
+              "icon": "KNFPZ0",
+              "displayName": "$MERCH_TAG_KNIFE",
+              "basePrice": 60,
+              "flavorText": "$MERCH_FLAVOR_KNIFE"
+            },
+            {
+              "item": "NHDACrowbar",
+              "icon": "CBARA0",
+              "displayName": "Crowbar",
+              "basePrice": 70,
+              "flavorText": "Straight from Lambda Labs!"
+            },
+            {
+              "item": "HDCleaver",
+              "icon": "CLVRX0",
+              "displayName": "Cleaver",
+              "basePrice": 75,
+              "flavorText": "Ah, fresh meat!"
+            },
+            {
+              "item": "HDPipeWrench",
+              "icon": "WRNPA0",
+              "displayName": "Pipe Wrench",
+              "basePrice": 80,
+              "flavorText": "Give 'em a good THWACK!"
+            },
+            {
+              "item": "HDFireAxe",
+              "icon": "FAXPA0",
+              "displayName": "$MERCH_TAG_FIREAXE",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_FIREAXE"
+            },
+            {
+              "item": "Lumberjack",
+              "icon": "CSAWA0",
+              "displayName": "$MERCH_TAG_CHAINSAW",
+              "basePrice": 140,
+              "flavorText": "$MERCH_FLAVOR_CHAINSAW"
+            },
+            {
+              "item": "HDSledgehammer",
+              "icon": "SLH0Z0",
+              "displayName": "$MERCH_TAG_SLEDGEHAMMER",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_SLEDGEHAMMER"
+            },
+            {
+              "item": "HDKharon",
+              "icon": "KRDRA0",
+              "displayName": "$MERCH_TAG_KHARON",
+              "basePrice": 170,
+              "flavorText": "$MERCH_FLAVOR_KHARON"
+            },
+            {
+              "item": "VirSabre",
+              "icon": "SBRPB0",
+              "displayName": "$MERCH_TAG_SABRE",
+              "basePrice": 450,
+              "flavorText": "$MERCH_FLAVOR_SABRE"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_DISPOSABLE",
+          "items": [
+            {
+              "item": "HDPS20",
+              "icon": "P20PA0",
+              "displayName": "$MERCH_TAG_PS20",
+              "basePrice": 20,
+              "flavorText": "$MERCH_FLAVOR_PS20"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_HANDGUN",
+          "items": [
+            {
+              "item": "FireBlooper",
+              "icon": "FLGNA0",
+              "displayName": "$MERCH_TAG_FLAREGUN",
+              "basePrice": 50,
+              "flavorText": "$MERCH_FLAVOR_FLAREGUN"
+            },
+            {
+              "item": "MetalFireBlooper",
+              "icon": "FLMNA0",
+              "displayName": "$MERCH_TAG_FLAREGUNMETAL",
+              "basePrice": 80,
+              "flavorText": "$MERCH_FLAVOR_FLAREGUNMETAL"
+            },
+            {
+              "item": "HDFP45",
+              "icon": "LIBPA0",
+              "displayName": "$MERCH_TAG_FP45",
+              "basePrice": 90,
+              "flavorText": "$MERCH_FLAVOR_FP45"
+            },
+            {
+              "item": "HDPistol",
+              "icon": "PISTA0",
+              "displayName": "$MERCH_TAG_PISTOL",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_PISTOL"
+            },
+            {
+              "item": "HushPuppyPistol",
+              "icon": "HUSHA0",
+              "displayName": "$MERCH_TAG_HUSHPUPPY",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_HUSHPUPPY"
+            },
+            {
+              "item": "HDBoxCannon",
+              "icon": "MPS1A0",
+              "displayName": "$MERCH_TAG_BOXCANNON",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_BOXCANNON"
+            },
+            {
+              "item": "HDColt1911",
+              "icon": "M191A0",
+              "displayName": "$MERCH_TAG_COLT1911",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_COLT1911"
+            },
+            {
+              "item": "ZS_UMS_AUTOMAG",
+              "icon": "UMSWA0",
+              "displayName": "$MERCH_TAG_UMSAUTOMAG",
+              "basePrice": 180,
+              "flavorText": "$MERCH_FLAVOR_UMSAUTOMAG"
+            },
+            {
+              "item": "HD_AutoMag",
+              "icon": "5MCPC0",
+              "displayName": "$MERCH_TAG_AUTOMAG",
+              "basePrice": 220,
+              "flavorText": "$MERCH_FLAVOR_AUTOMAG"
+            },
+            {
+              "item": "HDMK23SOCOM",
+              "icon": "M2SPA0",
+              "displayName": "$MERCH_TAG_MK23SOCOM",
+              "basePrice": 250,
+              "flavorText": "$MERCH_FLAVOR_MK23SOCOM"
+            },
+            {
+              "item": "HDHelzing",
+              "icon": "HMPTA0",
+              "displayName": "$MERCH_TAG_HELZING",
+              "basePrice": 280,
+              "flavorText": "$MERCH_FLAVOR_HELZING"
+            },
+            {
+              "item": "HDUSP",
+              "icon": "USPGY0",
+              "displayName": "$MERCH_TAG_USP45",
+              "basePrice": 350,
+              "flavorText": "$MERCH_FLAVOR_USP45"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_REVOLVER",
+          "items": [
+            {
+              "item": "HDSnubNoseRevolver",
+              "icon": "DTTSA0",
+              "displayName": "$MERCH_TAG_SNUBNOSE",
+              "basePrice": 100,
+              "flavorText": "$MERCH_FLAVOR_SNUBNOSE"
+            },
+            {
+              "item": "HDRevolver",
+              "icon": "REVLA0",
+              "displayName": "$MERCH_TAG_REVOLVER",
+              "basePrice": 120,
+              "flavorText": "$MERCH_FLAVOR_REVOLVER"
+            },
+            {
+              "item": "HDExhuRev",
+              "icon": "EXHUM0",
+              "displayName": "N.W.M.P. Webley Commonwealth",
+              "basePrice": 150,
+              "flavorText": "This one's a bit dusty."
+            },
+            {
+              "item": "HDUragan5",
+              "icon": "URA5Z0",
+              "displayName": "$MERCH_TAG_URAGAN",
+              "basePrice": 240,
+              "flavorText": "$MERCH_FLAVOR_URAGAN"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_SMG",
+          "items": [
+            {
+              "item": "HDStenMk2",
+              "icon": "STNPA0",
+              "displayName": "$MERCH_TAG_STENMK2",
+              "basePrice": 180,
+              "flavorText": "$MERCH_FLAVOR_STENMK2"
+            },
+            {
+              "item": "HDSMG",
+              "icon": "SMGNA0",
+              "displayName": "$MERCH_TAG_SMG",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_SMG"
+            },
+            {
+              "item": "HDColt355",
+              "icon": "C9MPA0",
+              "displayName": "$MERCH_TAG_355SMG",
+              "basePrice": 220,
+              "flavorText": "$MERCH_FLAVOR_355SMG"
+            },
+            {
+              "item": "HDHLAR",
+              "icon": "HLPIA0",
+              "displayName": "$MERCH_TAG_HLAR",
+              "basePrice": 240,
+              "flavorText": "$MERCH_FLAVOR_HLAR"
+            },
+            {
+              "item": "HDMAC10",
+              "icon": "MC1PA0",
+              "displayName": "$MERCH_TAG_MAC10",
+              "basePrice": 290,
+              "flavorText": "$MERCH_FLAVOR_MAC10"
+            },
+            {
+              "item": "HDPDFour",
+              "icon": "PDWGA0",
+              "displayName": "$MERCH_TAG_PD42",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_PD42"
+            },
+            {
+              "item": "HD_M14Short",
+              "icon": "M14GX0",
+              "displayName": "$TAG_M14K",
+              "basePrice": 400,
+              "flavorText": "All that kick in such a small package."
+            },
+            {
+              "item": "RIThompson",
+              "icon": "TMPNA0",
+              "displayName": "$MERCH_TAG_THOMPSON",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_THOMPSON"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_SHOTGUN",
+          "items": [
+            {
+              "item": "HDAltis",
+              "icon": "GOLLN0",
+              "displayName": "$MERCH_TAG_ALTIS",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_ALTIS"
+            },
+            {
+              "item": "HDCombatShotgun",
+              "icon": "CTSGA0",
+              "displayName": "$MERCH_TAG_COMBATSHOTGUN",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_COMBATSHOTGUN"
+            },
+            {
+              "item": "Slayer",
+              "icon": "SLAYA0",
+              "displayName": "$MERCH_TAG_SLAYER",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_SLAYER"
+            },
+            {
+              "item": "ExplosiveHunter",
+              "icon": "XLSPA0",
+              "displayName": "$MERCH_TAG_XHUNTER",
+              "basePrice": 180,
+              "flavorText": "$MERCH_FLAVOR_XHUNTER"
+            },
+            {
+              "item": "Hunter",
+              "icon": "HUNTA0",
+              "displayName": "$MERCH_TAG_HUNTER",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_HUNTER"
+            },
+            {
+              "item": "HDDelivererShotgun",
+              "icon": "DELPA0",
+              "displayName": "$MERCH_TAG_DELIVERER",
+              "basePrice": 250,
+              "flavorText": "$MERCH_FLAVOR_DELIVERER"
+            },
+            {
+              "item": "RIReaper",
+              "icon": "ASHTA0",
+              "displayName": "$MERCH_TAG_REAPER",
+              "basePrice": 250,
+              "flavorText": "$MERCH_FLAVOR_REAPER"
+            },
+            {
+              "item": "HDGreely",
+              "icon": "GSGPA0",
+              "displayName": "$MERCH_TAG_GREELY",
+              "basePrice": 260,
+              "flavorText": "$MERCH_FLAVOR_GREELY"
+            },
+            {
+              "item": "HD_CAWSGUN",
+              "icon": "CWSPA0",
+              "displayName": "$MERCH_TAG_CAWSGUN",
+              "basePrice": 350,
+              "flavorText": "$MERCH_FLAVOR_CAWSGUN"
+            },
+            {
+              "item": "HDSix12",
+              "icon": "STBFA0",
+              "displayName": "$MERCH_TAG_SIX12",
+              "basePrice": 520,
+              "flavorText": "$MERCH_FLAVOR_SIX12"
+            },
+            {
+              "item": "HDBarracuda",
+              "icon": "BSABA0",
+              "displayName": "$MERCH_TAG_BARRACUDA",
+              "basePrice": 750,
+              "flavorText": "$MERCH_FLAVOR_BARRACUDA"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_CARBINE",
+          "items": [
+            {
+              "item": "HDBPX",
+              "icon": "BPXPA0",
+              "displayName": "$MERCH_TAG_BPX",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_BPX"
+            },
+            {
+              "item": "HDLotus",
+              "icon": "RRVLA0",
+              "displayName": "$MERCH_TAG_LOTUS",
+              "basePrice": 250,
+              "flavorText": "$MERCH_FLAVOR_LOTUS"
+            },
+            {
+              "item": "HDLeverGun",
+              "icon": "LVGPZ0",
+              "displayName": "$MERCH_TAG_LEVERGUN",
+              "basePrice": 260,
+              "flavorText": "$MERCH_FLAVOR_LEVERGUN"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_RIFLE",
+          "items": [
+            {
+              "item": "HDDMR",
+              "icon": "PMRPA0",
+              "displayName": "$MERCH_TAG_DMR",
+              "basePrice": 210,
+              "flavorText": "$MERCH_FLAVOR_DMR"
+            },
+            {
+              "item": "HDAuto5",
+              "icon": "AUTPB0",
+              "displayName": "$MERCH_TAG_AUTO5",
+              "basePrice": 250,
+              "flavorText": "$MERCH_FLAVOR_AUTO5"
+            },
+            {
+              "item": "HDFrontier",
+              "icon": "FRMZA0",
+              "displayName": "$MERCH_TAG_FRONTIERSMAN",
+              "basePrice": 450,
+              "flavorText": "$MERCH_FLAVOR_FRONTIERSMAN"
+            },
+            {
+              "item": "HDWyvern",
+              "icon": "WYVZA0",
+              "displayName": "$MERCH_TAG_WYVERN",
+              "basePrice": 480,
+              "flavorText": "$MERCH_FLAVOR_WYVERN"
+            },
+            {
+              "item": "ZM94Rifle",
+              "icon": "ZM94A0",
+              "displayName": "$MERCH_TAG_ZM94",
+              "basePrice": 600,
+              "flavorText": "$MERCH_FLAVOR_ZM94"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_AUTORIFLE",
+          "items": [
+            {
+              "item": "HDTROGRifle",
+              "icon": "TRG1A0",
+              "displayName": "$MERCH_TAG_TROG",
+              "basePrice": 350,
+              "flavorText": "$MERCH_FLAVOR_TROG"
+            },
+            {
+              "item": "LiberatorRifle",
+              "icon": "BRFLB0",
+              "displayName": "$MERCH_TAG_LIBERATOR",
+              "basePrice": 480,
+              "flavorText": "$MERCH_FLAVOR_LIBERATOR"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_MACHINEGUN",
+          "items": [
+            {
+              "item": "HDBastardRifle",
+              "icon": "BSPAA0",
+              "displayName": "$MERCH_TAG_BASTARDRIFLE",
+              "basePrice": 430,
+              "flavorText": "$MERCH_FLAVOR_BASTARDRIFLE"
+            },
+            {
+              "item": "HD_FNFAL",
+              "icon": "FALPA0",
+              "displayName": "$MERCH_TAG_FNFAL",
+              "basePrice": 550,
+              "flavorText": "$MERCH_FLAVOR_FNFAL"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_HEAVY",
+          "items": [
+            {
+              "item": "MinervaChaingun",
+              "icon": "MNVNA0",
+              "displayName": "$MERCH_TAG_MINERVA",
+              "basePrice": 320,
+              "flavorText": "$MERCH_FLAVOR_MINERVA"
+            },
+            {
+              "item": "Vulcanette",
+              "icon": "VULCA0",
+              "displayName": "$MERCH_TAG_VULCANETTE",
+              "basePrice": 420,
+              "flavorText": "$MERCH_FLAVOR_VULCANETTE"
+            },
+            {
+              "item": "HDVera",
+              "icon": "VRAPA0",
+              "displayName": "$MERCH_TAG_VERA",
+              "basePrice": 450,
+              "flavorText": "$MERCH_FLAVOR_VERA"
+            },
+            {
+              "item": "UZRipper",
+              "icon": "RIPPA0",
+              "displayName": "$MERCH_TAG_RIPPER",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_RIPPER"
+            },
+            {
+              "item": "HD_M60",
+              "icon": "M60PA0",
+              "displayName": "$MERCH_TAG_M60",
+              "basePrice": 580,
+              "flavorText": "$MERCH_FLAVOR_M60"
+            },
+            {
+              "item": "HDMicrogun",
+              "icon": "SMP1A0",
+              "displayName": "$MERCH_TAG_MICROGUN",
+              "basePrice": 600,
+              "flavorText": "$MERCH_FLAVOR_MICROGUN"
+            },
+            {
+              "item": "Brontornis",
+              "icon": "BLSTA0",
+              "displayName": "$MERCH_TAG_BRONTO",
+              "basePrice": 670,
+              "flavorText": "$MERCH_FLAVOR_BRONTO"
+            },
+            {
+              "item": "HD_ATCDevincenzia",
+              "icon": "ATCPA0",
+              "displayName": "$MERCH_TAG_DEVINCENZIA",
+              "basePrice": 700,
+              "flavorText": "$MERCH_FLAVOR_DEVINCENZIA"
+            },
+            {
+              "item": "HD_ATCKelenken",
+              "icon": "HWTPA0",
+              "displayName": "$MERCH_TAG_KELENKEN",
+              "basePrice": 830,
+              "flavorText": "$MERCH_FLAVOR_KELENKEN"
+            },
+            {
+              "item": "HDGungnir",
+              "icon": "GNGRZ0",
+              "displayName": "$MERCH_TAG_GUNGNIR",
+              "basePrice": 1200,
+              "flavorText": "$MERCH_FLAVOR_GUNGNIR"
+            },
+            {
+              "item": "BFG9K",
+              "icon": "BFUGA0",
+              "displayName": "$MERCH_TAG_BFG",
+              "basePrice": 1400,
+              "flavorText": "$MERCH_FLAVOR_BFG"
+            },
+            {
+              "item": "UZBHGen",
+              "icon": "BHGPA0",
+              "displayName": "$MERCH_TAG_BHG",
+              "basePrice": 1500,
+              "flavorText": "$MERCH_FLAVOR_BHG"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_EXPLOSIVE",
+          "items": [
+            {
+              "item": "Blooper",
+              "icon": "BLOPA0",
+              "displayName": "$MERCH_TAG_BLOOPER",
+              "basePrice": 240,
+              "flavorText": "$MERCH_FLAVOR_BLOOPER"
+            },
+            {
+              "item": "HDChinaLake",
+              "icon": "YEYUP0",
+              "displayName": "$MERCH_TAG_YEYUZE",
+              "basePrice": 310,
+              "flavorText": "$MERCH_FLAVOR_YEYUZE"
+            },
+            {
+              "item": "HDRL",
+              "icon": "LAUNA0",
+              "displayName": "$MERCH_TAG_ROCKETLAUNCHER",
+              "basePrice": 430,
+              "flavorText": "$MERCH_FLAVOR_ROCKETLAUNCHER"
+            },
+            {
+              "item": "HDFlamethrower",
+              "icon": "WFLMA0",
+              "displayName": "$MERCH_TAG_FLAMENWERFER",
+              "basePrice": 770,
+              "flavorText": "$MERCH_FLAVOR_FLAMENWERFER"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_BOSSRIFLE",
+          "items": [
+            {
+              "item": "BossRifleButIts9mm",
+              "icon": "BOJGY0",
+              "displayName": "$MERCH_TAG_9MMBOSS",
+              "basePrice": 290,
+              "flavorText": "$MERCH_FLAVOR_9MMBOSS"
+            },
+            {
+              "item": "Bossmerg",
+              "icon": "BORPH0",
+              "displayName": "$MERCH_TAG_12GBOSS",
+              "basePrice": 312,
+              "flavorText": "$MERCH_FLAVOR_12GBOSS"
+            },
+            {
+              "item": "BossRifleButIts4mm",
+              "icon": "BOJGZ0",
+              "displayName": "$MERCH_TAG_4MMBOSS",
+              "basePrice": 340,
+              "flavorText": "$MERCH_FLAVOR_4MMBOSS"
+            },
+            {
+              "item": "BossRifle",
+              "icon": "BORFA0",
+              "displayName": "$MERCH_TAG_BOSS",
+              "basePrice": 360,
+              "flavorText": "$MERCH_FLAVOR_BOSS"
+            },
+            {
+              "item": "BogRifle",
+              "icon": "BOGGZ0",
+              "displayName": "$MERCH_TAG_OMGBOSS",
+              "basePrice": 450,
+              "flavorText": "$MERCH_FLAVOR_OMGBOSS"
+            },
+            {
+              "item": "HDScorpion",
+              "icon": "SCRPZ0",
+              "displayName": "$MERCH_TAG_SCORPION",
+              "basePrice": 900,
+              "flavorText": "$MERCH_FLAVOR_SCORPION"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_WEAPON_ENERGY",
+          "items": [
+            {
+              "item": "HDOddball",
+              "icon": "ODPAA0",
+              "displayName": "$MERCH_TAG_ODDBALL",
+              "basePrice": 150,
+              "flavorText": "$MERCH_FLAVOR_ODDBALL"
+            },
+            {
+              "item": "HDGFBlaster",
+              "icon": "GFBNZ0",
+              "displayName": "$MERCH_TAG_GFB9",
+              "basePrice": 240,
+              "flavorText": "$MERCH_FLAVOR_GFB9"
+            },
+            {
+              "item": "HDWiseau",
+              "icon": "ENUFA0",
+              "displayName": "$MERCH_TAG_WISEAU",
+              "basePrice": 260,
+              "flavorText": "$MERCH_FLAVOR_WISEAU"
+            },
+            {
+              "item": "PlasmaBuster",
+              "icon": "PLASA0",
+              "displayName": "$MERCH_TAG_D93",
+              "basePrice": 300,
+              "flavorText": "$MERCH_FLAVOR_D93"
+            },
+            {
+              "item": "HDLisa",
+              "icon": "TOMPA0",
+              "displayName": "$MERCH_TAG_LISA",
+              "basePrice": 390,
+              "flavorText": "$MERCH_FLAVOR_LISA"
+            },
+            {
+              "item": "RubyMaser",
+              "icon": "MASEZ0",
+              "displayName": "$MERCH_TAG_RUBYMASER",
+              "basePrice": 390,
+              "flavorText": "$MERCH_FLAVOR_RUBYMASER"
+            },
+            {
+              "item": "HDNCT",
+              "icon": "NCTPA0",
+              "displayName": "$MERCH_TAG_NCT",
+              "basePrice": 420,
+              "flavorText": "$MERCH_FLAVOR_NCT"
+            },
+            {
+              "item": "HDGreenline",
+              "icon": "RDSGZ0",
+              "displayName": "$TAG_GREENLINE",
+              "basePrice": 500,
+              "flavorText": "$ACRIVFLAVOR_GREENLINE"
+            },
+            {
+              "item": "ThunderBuster",
+              "icon": "PLASA0",
+              "displayName": "$MERCH_TAG_THUNDERBUSTER",
+              "basePrice": 530,
+              "flavorText": "$MERCH_FLAVOR_THUNDERBUSTER"
+            },
+            {
+              "item": "HDFenris",
+              "icon": "FWRLDB",
+              "displayName": "$MERCH_TAG_FENRIS",
+              "basePrice": 540,
+              "flavorText": "$MERCH_FLAVOR_FENRIS"
+            },
+            {
+              "item": "HDLaserMachinegun",
+              "icon": "LSMPA0",
+              "displayName": "$MERCH_TAG_FULGUR",
+              "basePrice": 550,
+              "flavorText": "$MERCH_FLAVOR_FULGUR"
+            },
+            {
+              "item": "HDHammerhead",
+              "icon": "BLNGZ0",
+              "displayName": "$MERCH_TAG_HAMMERHEAD",
+              "basePrice": 700,
+              "flavorText": "$MERCH_FLAVOR_HAMMERHEAD"
+            },
+            {
+              "item": "HDMauler",
+              "icon": "MLRPA0",
+              "displayName": "$MERCH_TAG_MAULER",
+              "basePrice": 780,
+              "flavorText": "$MERCH_FLAVOR_MAULER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "robot",
+      "weight": 10,
+      "chance": "#hdm_chance_item",
+      "skins": "Nari1",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_ROBOT",
+          "items": [
+            {
+              "item": "HDRoomba",
+              "icon": "RMBAA1",
+              "displayName": "$MERCH_TAG_ROOMBA",
+              "chance": 1,
+              "basePrice": 180,
+              "flavorText": "$MERCH_FLAVOR_ROOMBA"
+            },
+            {
+              "item": "DERPUsable",
+              "icon": "DERPA7A3",
+              "displayName": "$MERCH_TAG_DERP",
+              "basePrice": 200,
+              "flavorText": "$MERCH_FLAVOR_DERP"
+            },
+            {
+              "item": "HERPUsable",
+              "icon": "HERPA7A3",
+              "displayName": "$MERCH_TAG_HERP",
+              "basePrice": 400,
+              "flavorText": "$MERCH_FLAVOR_HERP"
+            },
+            {
+              "item": "DORKUsable",
+              "icon": "DORKA1",
+              "displayName": "$MERCH_TAG_DORK",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_DORK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mongoose",
+      "weight": 2,
+      "chance": "#hdm_chance_item",
+      "skins": "Daina2",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_MONGOOSE_POWERSUIT",
+          "items": [
+            {
+              "item": "hdpowersuitbotharmspickup",
+              "icon": "PARMZ0",
+              "displayName": "$MERCH_TAG_POWERSUITARMS",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_POWERSUITARMS"
+            },
+            {
+              "item": "hdpowersuitcorepickup",
+              "icon": "PSTOZ0",
+              "displayName": "$MERCH_TAG_POWERSUITCORE",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_POWERSUITCORE"
+            },
+            {
+              "item": "hdpowersuitlegspickup",
+              "icon": "PLGSZ0",
+              "displayName": "$MERCH_TAG_POWERSUITLEGS",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_POWERSUITLEGS"
+            },
+            {
+              "item": "hdpowersuitspawnerpickup",
+              "icon": "HCAPA0",
+              "displayName": "$MERCH_TAG_POWERSUIT",
+              "chance": 1,
+              "basePrice": 1500,
+              "flavorText": "$MERCH_FLAVOR_POWERSUIT"
+            }
+          ]
+        },
+        {
+          "name": "$MERCH_CAT_MONGOOSE_WEAPON",
+          "items": [
+            {
+              "item": "hdpowersuitbrontoarmpickup",
+              "icon": "ATENZ0",
+              "displayName": "$MERCH_TAG_ATHENALIGHTCANNON",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_ATHENALIGHTCANNON"
+            },
+            {
+              "item": "hdpowersuitrocketarmpickup",
+              "icon": "CLNCZ0",
+              "displayName": "$MERCH_TAG_CALINICUSAUTOLAUNCHER",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_CALINICUSAUTOLAUNCHER"
+            },
+            {
+              "item": "hdpowersuitsmgarmpickup",
+              "icon": "JKRPZ0",
+              "displayName": "$MERCH_TAG_JACKRIPPERHYBRIDMG",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_JACKRIPPERHYBRIDMG"
+            },
+            {
+              "item": "hdpowersuitvulcarmpickup",
+              "icon": "LEONZ0",
+              "displayName": "$MERCH_TAG_LEONIDASLIGHTMG",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_LEONIDASLIGHTMG"
+            },
+            {
+              "item": "hdpowersuitlibarmpickup",
+              "icon": "ZMG3A7",
+              "displayName": "$MERCH_TAG_ZMG33",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_ZMG33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "artifact",
+      "weight": 1,
+      "chance": 0.666,
+      "skins": "Succubus",
+      "categories": [
+        {
+          "name": "$MERCH_CAT_ARTIFACT",
+          "items": [
+            {
+              "item": "HDHealingPotion",
+              "icon": "BON1A0",
+              "displayName": "$MERCH_TAG_BLUEPOTION",
+              "basePrice": 70,
+              "chance": 1,
+              "flavorText": "$MERCH_FLAVOR_BLUEPOTION"
+            },
+            {
+              "item": "SquadSummoner",
+              "icon": "PLHELMA0",
+              "displayName": "$MERCH_TAG_SUMMONINGTALISMAN",
+              "basePrice": 180,
+              "chance": 0.75,
+              "flavorText": "$MERCH_FLAVOR_SUMMONINGTALISMAN"
+            },
+            {
+              "item": "HDBlurSphere",
+              "icon": "SOULA0",
+              "displayName": "$MERCH_TAG_BLURSSPHERE",
+              "basePrice": 250,
+              "flavorText": "$MERCH_FLAVOR_BLURSPHERE"
+            },
+            {
+              "item": "HDSoulSphere",
+              "icon": "SOULA0",
+              "displayName": "$MERCH_TAG_BLUESPHERE",
+              "basePrice": 500,
+              "flavorText": "$MERCH_FLAVOR_BLUESPHERE"
+            },
+            {
+              "item": "HDExecutioner",
+              "icon": "EXECZ0",
+              "displayName": "$MERCH_TAG_EXECUTIONER",
+              "basePrice": 666,
+              "chance": 1,
+              "flavorText": "$MERCH_FLAVOR_EXECUTIONER"
+            },
+            {
+              "item": "HDMegaSphere",
+              "icon": "MEGAA0",
+              "displayName": "$MERCH_TAG_MEGASPHERE",
+              "basePrice": 700,
+              "flavorText": "$MERCH_FLAVOR_MEGASPHERE"
+            },
+            {
+              "item": "OldArcanumTome",
+              "icon": "ARCTZ0",
+              "displayName": "$MERCH_TAG_ARCANUM",
+              "basePrice": 700,
+              "chance": 1,
+              "flavorText": "$MERCH_FLAVOR_ARCANUM"
+            },
+            {
+              "item": "HDSoulCube",
+              "icon": "SLCBA3A7",
+              "displayName": "$MERCH_TAG_SOULCUBE",
+              "basePrice": 800,
+              "flavorText": "$MERCH_FLAVOR_SOULCUBE"
+            },
+            {
+              "item": "KiriCacodemonPlushie",
+              "icon": "CCPLA0",
+              "displayName": "$MERCH_TAG_CACODEMONPLUSHIE",
+              "basePrice": 1000,
+              "flavorText": "$MERCH_FLAVOR_CACODEMONPLUSHIE"
+            },
+            {
+              "item": "HDInvulnerabilitySphere",
+              "icon": "PINVA0",
+              "displayName": "$MERCH_TAG_INVULNSPHERE",
+              "basePrice": 1000,
+              "chance": 0.1,
+              "flavorText": "$MERCH_FLAVOR_INVULNSPHERE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

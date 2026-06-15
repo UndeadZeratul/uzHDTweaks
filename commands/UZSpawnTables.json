@@ -436,13 +436,11 @@
       "spawnName": "Slogstin.SabreDrop",
       "entries": [
         {
-          "tableName": "Slogstin.SabreDrop",
           "name": "SabreSheathDrop",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "Slogstin.SabreDrop",
           "name": "VirSabre",
           "weight": 1,
           "persists": true
@@ -662,76 +660,63 @@
     },
     {
       "spawnName": "FragGrenadeSingle",
-      "tableName": "FragGrenadeSingle",
       "entries": [
         {
-          "tableName": "FragGrenadeSingle",
           "name": "StoneGrenadeP",
           "weight": 25,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "FragP",
           "weight": 20,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "ImpactFragP",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "HDGasGrenadeAmmo",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "UZLandMinePickup",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "HDDynamiteAmmo",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "HDIEDKit",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "UZPipeBombP",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "UZClaymoreMine",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "UZLaserTripBombP",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "ThunderFragP",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "FragGrenadeSingle",
           "name": "HDWilliePeteGrenadeAmmo",
           "weight": 2,
           "persists": true
@@ -740,82 +725,68 @@
     },
     {
       "spawnName": "FragGrenadePack",
-      "tableName": "FragGrenadePack",
       "entries": [
         {
-          "tableName": "FragGrenadePack",
           "name": "StonePileSpawner",
           "weight": 25,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDFragGrenadePickup",
           "weight": 20,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDImpactGrenadePickup",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDGasGrenadePickup",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "UZLandMineBoxPickup",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDDynamitePickup",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDIEDPack",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "UZPipeBombPickup",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "UZClaymoreMineBox",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "UZLaserTripBombPickup",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDThunderGrenadePickup",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "HDWilliePeteGrenadePickup",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "FragGrenadePack",
           "name": "MG13GrenadeP",
           "weight": 1,
           "persists": true
@@ -837,97 +808,81 @@
       "tableName": "PistolReplaces",
       "entries": [
         {
-          "tableName": "PistolReplaces",
           "name": "HDPistol",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "BC24Spawn",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "COP357Spawn",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "SnubNoseSpawn",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "DeinoSpawn",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "HDMinebeaPM9",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "HDExhuRev",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "HDRafficaPistol",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "ZS_UMS_AUTOMAG",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "HDColt1911Spawn",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "HD_Uragan5Spawn",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "HDFP45Spawn",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "PB_MK23SOCOMSpawn",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "USPRandom",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "PB_MAC11Spawn",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "PistolReplaces",
           "name": "NCTRandom",
           "weight": 1,
           "persists": true
@@ -939,43 +894,36 @@
       "tableName": "PlasmaRifleReplaces",
       "entries": [
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "PlasmaBuster",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "HDMauler",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "HDLaserMachinegun",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "MaserSpawn",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "HDGreenline",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "ThunderBuster",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "PlasmaRifleReplaces",
           "name": "HammerheadRandom",
           "weight": 1,
           "persists": true
@@ -987,25 +935,21 @@
       "tableName": "RocketLauncherReplaces",
       "entries": [
         {
-          "tableName": "RocketLauncherReplaces",
           "name": "BloopMapPickup",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "RocketLauncherReplaces",
           "name": "HDRLMapPickup",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "RocketLauncherReplaces",
           "name": "YeyuzeSpawner",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "RocketLauncherReplaces",
           "name": "FlamethrowerSpawner",
           "weight": 1,
           "persists": true
@@ -1017,50 +961,42 @@
       "tableName": "ShotgunReplaces",
       "entries": [
         {
-          "tableName": "ShotgunReplaces",
           "name": "DoomHunterRandom",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "ShotgunReplaces",
           "name": "HunterRandom",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ShotgunReplaces",
           "name": "Auto5Spawn",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ShotgunReplaces",
           "name": "SlayerRandom",
           "weight": 3,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ShotgunReplaces",
           "name": "WildAltis",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ShotgunReplaces",
           "name": "GreelySpawn",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "ShotgunReplaces",
           "name": "DelvSpawn",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ShotgunReplaces",
           "name": "ReaperRandom",
           "weight": 1,
           "persists": true
@@ -1072,25 +1008,21 @@
       "tableName": "SuperShotgunReplaces",
       "entries": [
         {
-          "tableName": "SuperShotgunReplaces",
           "name": "HD_M14K_Random",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "SuperShotgunReplaces",
           "name": "LiberatorRandom",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "SuperShotgunReplaces",
           "name": "HD_FNFAL",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "SuperShotgunReplaces",
           "name": "WyvernRandom",
           "weight": 1,
           "persists": true
@@ -1102,25 +1034,21 @@
       "tableName": "CellReplaces",
       "entries": [
         {
-          "tableName": "CellReplaces",
           "name": "ChargerRandom",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "CellReplaces",
           "name": "HDBattery",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "CellReplaces",
           "name": "HD7mMag",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "CellReplaces",
           "name": "BrontornisRound",
           "weight": 1,
           "persists": true
@@ -1132,31 +1060,26 @@
       "tableName": "CellPackReplaces",
       "entries": [
         {
-          "tableName": "CellPackReplaces",
           "name": "HDBattery",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "CellPackReplaces",
           "name": "HD7mMag",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "CellPackReplaces",
           "name": "HD_FALMag",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "CellPackReplaces",
           "name": "HDZM94Mag",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "CellPackReplaces",
           "name": "BrontornisSpawner",
           "weight": 1,
           "persists": true
@@ -1168,91 +1091,76 @@
       "tableName": "ClipReplaces",
       "entries": [
         {
-          "tableName": "ClipReplaces",
           "name": "HD4mMag",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDPDFourMag",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDTrogMag",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HD9mClip",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HD9mMag15",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDColtMag7",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HD9mMag30",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HD355Mag",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDUSPMag",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDMK23SOCOM_Mag",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDColt9mmMag25",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "RITmpsM20",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HDMAC10_Mag",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "RITmpsD50",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipReplaces",
           "name": "HD_FALMag",
           "weight": 1,
           "persists": true
@@ -1264,80 +1172,67 @@
       "tableName": "ClipBoxReplaces",
       "entries": [
         {
-          "tableName": "ClipBoxReplaces",
           "name": "DMRSpawn",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "ClipBoxPickup1",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HDMinebeaPM9",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HDSTENRandom",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "ClipBoxPickup2",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "PB_Colt9mm_Spawn",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ClipBoxReplaces",
           "name": "HDAB",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HD9mBoxPickup",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HD355BoxPickup",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "Reusable4mmBox",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HD45ACPBoxPickup",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HD7mBoxPickup",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "ClipBoxReplaces",
           "name": "HD50OMGBoxPickup",
           "weight": 1,
           "persists": true
@@ -1349,14 +1244,12 @@
       "tableName": "RocketAmmoReplaces",
       "entries": [
         {
-          "tableName": "RocketAmmoReplaces",
           "name": "HDRocketAmmo",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "RocketAmmoReplaces",
           "name": "FragGrenadeSingle",
           "weight": 1,
           "persists": true
@@ -1368,20 +1261,17 @@
       "tableName": "RocketBoxReplaces",
       "entries": [
         {
-          "tableName": "RocketBoxReplaces",
           "name": "RocketBigPickup",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "RocketBoxReplaces",
           "name": "FragGrenadePack",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "RocketBoxReplaces",
           "name": "HDGasTank",
           "weight": 1,
           "persists": true
@@ -1393,37 +1283,31 @@
       "tableName": "ShellReplaces",
       "entries": [
         {
-          "tableName": "ShellReplaces",
           "name": "ShellPickup",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "ShellReplaces",
           "name": "FlareShellPickup",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "ShellReplaces",
           "name": "HD_CAWSMag",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "ShellReplaces",
           "name": "SlugPickup",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "ShellReplaces",
           "name": "HDSlugSpeedloader",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "ShellReplaces",
           "name": "ExplosiveShellPickup",
           "weight": 1,
           "persists": true
@@ -1435,49 +1319,41 @@
       "tableName": "ShellBoxReplaces",
       "entries": [
         {
-          "tableName": "ShellBoxReplaces",
           "name": "ShellBoxPickup",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "FlareShellBoxPickup",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "RIReapM8",
           "weight": 12,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "RIReapD20",
           "weight": 12,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "SlugBoxPickup",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "HD4GBBox",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "HD4GSSpawn",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "ShellBoxReplaces",
           "name": "ExplosiveShellBoxPickup",
           "weight": 1,
           "persists": true
@@ -1489,19 +1365,16 @@
       "tableName": "AllMapReplaces",
       "entries": [
         {
-          "tableName": "AllMapReplaces",
           "name": "UaS_Automap",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "AllMapReplaces",
           "name": "HDMap",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "AllMapReplaces",
           "name": "HDSecretFinder",
           "weight": 1,
           "persists": true
@@ -1513,56 +1386,48 @@
       "tableName": "ArmorBonusReplaces",
       "entries": [
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "DecoPusher",
           "weight": 32,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "HDCO2GrenadeAmmo",
           "weight": 24,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "HDArmorPlate",
           "weight": 16,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "Despicyto",
           "weight": 10,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "DespicytoFilter",
           "weight": 5,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "ShieldCore",
           "weight": 3,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "VirShieldBadge",
           "weight": 2,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "ArmorBonusReplaces",
           "name": "BFGNecroShard",
           "weight": 1,
           "chance": 96,
@@ -1575,31 +1440,26 @@
       "tableName": "BackpackReplaces",
       "entries": [
         {
-          "tableName": "BackpackReplaces",
           "name": "UaS_WildAssaultPack",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "BackpackReplaces",
           "name": "WildHalfPack",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "BackpackReplaces",
           "name": "HDCoreWildBackpack",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "BackpackReplaces",
           "name": "WildGearBox",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "BackpackReplaces",
           "name": "DSDInterface",
           "weight": 1,
           "persists": true
@@ -1611,19 +1471,16 @@
       "tableName": "BerserkReplaces",
       "entries": [
         {
-          "tableName": "BerserkReplaces",
           "name": "UaS_EmptyZerkpack",
           "weight": 3,
           "persists": false
         },
         {
-          "tableName": "BerserkReplaces",
           "name": "PortableSuperStimpack",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "BerserkReplaces",
           "name": "PortableBerserkPack",
           "weight": 1,
           "persists": true
@@ -1635,25 +1492,21 @@
       "tableName": "BlueArmorReplaces",
       "entries": [
         {
-          "tableName": "BlueArmorReplaces",
           "name": "BattleArmour",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "BlueArmorReplaces",
           "name": "HDHEVArmour",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "BlueArmorReplaces",
           "name": "HDCorporateArmour",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "BlueArmorReplaces",
           "name": "OldPsgRandom",
           "weight": 1,
           "persists": true
@@ -1665,13 +1518,11 @@
       "tableName": "BlurSphereReplaces",
       "entries": [
         {
-          "tableName": "BlurSphereReplaces",
           "name": "SquadSummoner",
           "weight": 14,
           "persists": true
         },
         {
-          "tableName": "BlurSphereReplaces",
           "name": "HDBlurSphere",
           "weight": 1,
           "persists": true
@@ -1683,19 +1534,16 @@
       "tableName": "GreenArmorReplaces",
       "entries": [
         {
-          "tableName": "GreenArmorReplaces",
           "name": "HDLeatherArmour",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "GreenArmorReplaces",
           "name": "WAN_SneakingSuit",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "GreenArmorReplaces",
           "name": "GarrisonArmour",
           "weight": 1,
           "persists": true
@@ -1707,42 +1555,36 @@
       "tableName": "HealthBonusReplaces",
       "entries": [
         {
-          "tableName": "HealthBonusReplaces",
           "name": "DecoPusher",
           "weight": 32,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "HealthBonusReplaces",
           "name": "HDCO2GrenadeAmmo",
           "weight": 5,
           "chance": 64,
           "persists": true
         },
         {
-          "tableName": "HealthBonusReplaces",
           "name": "VIRMealkit",
           "weight": 3,
           "chance": 128,
           "persists": true
         },
         {
-          "tableName": "HealthBonusReplaces",
           "name": "SecondBlood",
           "weight": 3,
           "chance": 128,
           "persists": true
         },
         {
-          "tableName": "HealthBonusReplaces",
           "name": "HDHealingPotion",
           "weight": 2,
           "chance": 196,
           "persists": true
         },
         {
-          "tableName": "HealthBonusReplaces",
           "name": "BFGNecroShard",
           "weight": 1,
           "chance": 96,
@@ -1755,31 +1597,26 @@
       "tableName": "InfraredReplaces",
       "entries": [
         {
-          "tableName": "InfraredReplaces",
           "name": "WildFlareGun",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "InfraredReplaces",
           "name": "WildMetalFlareGun",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "InfraredReplaces",
           "name": "HDFlashlight",
           "chance": 3,
           "persists": true
         },
         {
-          "tableName": "InfraredReplaces",
           "name": "UaS_BrokenLiteAmp",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "InfraredReplaces",
           "name": "PortableLiteAmp",
           "weight": 1,
           "persists": true
@@ -1791,7 +1628,6 @@
       "tableName": "InvulnerabilitySphereReplaces",
       "entries": [
         {
-          "tableName": "InvulnerabilitySphereReplaces",
           "name": "HDInvulnerabilitySphere",
           "weight": 1,
           "persists": true
@@ -1803,35 +1639,30 @@
       "tableName": "MedikitReplaces",
       "entries": [
         {
-          "tableName": "MedikitReplaces",
           "name": "UaS_EmptyMedikit",
           "weight": 10,
           "chance": 64,
           "persists": false
         },
         {
-          "tableName": "MedikitReplaces",
           "name": "HDFieldMedicKit",
           "weight": 5,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "MedikitReplaces",
           "name": "HDScanner",
           "weight": 3,
           "chance": 128,
           "persists": true
         },
         {
-          "tableName": "MedikitReplaces",
           "name": "UaS_TraumaKit",
           "weight": 2,
           "chance": 128,
           "persists": true
         },
         {
-          "tableName": "MedikitReplaces",
           "name": "PortableMedikit",
           "weight": 1,
           "chance": 196,
@@ -1844,7 +1675,6 @@
       "tableName": "MegaSphereReplaces",
       "entries": [
         {
-          "tableName": "MegaSphereReplaces",
           "name": "HDMegaSphere",
           "weight": 1,
           "persists": true
@@ -1856,7 +1686,6 @@
       "tableName": "RadSuitReplaces",
       "entries": [
         {
-          "tableName": "RadSuitReplaces",
           "name": "PortableRadsuit",
           "weight": 1,
           "persists": true
@@ -1868,7 +1697,6 @@
       "tableName": "SoulSphereReplaces",
       "entries": [
         {
-          "tableName": "SoulSphereReplaces",
           "name": "HDSoulSphere",
           "weight": 1,
           "persists": true
@@ -1880,35 +1708,30 @@
       "tableName": "StimpackReplaces",
       "entries": [
         {
-          "tableName": "StimpackReplaces",
           "name": "UaS_EmptyStimpack",
           "weight": 10,
           "chance": 64,
           "persists": false
         },
         {
-          "tableName": "StimpackReplaces",
           "name": "RadiColaSpawn",
           "weight": 5,
           "chance": 96,
           "persists": true
         },
         {
-          "tableName": "StimpackReplaces",
           "name": "HDFirstAidSpray",
           "weight": 3,
           "chance": 128,
           "persists": true
         },
         {
-          "tableName": "StimpackReplaces",
           "name": "SecondBlood",
           "weight": 2,
           "chance": 128,
           "persists": true
         },
         {
-          "tableName": "StimpackReplaces",
           "name": "PortableStimpack",
           "weight": 1,
           "chance": 196,
@@ -1920,9 +1743,8 @@
       "spawnName": "WildBackpack",
       "entries": [
         {
-          "tableName": "WildBackpack",
           "name": "HDCoreWildBackpack",
-          "weight": 1,
+          "weight": -1,
           "persists": true
         }
       ]
@@ -1932,7 +1754,6 @@
       "tableName": "BlueCardReplaces",
       "entries": [
         {
-          "tableName": "BlueCardReplaces",
           "name": "HDBlueKey",
           "weight": 1,
           "persists": true
@@ -1944,7 +1765,6 @@
       "tableName": "BlueSkullReplaces",
       "entries": [
         {
-          "tableName": "BlueSkullReplaces",
           "name": "HDBlueSkull",
           "weight": 1,
           "persists": true
@@ -1956,7 +1776,6 @@
       "tableName": "RedCardReplaces",
       "entries": [
         {
-          "tableName": "RedCardReplaces",
           "name": "HDRedKey",
           "weight": 1,
           "persists": true
@@ -1968,7 +1787,6 @@
       "tableName": "RedSkullReplaces",
       "entries": [
         {
-          "tableName": "RedSkullReplaces",
           "name": "HDRedSkull",
           "weight": 1,
           "persists": true
@@ -1980,7 +1798,6 @@
       "tableName": "YellowCardReplaces",
       "entries": [
         {
-          "tableName": "YellowCardReplaces",
           "name": "HDYellowKey",
           "weight": 1,
           "persists": true
@@ -1992,7 +1809,6 @@
       "tableName": "YellowSkullReplaces",
       "entries": [
         {
-          "tableName": "YellowSkullReplaces",
           "name": "HDYellowSkull",
           "weight": 1,
           "persists": true
@@ -2004,7 +1820,6 @@
       "tableName": "AnnihilatorReplaces",
       "entries": [
         {
-          "tableName": "AnnihilatorReplaces",
           "name": "Bogus_Annihilator",
           "weight": 1,
           "persists": true
@@ -2016,25 +1831,21 @@
       "tableName": "ArachnotronReplaces",
       "entries": [
         {
-          "tableName": "ArachnotronReplaces",
           "name": "BalorOB",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ArachnotronReplaces",
           "name": "BalorLMG",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ArachnotronReplaces",
           "name": "BalorRM",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "ArachnotronReplaces",
           "name": "Balor",
           "weight": 1,
           "persists": true
@@ -2046,13 +1857,11 @@
       "tableName": "ArchVileReplaces",
       "entries": [
         {
-          "tableName": "ArchVileReplaces",
           "name": "HealerImp",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "ArchVileReplaces",
           "name": "Necromancer",
           "weight": 1,
           "persists": true
@@ -2064,7 +1873,6 @@
       "tableName": "AstralCacoReplaces",
       "entries": [
         {
-          "tableName": "AstralCacoReplaces",
           "name": "Bogus_AstralCacodemon",
           "weight": 1,
           "persists": true
@@ -2076,13 +1884,11 @@
       "tableName": "BaronOfHellReplaces",
       "entries": [
         {
-          "tableName": "BaronOfHellReplaces",
           "name": "Baron",
           "weight": 19,
           "persists": true
         },
         {
-          "tableName": "BaronOfHellReplaces",
           "name": "Bogus_Annihilator",
           "weight": 1,
           "persists": true
@@ -2094,7 +1900,6 @@
       "tableName": "BossBrainReplaces",
       "entries": [
         {
-          "tableName": "BossBrainReplaces",
           "name": "HDBossBrain",
           "weight": 1,
           "persists": true
@@ -2106,7 +1911,6 @@
       "tableName": "BossEyeReplaces",
       "entries": [
         {
-          "tableName": "BossEyeReplaces",
           "name": "HDBossEye",
           "weight": 1,
           "persists": true
@@ -2118,19 +1922,16 @@
       "tableName": "CacodemonReplaces",
       "entries": [
         {
-          "tableName": "CacodemonReplaces",
           "name": "HDGhoul",
           "weight": 12,
           "persists": true
         },
         {
-          "tableName": "CacodemonReplaces",
           "name": "FlyZapper",
           "weight": 7,
           "persists": true
         },
         {
-          "tableName": "CacodemonReplaces",
           "name": "Bogus_AstralCacodemon",
           "weight": 1,
           "persists": true
@@ -2143,69 +1944,58 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "ChaingunGuyReplaces",
           "name": "UZ.RifleAutoZombieMan",
           "weight": 64,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "UndeadJackbootman",
           "weight": 48,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ChaingunGuyReplaces",
           "name": "UZ.SMGZombieMan",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "UndeadRifleman",
           "weight": 24,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "EnemyDERP",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "EnemyHERP",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "VeraZombie",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "VulcanetteZombie",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "MinervaZombie",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "ChaingunGuyReplaces",
           "name": "HDPartyGoon",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ChaingunGuyReplaces",
           "name": "HDZombieShockTrooperSpawn",
           "weight": 1,
           "persists": true
@@ -2217,7 +2007,6 @@
       "tableName": "CommanderKeenReplaces",
       "entries": [
         {
-          "tableName": "CommanderKeenReplaces",
           "name": "HDKeen",
           "weight": 1,
           "persists": true
@@ -2229,31 +2018,26 @@
       "tableName": "CyberdemonReplaces",
       "entries": [
         {
-          "tableName": "CyberdemonReplaces",
           "name": "HDHarbinger",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "CyberdemonReplaces",
           "name": "SatanRobo",
           "weight": 15,
           "persists": true
         },
         {
-          "tableName": "CyberdemonReplaces",
           "name": "HDCyberGunner",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "CyberdemonReplaces",
           "name": "HDAnnihilator",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CyberdemonReplaces",
           "name": "Behemoth",
           "weight": 1,
           "persists": true
@@ -2265,49 +2049,41 @@
       "tableName": "DemonReplaces",
       "entries": [
         {
-          "tableName": "DemonReplaces",
           "name": "Babuin",
           "weight": 64,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "Babuinito",
           "weight": 48,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "WitheredSpawner",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "ZombieScientistSpawner",
           "weight": 24,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "DoggySpawner",
           "weight": 12,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "BabyDeviler",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "TeenDeviler",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "DemonReplaces",
           "name": "AdultDeviler",
           "weight": 1,
           "persists": true
@@ -2319,19 +2095,16 @@
       "tableName": "DoomImpReplaces",
       "entries": [
         {
-          "tableName": "DoomImpReplaces",
           "name": "WitheredRandom",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "DoomImpReplaces",
           "name": "FighterImp",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "DoomImpReplaces",
           "name": "ShockImp",
           "weight": 8,
           "persists": true
@@ -2343,13 +2116,11 @@
       "tableName": "FatsoReplaces",
       "entries": [
         {
-          "tableName": "FatsoReplaces",
           "name": "Mancubus",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "FatsoReplaces",
           "name": "HDHectebus",
           "weight": 1,
           "persists": true
@@ -2361,7 +2132,6 @@
       "tableName": "FormerCaptainReplaces",
       "entries": [
         {
-          "tableName": "FormerCaptainReplaces",
           "name": "Bogus_FormerCaptain",
           "weight": 1,
           "persists": true
@@ -2373,25 +2143,21 @@
       "tableName": "HellKnightReplaces",
       "entries": [
         {
-          "tableName": "HellKnightReplaces",
           "name": "GreelyShortgunner",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "HellKnightReplaces",
           "name": "PB_DozerZombie",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "HellKnightReplaces",
           "name": "HDHellSquire",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "HellKnightReplaces",
           "name": "Knave",
           "weight": 2,
           "persists": true
@@ -2402,13 +2168,11 @@
       "spawnName": "HDZombieShockTrooperSpawn",
       "entries": [
         {
-          "tableName": "HDZombieShockTrooperSpawn",
           "name": "HDSemiLibShockTrooper",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "HDZombieShockTrooperSpawn",
           "name": "HDAutoLibShockTrooper",
           "weight": 1,
           "persists": true
@@ -2420,19 +2184,16 @@
       "tableName": "LostSoulReplaces",
       "entries": [
         {
-          "tableName": "LostSoulReplaces",
           "name": "FlyingSkull",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "LostSoulReplaces",
           "name": "EvilSprite",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "LostSoulReplaces",
           "name": "WretchedGhoul",
           "weight": 1,
           "persists": true
@@ -2441,40 +2202,33 @@
     },
     {
       "spawnName": "MeleeZombieSpawner",
-      "tableName": "MeleeZombieSpawner",
       "entries": [
         {
-          "tableName": "MeleeZombieSpawner",
           "name": "MeleeZombie",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "MeleeZombieSpawner",
           "name": "MeleeZombie_Red",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "MeleeZombieSpawner",
           "name": "MeleeZombie_Orange",
           "weight": 6,
           "persists": true
         },
         {
-          "tableName": "MeleeZombieSpawner",
           "name": "MeleeZombie_Yellow",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "MeleeZombieSpawner",
           "name": "MeleeZombie_Blue",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "MeleeZombieSpawner",
           "name": "MeleeZombie_Pink",
           "weight": 1,
           "persists": true
@@ -2486,7 +2240,6 @@
       "tableName": "NightmareDemonReplaces",
       "entries": [
         {
-          "tableName": "NightmareDemonReplaces",
           "name": "Bogus_NightmareDemon",
           "weight": 1,
           "persists": true
@@ -2498,13 +2251,11 @@
       "tableName": "PainElementalReplaces",
       "entries": [
         {
-          "tableName": "PainElementalReplaces",
           "name": "FlySpitter",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "PainElementalReplaces",
           "name": "WretchedGhoul",
           "weight": 1,
           "persists": true
@@ -2516,13 +2267,11 @@
       "tableName": "RevenantReplaces",
       "entries": [
         {
-          "tableName": "RevenantReplaces",
           "name": "MageImp",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "RevenantReplaces",
           "name": "Boner",
           "weight": 1,
           "persists": true
@@ -2533,37 +2282,31 @@
       "spawnName": "UZ.ShotgunZombieMan",
       "entries": [
         {
-          "tableName": "UZ.ShotgunZombieMan",
           "name": "CombatJackboot",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "UZ.ShotgunZombieMan",
           "name": "AltisShotgunner",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.ShotgunZombieMan",
           "name": "DoomedJackboot",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.ShotgunZombieMan",
           "name": "SawnoffZombieman",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.ShotgunZombieMan",
           "name": "JackAndJillboot",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "UZ.ShotgunZombieMan",
           "name": "Jackboot",
           "weight": 1,
           "persists": true
@@ -2576,21 +2319,18 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "ShotgunGuyReplaces",
           "name": "UZ.ShotgunZombieMan",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ShotgunGuyReplaces",
           "name": "UZ.RifleAutoZombieMan",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ShotgunGuyReplaces",
           "name": "UZ.SMGZombieMan",
           "weight": 1,
           "persists": true
@@ -2602,43 +2342,36 @@
       "tableName": "SpectreReplaces",
       "entries": [
         {
-          "tableName": "SpectreReplaces",
           "name": "SpecBabuin",
           "weight": 32,
           "persists": true
         },
         {
-          "tableName": "SpectreReplaces",
           "name": "SpecBabuinito",
           "weight": 24,
           "persists": true
         },
         {
-          "tableName": "SpectreReplaces",
           "name": "NinjaPirate",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "SpectreReplaces",
           "name": "ShellShade",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "SpectreReplaces",
           "name": "Bogus_NightmareDemon",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "SpectreReplaces",
           "name": "PeeDeeFourtyTrooper",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "SpectreReplaces",
           "name": "PB_SpecOpsZombie",
           "weight": 1,
           "persists": true
@@ -2650,7 +2383,6 @@
       "tableName": "SpiderMastermindReplaces",
       "entries": [
         {
-          "tableName": "SpiderMastermindReplaces",
           "name": "SpiderDemon",
           "weight": 1,
           "persists": true
@@ -2659,28 +2391,23 @@
     },
     {
       "spawnName": "StenZombieSpawner",
-      "tableName": "StenZombieSpawner",
       "entries": [
         {
-          "tableName": "StenZombieSpawner",
           "name": "StenZombie",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "StenZombieSpawner",
           "name": "StenZombie_Black",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "StenZombieSpawner",
           "name": "StenZombie_Red",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "StenZombieSpawner",
           "name": "StenZombie_Brown",
           "weight": 1,
           "persists": true
@@ -2727,26 +2454,22 @@
         },
         {
           "type": "nested",
-          "tableName": "UZ.PistolZombieMan",
           "name": "HDRE.PistolZombieSpawns",
           "weight": 10,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "UZ.PistolZombieMan",
           "name": "HDRE.RevolverZombieSpawns",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.PistolZombieMan",
           "name": "SawnoffZombieman",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.PistolZombieMan",
           "name": "USPHomeboy",
           "weight": 1,
           "persists": true
@@ -2758,25 +2481,21 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "UZ.MeleeZombieMan",
           "name": "MeleeZombieSpawner",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.MeleeZombieMan",
           "name": "BrawlerJackboot",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.MeleeZombieMan",
           "name": "Withered",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.MeleeZombieMan",
           "name": "ZombieScientistRandom",
           "weight": 1,
           "persists": true
@@ -2787,25 +2506,21 @@
       "spawnName": "UZ.SMGZombieMan",
       "entries": [
         {
-          "tableName": "UZ.SMGZombieMan",
           "name": "ZombieSMGStormtrooper",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.SMGZombieMan",
           "name": "HLARTrooper",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.SMGZombieMan",
           "name": "PB_ColtSMGZombie",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.SMGZombieMan",
           "name": "PB_UndeadHomeslice",
           "weight": 1,
           "persists": true
@@ -2814,16 +2529,13 @@
     },
     {
       "spawnName": "WitheredRandom",
-      "tableName": "WitheredRandom",
       "entries": [
         {
-          "tableName": "WitheredRandom",
           "name": "Withered",
           "weight": 19,
           "persists": true
         },
         {
-          "tableName": "WitheredRandom",
           "name": "WitheredSummoner",
           "weight": 1,
           "persists": true
@@ -2832,31 +2544,26 @@
     },
     {
       "spawnName": "WitheredSummonSpawner",
-      "tableName": "WitheredSummonSpawner",
       "entries": [
         {
-          "tableName": "WitheredSummonSpawner",
           "name": "BrawlerJackboot",
           "weight": 1,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "WitheredSummonSpawner",
           "name": "MeleeZombieSpawner",
           "weight": 1,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "WitheredSummonSpawner",
           "name": "WitheredRandom",
           "weight": 1,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "WitheredSummonSpawner",
           "name": "ZombieScientistRandom",
           "weight": 1,
           "persists": true
@@ -2868,14 +2575,12 @@
       "tableName": "WolfensteinSSReplaces",
       "entries": [
         {
-          "tableName": "WolfensteinSSReplaces",
           "name": "HoopBubble",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "WolfensteinSSReplaces",
           "name": "StenZombieSpawner",
           "weight": 2,
           "persists": true
@@ -2886,13 +2591,11 @@
       "spawnName": "UZ.RifleAutoZombieMan",
       "entries": [
         {
-          "tableName": "UZ.RifleAutoZombieMan",
           "name": "ZombieAutoStormtrooper",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.RifleAutoZombieMan",
           "name": "ZombieTrogTrooper",
           "weight": 1,
           "persists": true
@@ -2903,19 +2606,16 @@
       "spawnName": "UZ.RifleSemiZombieMan",
       "entries": [
         {
-          "tableName": "UZ.RifleSemiZombieMan",
           "name": "BPXTrooper",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.RifleSemiZombieMan",
           "name": "ZombieSemiStormtrooper",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.RifleSemiZombieMan",
           "name": "DMRTrooper",
           "weight": 2,
           "persists": true
@@ -2928,28 +2628,24 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "ZombieManReplaces",
           "name": "UZ.MeleeZombieMan",
           "weight": 64,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ZombieManReplaces",
           "name": "UZ.PistolZombieMan",
           "weight": 16,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ZombieManReplaces",
           "name": "UZ.RifleSemiZombieMan",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "ZombieManReplaces",
           "name": "UZ.SMGZombieMan",
           "weight": 1,
           "persists": true
@@ -2960,49 +2656,41 @@
       "spawnName": "ZombieScientistRandom",
       "entries": [
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieLadyKnife",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieAxe",
           "weight": 9,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieCrowbar",
           "weight": 9,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieLadyCleaver",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieLadyWrench",
           "weight": 7,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieLadySyringe",
           "weight": 6,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieHammer",
           "weight": 6,
           "persists": true
         },
         {
-          "tableName": "ZombieScientistRandom",
           "name": "Hideous_ZombieChainsaw",
           "weight": 5,
           "persists": true
@@ -3014,13 +2702,11 @@
       "tableName": "DeadCacodemonReplaces",
       "entries": [
         {
-          "tableName": "DeadCacodemonReplaces",
           "name": "DeadFlyZapper",
           "weight": 7,
           "persists": true
         },
         {
-          "tableName": "DeadCacodemonReplaces",
           "name": "DeadAstralCacodemon",
           "weight": 1,
           "persists": true
@@ -3032,64 +2718,54 @@
       "tableName": "DeadDemonReplaces",
       "entries": [
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadBabuin",
           "weight": 64,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DeadDemonReplaces",
           "name": "DeadBabuinito",
           "weight": 48,
           "persists": true
         },
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadWithered",
           "weight": 32,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DeadDemonReplaces",
           "name": "Dead_HumanVictim",
           "weight": 24,
           "persists": true
         },
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadDoggy",
           "weight": 12,
           "persists": true
         },
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadWitheredSummoner",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadSpecBabuin",
           "weight": 4,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DeadDemonReplaces",
           "name": "DeadSpecBabuinito",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadSpectre",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "DeadDemonReplaces",
           "name": "DeadSpecOpsZombie",
           "weight": 1,
           "persists": true
@@ -3101,25 +2777,21 @@
       "tableName": "DeadDoomImpReplaces",
       "entries": [
         {
-          "tableName": "DeadDoomImpReplaces",
           "name": "DeadFighterImp",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "DeadDoomImpReplaces",
           "name": "DeadMageImp",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "DeadDoomImpReplaces",
           "name": "DeadHealerImp",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "DeadDoomImpReplaces",
           "name": "DeadShockImp",
           "weight": 1,
           "persists": true
@@ -3131,14 +2803,12 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "DeadLibZombieShockTrooperSpawn",
           "name": "DeadSemiLibShockTrooper",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DeadLibZombieShockTrooperSpawn",
           "name": "DeadAutoLibShockTrooper",
           "weight": 1,
           "persists": true
@@ -3149,13 +2819,11 @@
       "spawnName": "UZ.DeadMeleeZombieMan",
       "entries": [
         {
-          "tableName": "UZ.DeadMeleeZombieMan",
           "name": "DeadWithered",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadMeleeZombieMan",
           "name": "Dead_HumanVictim",
           "weight": 1,
           "persists": true
@@ -3166,19 +2834,16 @@
       "spawnName": "UZ.DeadHomeboy",
       "entries": [
         {
-          "tableName": "DeadZombieManReplaces",
           "name": "PistolZombiemanCorpse",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "DeadZombieManReplaces",
           "name": "RevolverZombiemanCorpse",
           "weight": 4,
           "persists": true
         },
         {
-          "tableName": "DeadZombieManReplaces",
           "name": "DeadUSPHomeboy",
           "weight": 2,
           "persists": true
@@ -3191,21 +2856,18 @@
       "entries": [
         {
           "type": "nested",
-          "tableNAme": "DeadShotgunGuyReplaces",
           "name": "UZ.DeadShotgunZombieMan",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableNAme": "DeadShotgunGuyReplaces",
           "name": "UZ.DeadRifleAutoZombieMan",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableNAme": "DeadShotgunGuyReplaces",
           "name": "UZ.DeadSMGZombieMan",
           "weight": 1,
           "persists": true
@@ -3216,37 +2878,31 @@
       "spawnName": "UZ.DeadShotgunZombieMan",
       "entries": [
         {
-          "tableName": "UZ.DeadShotgunZombieMan",
           "name": "SawnoffZombiemanCorpse",
           "weight": 16,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadShotgunZombieMan",
           "name": "DeadCombatJackboot",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadShotgunZombieMan",
           "name": "DeadAltisShotgunner",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadShotgunZombieMan",
           "name": "DeadDoomedJackboot",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadShotgunZombieMan",
           "name": "DeadJackAndJillboot",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadShotgunZombieMan",
           "name": "DeadJackboot",
           "weight": 1,
           "persists": true
@@ -3257,25 +2913,21 @@
       "spawnName": "UZ.DeadSMGZombieMan",
       "entries": [
         {
-          "tableName": "UZ.DeadSMGZombieMan",
           "name": "DeadZombieSMGStormtrooper",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadSMGZombieMan",
           "name": "DeadHLARTrooper",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadSMGZombieMan",
           "name": "DeadColtSMGZombie",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadSMGZombieMan",
           "name": "DeadHomeslice",
           "weight": 1,
           "persists": true
@@ -3286,13 +2938,11 @@
       "spawnName": "UZ.DeadRifleAutoZombieMan",
       "entries": [
         {
-          "tableName": "UZ.DeadRifleAutoZombieMan",
           "name": "DeadZombieAutoStormtrooper",
           "weight": 2,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadRifleAutoZombieMan",
           "name": "DeadZombieTrogTrooper",
           "weight": 1,
           "persists": true
@@ -3303,19 +2953,16 @@
       "spawnName": "UZ.DeadRifleSemiZombieMan",
       "entries": [
         {
-          "tableName": "UZ.DeadRifleSemiZombieMan",
           "name": "DeadBPXTrooper",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadRifleSemiZombieMan",
           "name": "DeadZombieSemiStormtrooper",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "UZ.DeadRifleSemiZombieMan",
           "name": "DeadDMRTrooper",
           "weight": 2,
           "persists": true
@@ -3328,28 +2975,24 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "UZ.DeadZombieMan",
           "name": "UZ.DeadMeleeZombieMan",
           "weight": 64,
           "persists": true
         },
         {
           "type": "nested",
-          "tableNAme": "UZ.DeadZombieMan",
           "name": "UZ.DeadRifleSemiZombieMan",
           "weight": 16,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "UZ.DeadZombieMan",
           "name": "UZ.DeadHomeboy",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "UZ.DeadZombieMan",
           "name": "UZ.DeadSMGZombieMan",
           "weight": 1,
           "persists": true
@@ -3360,49 +3003,41 @@
       "spawnName": "Dead_HumanVictim",
       "entries": [
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieLadyKnife",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieAxe",
           "weight": 9,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieCrowbar",
           "weight": 9,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieLadyCleaver",
           "weight": 8,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieLadyWrench",
           "weight": 7,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieLadySyringe",
           "weight": 6,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieHammer",
           "weight": 6,
           "persists": true
         },
         {
-          "tableName": "Dead_HumanVictim",
           "name": "Dead_ZombieChainsaw",
           "weight": 5,
           "persists": true
@@ -3414,7 +3049,6 @@
       "tableName": "StealthArachnotronReplaces",
       "entries": [
         {
-          "tableName": "StealthArachnotronReplaces",
           "name": "HDStealthArachnotron",
           "weight": 1,
           "persists": true
@@ -3426,7 +3060,6 @@
       "tableName": "StealthArchVileReplaces",
       "entries": [
         {
-          "tableName": "StealthArchVileReplaces",
           "name": "HDStealthArchvile",
           "weight": 1,
           "persists": true
@@ -3438,7 +3071,6 @@
       "tableName": "StealthBaronOfHellReplaces",
       "entries": [
         {
-          "tableName": "StealthBaronOfHellReplaces",
           "name": "HDStealthBaron",
           "weight": 1,
           "persists": true
@@ -3450,7 +3082,6 @@
       "tableName": "StealthCacodemonReplaces",
       "entries": [
         {
-          "tableName": "StealthCacodemonReplaces",
           "name": "HDStealthCacodemon",
           "weight": 1,
           "persists": true
@@ -3462,7 +3093,6 @@
       "tableName": "StealthChaingunGuyReplaces",
       "entries": [
         {
-          "tableName": "StealthChaingunGuyReplaces",
           "name": "HDStealthChaingunGuy",
           "weight": 1,
           "persists": true
@@ -3475,7 +3105,6 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "StealthDemonReplaces",
           "name": "SpectreReplaces",
           "weight": 1,
           "persists": true
@@ -3487,7 +3116,6 @@
       "tableName": "StealthDoomImpReplaces",
       "entries": [
         {
-          "tableName": "StealthDoomImpReplaces",
           "name": "HDStealthDoomImp",
           "weight": 1,
           "persists": true
@@ -3499,7 +3127,6 @@
       "tableName": "StealthFatsoReplaces",
       "entries": [
         {
-          "tableName": "StealthFatsoReplaces",
           "name": "HDStealthMancubus",
           "weight": 1,
           "persists": true
@@ -3511,7 +3138,6 @@
       "tableName": "StealthHellKnightReplaces",
       "entries": [
         {
-          "tableName": "StealthHellKnightReplaces",
           "name": "HDStealthHellKnight",
           "weight": 1,
           "persists": true
@@ -3523,7 +3149,6 @@
       "tableName": "StealthRevenantReplaces",
       "entries": [
         {
-          "tableName": "StealthRevenantReplaces",
           "name": "HDStealthBoner",
           "weight": 1,
           "persists": true
@@ -3535,7 +3160,6 @@
       "tableName": "StealthShotgunGuyReplaces",
       "entries": [
         {
-          "tableName": "StealthShotgunGuyReplaces",
           "name": "HDStealthShotgunGuy",
           "weight": 1,
           "persists": true
@@ -3547,7 +3171,6 @@
       "tableName": "StealthZombieManReplaces",
       "entries": [
         {
-          "tableName": "StealthZombieManReplaces",
           "name": "HDStealthZombieMan",
           "weight": 1,
           "persists": true
@@ -3559,7 +3182,6 @@
       "tableName": "BigTreeReplaces",
       "entries": [
         {
-          "tableName": "BigTreeReplaces",
           "name": "HDBigTree",
           "weight": 1,
           "persists": true
@@ -3571,7 +3193,6 @@
       "tableName": "BloodReplaces",
       "entries": [
         {
-          "tableName": "BloodReplaces",
           "name": "BloodSplat",
           "weight": 1,
           "persists": true
@@ -3583,7 +3204,6 @@
       "tableName": "BloodSplatterReplaces",
       "entries": [
         {
-          "tableName": "BloodSplatterReplaces",
           "name": "BloodSplattest",
           "weight": 1,
           "persists": true
@@ -3595,7 +3215,6 @@
       "tableName": "BloodyTwitchReplaces",
       "entries": [
         {
-          "tableName": "BloodyTwitchReplaces",
           "name": "HDTwitchHang",
           "weight": 1,
           "persists": true
@@ -3607,7 +3226,6 @@
       "tableName": "BlueTorchReplaces",
       "entries": [
         {
-          "tableName": "BlueTorchReplaces",
           "name": "HDBlueTorch",
           "weight": 1,
           "persists": true
@@ -3619,13 +3237,11 @@
       "tableName": "BurningBarrelReplaces",
       "entries": [
         {
-          "tableName": "BurningBarrelReplaces",
           "name": "HDFireCan",
           "weight": 10,
           "persists": true
         },
         {
-          "tableName": "BurningBarrelReplaces",
           "name": "KillerMimicCan",
           "weight": 1,
           "persists": true
@@ -3637,7 +3253,6 @@
       "tableName": "CandelabraReplaces",
       "entries": [
         {
-          "tableName": "CandelabraReplaces",
           "name": "HDCandelabra",
           "weight": 1,
           "persists": true
@@ -3649,7 +3264,6 @@
       "tableName": "CandlestickReplaces",
       "entries": [
         {
-          "tableName": "CandlestickReplaces",
           "name": "HDCandle",
           "weight": 1,
           "persists": true
@@ -3661,7 +3275,6 @@
       "tableName": "ColumnReplaces",
       "entries": [
         {
-          "tableName": "ColumnReplaces",
           "name": "HDColumn",
           "weight": 1,
           "persists": true
@@ -3673,19 +3286,16 @@
       "tableName": "DeadStickReplaces",
       "entries": [
         {
-          "tableName": "DeadStickReplaces",
           "name": "HDDeadStick",
           "weight": 3,
           "persists": true
         },
         {
-          "tableName": "DeadStickReplaces",
           "name": "HDImpaledFemaleScientist",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "DeadStickReplaces",
           "name": "HDImpaledMaleScientist",
           "weight": 1,
           "persists": true
@@ -3697,43 +3307,36 @@
       "tableName": "EvilEyeReplaces",
       "entries": [
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDEvilEye",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDBlackEvilEye",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDBlueEvilEye",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDGreyEvilEye",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDPurpleEvilEye",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDRedEvilEye",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "EvilEyeReplaces",
           "name": "HDYellowEvilEye",
           "weight": 1,
           "persists": true
@@ -3745,31 +3348,26 @@
       "tableName": "ExplosiveBarrelReplaces",
       "entries": [
         {
-          "tableName": "ExplosiveBarrelReplaces",
           "name": "HDBarrel",
           "weight": 320,
           "persists": true
         },
         {
-          "tableName": "ExplosiveBarrelReplaces",
           "name": "TriteBarrel",
           "weight": 192,
           "persists": true
         },
         {
-          "tableName": "ExplosiveBarrelReplaces",
           "name": "CeilingTriteBarrel",
           "weight": 128,
           "persists": true
         },
         {
-          "tableName": "ExplosiveBarrelReplaces",
           "name": "KillerMimicBarrel",
           "weight": 64,
           "persists": true
         },
         {
-          "tableName": "ExplosiveBarrelReplaces",
           "name": "ManaBarrel",
           "weight": {
             "name": "Lerp",
@@ -3819,7 +3417,6 @@
       "tableName": "FloatingSkullReplaces",
       "entries": [
         {
-          "tableName": "FloatingSkullReplaces",
           "name": "HDFloatingSkull",
           "weight": 1,
           "persists": true
@@ -3831,7 +3428,6 @@
       "tableName": "GreenTorchReplaces",
       "entries": [
         {
-          "tableName": "GreenTorchReplaces",
           "name": "HDGreenTorch",
           "weight": 1,
           "persists": true
@@ -3843,7 +3439,6 @@
       "tableName": "HangNoGutsReplaces",
       "entries": [
         {
-          "tableName": "HangNoGutsReplaces",
           "name": "HDHTNoGuts",
           "weight": 1,
           "persists": true
@@ -3855,7 +3450,6 @@
       "tableName": "HangTLookingDownReplaces",
       "entries": [
         {
-          "tableName": "HangTLookingDownReplaces",
           "name": "HDHTLkDown",
           "weight": 1,
           "persists": true
@@ -3867,7 +3461,6 @@
       "tableName": "HangTLookingUpReplaces",
       "entries": [
         {
-          "tableName": "HangTLookingUpReplaces",
           "name": "HDHTLkUp",
           "weight": 1,
           "persists": true
@@ -3879,7 +3472,6 @@
       "tableName": "HangTNoBrainReplaces",
       "entries": [
         {
-          "tableName": "HangTNoBrainReplaces",
           "name": "HDHTNoBrain",
           "weight": 1,
           "persists": true
@@ -3891,7 +3483,6 @@
       "tableName": "HangTSkullReplaces",
       "entries": [
         {
-          "tableName": "HangTSkullReplaces",
           "name": "HDHTSkull",
           "weight": 1,
           "persists": true
@@ -3903,7 +3494,6 @@
       "tableName": "HeadCandlesReplaces",
       "entries": [
         {
-          "tableName": "HeadCandlesReplaces",
           "name": "HDHeadCandles",
           "weight": 1,
           "persists": true
@@ -3915,43 +3505,36 @@
       "tableName": "HeadOnAStickReplaces",
       "entries": [
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickBase",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickOld",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickBlack",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickEmpty",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickSolo",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickRedEmpty",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadOnAStickReplaces",
           "name": "HDHeadStickRedSolo",
           "weight": 1,
           "persists": true
@@ -3963,37 +3546,31 @@
       "tableName": "HeadsOnAStickReplaces",
       "entries": [
         {
-          "tableName": "HeadsOnAStickReplaces",
           "name": "HDHeadsStickBase",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadsOnAStickReplaces",
           "name": "HDHeadsStickOld",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadsOnAStickReplaces",
           "name": "HDHeadStickEmpty",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadsOnAStickReplaces",
           "name": "HDHeadStickFull",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadsOnAStickReplaces",
           "name": "HDHeadStickRedEmpty",
           "weight": 1,
           "persists": true
         },
         {
-          "tableName": "HeadsOnAStickReplaces",
           "name": "HDHeadStickRedFull",
           "weight": 1,
           "persists": true
@@ -4005,7 +3582,6 @@
       "tableName": "HeartColumnReplaces",
       "entries": [
         {
-          "tableName": "HeartColumnReplaces",
           "name": "HDHeartColumn",
           "weight": 1,
           "persists": true
@@ -4017,13 +3593,11 @@
       "tableName": "LiveStickReplaces",
       "entries": [
         {
-          "tableName": "LiveStickReplaces",
           "name": "HDTwitchStick",
           "weight": 19,
           "persists": true
         },
         {
-          "tableName": "LiveStickReplaces",
           "name": "StillAliveStick",
           "weight": 1,
           "persists": true
@@ -4035,7 +3609,6 @@
       "tableName": "Meat2Replaces",
       "entries": [
         {
-          "tableName": "Meat2Replaces",
           "name": "HDMt2",
           "weight": 1,
           "persists": true
@@ -4047,7 +3620,6 @@
       "tableName": "Meat3Replaces",
       "entries": [
         {
-          "tableName": "Meat3Replaces",
           "name": "HDMt3",
           "weight": 1,
           "persists": true
@@ -4059,7 +3631,6 @@
       "tableName": "Meat4Replaces",
       "entries": [
         {
-          "tableName": "Meat4Replaces",
           "name": "HDMt4",
           "weight": 1,
           "persists": true
@@ -4071,7 +3642,6 @@
       "tableName": "Meat5Replaces",
       "entries": [
         {
-          "tableName": "Meat5Replaces",
           "name": "HDMt5",
           "weight": 1,
           "persists": true
@@ -4083,7 +3653,6 @@
       "tableName": "NonSolidMeat2Replaces",
       "entries": [
         {
-          "tableName": "NonSolidMeat2Replaces",
           "name": "HDMt2NS",
           "weight": 1,
           "persists": true
@@ -4095,7 +3664,6 @@
       "tableName": "NonSolidMeat3Replaces",
       "entries": [
         {
-          "tableName": "NonSolidMeat3Replaces",
           "name": "HDMt3NS",
           "weight": 1,
           "persists": true
@@ -4107,7 +3675,6 @@
       "tableName": "NonSolidMeat4Replaces",
       "entries": [
         {
-          "tableName": "NonSolidMeat4Replaces",
           "name": "HDMt4NS",
           "weight": 1,
           "persists": true
@@ -4119,7 +3686,6 @@
       "tableName": "NonSolidMeat5Replaces",
       "entries": [
         {
-          "tableName": "NonSolidMeat5Replaces",
           "name": "HDMt5NS",
           "weight": 1,
           "persists": true
@@ -4131,7 +3697,6 @@
       "tableName": "NonSolidTwitchReplaces",
       "entries": [
         {
-          "tableName": "NonSolidTwitchReplaces",
           "name": "HDTwitchHangNS",
           "weight": 1,
           "persists": true
@@ -4143,7 +3708,6 @@
       "tableName": "RedTorchReplaces",
       "entries": [
         {
-          "tableName": "RedStorchReplaces",
           "name": "HDRedTorch",
           "weight": 1,
           "persists": true
@@ -4155,7 +3719,6 @@
       "tableName": "ShortBlueTorchReplaces",
       "entries": [
         {
-          "tableName": "ShortBlueTorchReplaces",
           "name": "HDShortBlueTorch",
           "weight": 1,
           "persists": true
@@ -4167,7 +3730,6 @@
       "tableName": "ShortGreenColumnReplaces",
       "entries": [
         {
-          "tableName": "ShortGreenColumnReplaces",
           "name": "HDShortGreenColumn",
           "weight": 1,
           "persists": true
@@ -4179,7 +3741,6 @@
       "tableName": "ShortGreenTorchReplaces",
       "entries": [
         {
-          "tableName": "ShortGreenTorchReplaces",
           "name": "HDShortGreenTorch",
           "weight": 1,
           "persists": true
@@ -4191,7 +3752,6 @@
       "tableName": "ShortRedColumnReplaces",
       "entries": [
         {
-          "tableName": "ShortRedColumnReplaces",
           "name": "HDShortRedColumn",
           "weight": 1,
           "persists": true
@@ -4203,7 +3763,6 @@
       "tableName": "ShortRedTorchReplaces",
       "entries": [
         {
-          "tableName": "ShortRedTorchReplaces",
           "name": "HDShortRedTorch",
           "weight": 1,
           "persists": true
@@ -4215,13 +3774,11 @@
       "tableName": "SkullColumnReplaces",
       "entries": [
         {
-          "tableName": "SkullColumnReplaces",
           "name": "HDSkullColumn",
           "weight": 19,
           "persists": true
         },
         {
-          "tableName": "SkullColumnReplaces",
           "name": "FakePosSkulCol",
           "weight": 1,
           "persists": true
@@ -4233,7 +3790,6 @@
       "tableName": "StalagmiteReplaces",
       "entries": [
         {
-          "tableName": "StalagmiteReplaces",
           "name": "HDStalagmite",
           "weight": 1,
           "persists": true
@@ -4245,7 +3801,6 @@
       "tableName": "StalagtiteReplaces",
       "entries": [
         {
-          "tableName": "StalagtiteReplaces",
           "name": "HDStalagtite",
           "weight": 1,
           "persists": true
@@ -4257,7 +3812,6 @@
       "tableName": "TallGreenColumnReplaces",
       "entries": [
         {
-          "tableName": "TallGreenColumnReplaces",
           "name": "HDTallGreenColumn",
           "weight": 1,
           "persists": true
@@ -4269,7 +3823,6 @@
       "tableName": "TallRedColumnReplaces",
       "entries": [
         {
-          "tableName": "TallRedColumnReplaces",
           "name": "HDTallRedColumn",
           "weight": 1,
           "persists": true
@@ -4281,7 +3834,6 @@
       "tableName": "TechLampReplaces",
       "entries": [
         {
-          "tableName": "TechLampReplaces",
           "name": "HDTechLamp",
           "weight": 1,
           "persists": true
@@ -4293,7 +3845,6 @@
       "tableName": "TechLamp2Replaces",
       "entries": [
         {
-          "tableName": "TechLamp2Replaces",
           "name": "HDTechLamp2",
           "weight": 1,
           "persists": true
@@ -4305,7 +3856,6 @@
       "tableName": "TechPillarReplaces",
       "entries": [
         {
-          "tableName": "TechPillarReplaces",
           "name": "HDTechPillar",
           "weight": 1,
           "persists": true
@@ -4317,7 +3867,6 @@
       "tableName": "TeleportFogReplaces",
       "entries": [
         {
-          "tableName": "TeleportFogReplaces",
           "name": "TeleFog",
           "weight": 1,
           "persists": true
@@ -4329,7 +3878,6 @@
       "tableName": "TorchTreeReplaces",
       "entries": [
         {
-          "tableName": "TorchTreeReplaces",
           "name": "HDTorchTree",
           "weight": 1,
           "persists": true
@@ -4341,7 +3889,6 @@
       "tableName": "ScriptedMarineReplaces",
       "entries": [
         {
-          "tableName": "ScriptedMarineReplaces",
           "name": "HDOperator",
           "weight": 1,
           "persists": true
@@ -4353,7 +3900,6 @@
       "tableName": "MarineFistReplaces",
       "entries": [
         {
-          "tableName": "MarineFistReplaces",
           "name": "RifleFistman",
           "weight": 1,
           "persists": true
@@ -4365,7 +3911,6 @@
       "tableName": "MarineChaingunReplaces",
       "entries": [
         {
-          "tableName": "MarineChaingunReplaces",
           "name": "RifleChaingunman",
           "weight": 1,
           "persists": true
@@ -4377,7 +3922,6 @@
       "tableName": "MarineShotgunReplaces",
       "entries": [
         {
-          "tableName": "MarineShotgunReplaces",
           "name": "EnforcerShot",
           "weight": 1,
           "persists": true
@@ -4389,7 +3933,6 @@
       "tableName": "MarineSSGReplaces",
       "entries": [
         {
-          "tableName": "MarineSSGReplaces",
           "name": "EnforcerSuperShot",
           "weight": 1,
           "persists": true
@@ -4401,7 +3944,6 @@
       "tableName": "MarineBerserkReplaces",
       "entries": [
         {
-          "tableName": "MarineBerserkReplaces",
           "name": "EnforcerNoShot",
           "weight": 1,
           "persists": true
@@ -4413,7 +3955,6 @@
       "tableName": "MarinePistolReplaces",
       "entries": [
         {
-          "tableName": "MarinePistolReplaces",
           "name": "InfiltratorPistol",
           "weight": 1,
           "persists": true
@@ -4425,7 +3966,6 @@
       "tableName": "MarineChainsawReplaces",
       "entries": [
         {
-          "tableName": "MarineChainsawReplaces",
           "name": "InfiltratorChainsaw",
           "weight": 1,
           "persists": true
@@ -4437,7 +3977,6 @@
       "tableName": "MarineRocketReplaces",
       "entries": [
         {
-          "tableName": "MarineRocketReplaces",
           "name": "RRocketeer",
           "weight": 1,
           "persists": true
@@ -4449,7 +3988,6 @@
       "tableName": "MarineBFGReplaces",
       "entries": [
         {
-          "tableName": "MarineBFGReplaces",
           "name": "BFuglyteer",
           "weight": 1,
           "persists": true
@@ -4461,7 +3999,6 @@
       "tableName": "MarinePlasmaReplaces",
       "entries": [
         {
-          "tableName": "MarinePlasmaReplaces",
           "name": "Plasmateer",
           "weight": 1,
           "persists": true
@@ -4473,7 +4010,6 @@
       "tableName": "MarineRailgunReplaces",
       "entries": [
         {
-          "tableName": "MarineRailgunReplaces",
           "name": "Railgunteer",
           "weight": 1,
           "persists": true
@@ -4485,7 +4021,6 @@
       "tableName": "DeadMarineReplaces",
       "entries": [
         {
-          "tableName": "DeadMarineReplaces",
           "name": "DeadRifleman",
           "weight": 1,
           "persists": true
@@ -4497,7 +4032,6 @@
       "tableName": "GibbedMarineReplaces",
       "entries": [
         {
-          "tableName": "GibbedMarineReplaces",
           "name": "ReallyDeadRifleman",
           "weight": 1,
           "persists": true
@@ -4509,7 +4043,6 @@
       "tableName": "GibbedMarineExtraReplaces",
       "entries": [
         {
-          "tableName": "GibbedMarineExtraReplaces",
           "name": "ReallyDeadRiflemanCrouched",
           "weight": 1,
           "persists": true
@@ -4608,88 +4141,73 @@
     },
     {
       "spawnName": "CivvieDropper",
-      "tableName": "CivvieDropper",
       "entries": [
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie1",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie2",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie3",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie4",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie5",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie7",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "CivvieDoc1",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie1f",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie2f",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie3f",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie4f",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie5f",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "Civvie6f",
           "weight": 5,
           "persists": true
         },
         {
-          "tableName": "CivvieDropper",
           "name": "CivvieDoc2f",
           "weight": 5,
           "persists": true
@@ -4698,53 +4216,45 @@
     },
     {
       "spawnName": "CivvieLootSpawner",
-      "tableName": "CivvieLootSpawner",
       "entries": [
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "ClipReplaces",
           "weight": 20,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "ShellReplaces",
           "weight": 15,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "CellReplaces",
           "weight": 12,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "ShellBoxReplaces",
           "weight": 10,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "CellPackReplaces",
           "weight": 3,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "RocketBoxReplaces",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "CivvieLootSpawner",
           "name": "ClipBoxReplaces",
           "weight": 1,
           "persists": true
@@ -4753,39 +4263,33 @@
     },
     {
       "spawnName": "DoctorLootSpawner",
-      "tableName": "DoctorLootSpawner",
       "entries": [
         {
           "type": "nested",
-          "tableName": "DoctorLootSpawner",
           "name": "MedikitReplaces",
           "weight": 20,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DoctorLootSpawner",
           "name": "StimpackReplaces",
           "weight": 10,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DoctorLootSpawner",
           "name": "HDHealingPotion",
           "weight": 5,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DoctorLootSpawner",
           "name": "ShieldCore",
           "weight": 2,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "DoctorLootSpawner",
           "name": "BerserkReplaces",
           "weight": 1,
           "persists": true
@@ -4802,28 +4306,24 @@
       "tableName": "HurtfloorSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "HurtfloorSectorSpawnerReplaces",
           "name": "SpicyAirSource",
           "weight": 32,
           "persists": true
         },
         {
           "type": "nested",
-          "tableName": "HurtfloorSectorSpawnerReplaces",
           "name": "HDGoreBits",
           "weight": 5,
           "chance": 32,
           "persists": true
         },
         {
-          "tableName": "HurtfloorSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 2,
           "chance": 64,
           "persists": true
         },
         {
-          "tableName": "HurtfloorSectorSpawnerReplaces",
           "name": "BFGNecroShard",
           "weight": 1,
           "chance": 128,
@@ -4837,14 +4337,12 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "OutdoorSectorSpawnerReplaces",
           "name": "HDGoreBits",
           "weight": 5,
           "chance": 32,
           "persists": true
         },
         {
-          "tableName": "OutdoorSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 2,
           "chance": 64,
@@ -4852,7 +4350,6 @@
         },
         {
           "type": "nested",
-          "tableName": "OutdoorSectorSpawnerReplaces",
           "name": "HDCasingBits",
           "weight": 1,
           "chance": 128,
@@ -4866,7 +4363,6 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "SecretSectorSpawnerReplaces",
           "name": "HDAB",
           "weight": 10,
           "chance": 32,
@@ -4874,14 +4370,12 @@
         },
         {
           "type": "nested",
-          "tableName": "SecretSectorSpawnerReplaces",
           "name": "LeetAttachment_Spawner",
           "weight": 5,
           "chance": 64,
           "persists": true
         },
         {
-          "tableName": "SecretSectorSpawnerReplaces",
           "name": "HDWeaponCrate",
           "weight": 3,
           "chance": 96,
@@ -4889,7 +4383,6 @@
         },
         {
           "type": "nested",
-          "tableName": "SecretSectorSpawnerReplaces",
           "name": "BackpackReplaces",
           "weight": 2,
           "chance": 128,
@@ -4897,7 +4390,6 @@
         },
         {
           "type": "nested",
-          "tableName": "SecretSectorSpawnerReplaces",
           "name": "CivvieDropper",
           "weight": 1,
           "chance": 192,
@@ -4905,7 +4397,6 @@
         },
         {
           "type": "nested",
-          "tableName": "SecretSectorSpawnerReplaces",
           "name": "HDOperator",
           "weight": 1,
           "chance": 256,
@@ -4918,7 +4409,6 @@
       "tableName": "BrightestSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "BrightestSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 1,
           "chance": 1,
@@ -4931,7 +4421,6 @@
       "tableName": "BrighterSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "BrighterSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 1,
           "chance": 1,
@@ -4944,7 +4433,6 @@
       "tableName": "BrightSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "BrightSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 4,
           "chance": 4,
@@ -4952,7 +4440,6 @@
         },
         {
           "type": "nested",
-          "tableName": "BrightSectorSpawnerReplaces",
           "name": "HDGoreBits",
           "weight": 2,
           "chance": 32,
@@ -4960,7 +4447,6 @@
         },
         {
           "type": "nested",
-          "tableName": "BrightSectorSpawnerReplaces",
           "name": "HDCasingBits",
           "weight": 1,
           "chance": 64,
@@ -4973,7 +4459,6 @@
       "tableName": "DarkSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "DarkSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 2048,
           "chance": 4,
@@ -4981,7 +4466,6 @@
         },
         {
           "type": "nested",
-          "tableName": "DarkSectorSpawnerReplaces",
           "name": "HDGoreBits",
           "weight": 1024,
           "chance": 8,
@@ -4989,21 +4473,18 @@
         },
         {
           "type": "nested",
-          "tableName": "DarkSectorSpawnerReplaces",
           "name": "HDCasingBits",
           "weight": 512,
           "chance": 16,
           "persists": true
         },
         {
-          "tableName": "DarkSectorSpawnerReplaces",
           "name": "UaS_Glowstick",
           "weight": 256,
           "chance": 32,
           "persists": true
         },
         {
-          "tableName": "DarkSectorSpawnerReplaces",
           "name": "UaS_Flare",
           "weight": 128,
           "chance": 64,
@@ -5011,7 +4492,6 @@
         },
         {
           "type": "nested",
-          "tableName": "DarkSectorSpawnerReplaces",
           "name": "SpectreReplaces",
           "weight": 1,
           "chance": 8,
@@ -5024,28 +4504,24 @@
       "tableName": "DarkerSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "DarkerSectorSpawnerReplaces",
           "name": "HDFloodLight",
           "weight": 1024,
           "chance": 8,
           "persists": true
         },
         {
-          "tableName": "DarkerSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 512,
           "chance": 16,
           "persists": true
         },
         {
-          "tableName": "DarkerSectorSpawnerReplaces",
           "name": "UaS_Glowstick",
           "weight": 256,
           "chance": 32,
           "persists": true
         },
         {
-          "tableName": "DarkerSectorSpawnerReplaces",
           "name": "UaS_Flare",
           "weight": 128,
           "chance": 64,
@@ -5053,7 +4529,6 @@
         },
         {
           "type": "nested",
-          "tableName": "DarkerSectorSpawnerReplaces",
           "name": "SpectreReplaces",
           "weight": 1,
           "chance": 16,
@@ -5066,28 +4541,24 @@
       "tableName": "DarkestSectorSpawnerReplaces",
       "entries": [
         {
-          "tableName": "DarkestSectorSpawnerReplaces",
           "name": "HDFloodLight",
           "weight": 512,
           "chance": 8,
           "persists": true
         },
         {
-          "tableName": "DarkestSectorSpawnerReplaces",
           "name": "DecoPusher",
           "weight": 256,
           "chance": 16,
           "persists": true
         },
         {
-          "tableName": "DarkestSectorSpawnerReplaces",
           "name": "UaS_Glowstick",
           "weight": 128,
           "chance": 64,
           "persists": true
         },
         {
-          "tableName": "DarkestSectorSpawnerReplaces",
           "name": "UaS_Flare",
           "weight": 64,
           "chance": 128,
@@ -5095,7 +4566,6 @@
         },
         {
           "type": "nested",
-          "tableName": "DarkestSectorSpawnerReplaces",
           "name": "SpectreReplaces",
           "weight": 1,
           "chance": 32,
@@ -5110,7 +4580,6 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "UZ.DeadRiflemanBackpackSpawns",
           "name": "BackpackReplaces",
           "chance": 64,
           "persists": true,
@@ -5125,7 +4594,6 @@
       "entries": [
         {
           "type": "nested",
-          "tableName": "UZ.ReallyDeadRiflemanBackpackSpawns",
           "name": "BackpackReplaces",
           "chance": 64,
           "persists": true,
@@ -5139,7 +4607,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "HDFL.DeadRiflemanFlashlightSpawns",
           "name": "HDFlashlight",
           "chance": 26,
           "persists": true,
@@ -5153,7 +4620,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "HDFL.ReallyDeadRiflemanFlashlightSpawns",
           "name": "HDFlashlight",
           "chance": 26,
           "persists": true,
@@ -5167,7 +4633,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.DeadRiflemanAmmoPouchSpawns",
           "name": "UaS_WildAmmoPouch",
           "chance": {
             "name": "Clamp",
@@ -5222,7 +4687,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.ReallyDeadRiflemanAmmoPouchSpawns",
           "name": "UaS_WildAmmoPouch",
           "chance": {
             "name": "Clamp",
@@ -5277,7 +4741,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.DeadRiflemanFlareSpawns",
           "name": "UaS_Flare",
           "chance": 51,
           "persists": true,
@@ -5291,7 +4754,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.ReallyDeadRiflemanFlareSpawns",
           "name": "UaS_Flare",
           "chance": 51,
           "persists": true,
@@ -5305,7 +4767,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.DeadRiflemanGlowstickSpawns",
           "name": "UaS_Glowstick",
           "chance": 51,
           "persists": true,
@@ -5320,7 +4781,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.ReallyDeadRiflemanGlowstickSpawns",
           "name": "UaS_Glowstick",
           "chance": 51,
           "persists": true,
@@ -5334,7 +4794,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.DeadRiflemanStabilizerSpawns",
           "name": "UaS_GyroStabilizer",
           "chance": {
             "name": "Clamp",
@@ -5389,7 +4848,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.ReallyDeadRiflemanStabilizerSpawns",
           "name": "UaS_GyroStabilizer",
           "chance": {
             "name": "Clamp",
@@ -5444,14 +4902,12 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.EmptyStimpackSpawns",
           "name": "SpentStim",
           "chance": 128,
           "persists": true,
           "replaces": false
         },
         {
-          "tableName": "UaS.EmptyStimpackSpawns",
           "name": "UaS_StimInjector",
           "chance": 64,
           "persists": true,
@@ -5465,14 +4921,12 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.EmptyZerkpackSpawns",
           "name": "SpentZerk",
           "chance": 128,
           "persists": true,
           "replaces": false
         },
         {
-          "tableName": "UaS.EmptyZerkpackSpawns",
           "name": "UaS_ZerkInjector",
           "chance": 64,
           "persists": true,
@@ -5487,7 +4941,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.EmptyMedikitStimpackSpawns",
           "name": "UaS_EmptyStimpack",
           "weight": 2,
           "Chance": 128,
@@ -5495,7 +4948,6 @@
           "replaces": false
         },
         {
-          "tableName": "UaS.EmptyMedikitStimpackSpawns",
           "name": "PortableStimpack",
           "weight": 1,
           "Chance": 64,
@@ -5510,7 +4962,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.EmptyMedikitSecondBloodSpawns",
           "name": "SecondBlood",
           "Chance": 128,
           "persists": true,
@@ -5524,7 +4975,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "UaS.EmptyMedikit2FASpawns",
           "name": "HDMedikitter",
           "Chance": 32,
           "persists": true,
@@ -5538,7 +4988,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Slogstin.DeadRiflemanLunchboxSpawns",
           "name": "WildLCHBX",
           "chance": {
             "name": "Clamp",
@@ -5593,7 +5042,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Slogstin.ReallyDeadRiflemanLunchboxSpawns",
           "name": "WildLCHBX",
           "chance": {
             "name": "Clamp",
@@ -5648,14 +5096,12 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Radtech.DeadRiflemanFlareSpawns",
           "name": "WildFlareGun",
           "chance": 51,
           "persists": true,
           "replaces": false
         },
         {
-          "tableName": "Radtech.DeadRiflemanFlareSpawns",
           "name": "WildMetalFlareGun",
           "chance": 26,
           "persists": true,
@@ -5669,14 +5115,12 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Radtech.ReallyDeadRiflemanFlareSpawns",
           "name": "WildFlareGun",
           "chance": 51,
           "persists": true,
           "replaces": false
         },
         {
-          "tableName": "Radtech.ReallyDeadRiflemanFlareSpawns",
           "name": "WildMetalFlareGun",
           "chance": 26,
           "persists": true,
@@ -5690,7 +5134,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "URL.DeadRiflemanGunsmithPouchSpawns",
           "name": "WildGSP",
           "chance": {
             "name": "Clamp",
@@ -5745,7 +5188,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "URL.ReallyDeadRiflemanGunsmithPouchSpawns",
           "name": "WildGSP",
           "chance": {
             "name": "Clamp",
@@ -5800,7 +5242,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "4mmBox.BackpackSpawns",
           "name": "Reusable4mmBoxEmpty",
           "chance": 51,
           "replaces": false
@@ -5813,7 +5254,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "4mmBox.AmmoBoxSpawns",
           "name": "Reusable4mmBoxEmpty",
           "chance": 51,
           "replaces": false
@@ -5826,7 +5266,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.GibMonsterSpawns",
           "name": "GibMonster",
           "chance": 51,
           "persists": true,
@@ -5840,7 +5279,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadZombieStormTrooperRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5854,7 +5292,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadZombieAutoStormtrooperRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5868,7 +5305,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadZombieSemiStormtrooperRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5882,7 +5318,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadZombieSMGStormtrooperRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5896,7 +5331,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadJackbootRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5910,7 +5344,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadJackAndJillbootRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5924,7 +5357,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadUndeadJackbootmanRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5938,7 +5370,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadZombieShotgunnerRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5952,7 +5383,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadFighterImpRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5966,7 +5396,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadHealerImpRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5980,7 +5409,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadMageImpRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -5994,7 +5422,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadBabuinRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6008,7 +5435,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadSpecBabuinRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6022,7 +5448,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadSpectreRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6036,7 +5461,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadFlyZapperRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6050,7 +5474,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadBabuinitoRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6064,7 +5487,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadSpecBabuinitoRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6078,7 +5500,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.PistolZombiemanCorpseRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6092,7 +5513,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.SawnoffZombiemanCorpseRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6106,7 +5526,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieLadyCleaverRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6120,7 +5539,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieLadyKnifeRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6134,7 +5552,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieLadySyringeRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6148,7 +5565,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieLadyWrenchRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6162,7 +5578,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieAxeRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6176,7 +5591,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieChainsawRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6190,7 +5604,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieCrowbarRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6204,7 +5617,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.Dead_ZombieHammerRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6218,7 +5630,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadCombatJackbootRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6232,7 +5643,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadDoomedJackbootRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6246,7 +5656,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadDoomedJackAndJillbootRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6260,7 +5669,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadDoomedZombieShotgunnerRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6274,7 +5682,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadRiotCopZombieRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6288,7 +5695,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadZombieDogRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6302,7 +5708,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadSpecZombieDogRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6316,7 +5721,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadRiflemanRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6330,7 +5734,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.ReallyDeadRiflemanRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6344,7 +5747,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.DeadRiflemanCrouchedRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6358,7 +5760,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.ReallyDeadRiflemanCrouchedRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6372,7 +5773,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHeadsStickBaseRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6386,7 +5786,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHeadsStickOldRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6400,7 +5799,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHeadStickBaseRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6414,7 +5812,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHeadStickBlackRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6428,7 +5825,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHeadStickOldRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6442,7 +5838,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHeadStickRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6456,7 +5851,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDTwitchStickRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6470,7 +5864,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDTwitchHangRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6484,7 +5877,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDTwitchHangNSRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6498,7 +5890,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHTNoGutsRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6512,7 +5903,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHTLkDownRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6526,7 +5916,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHTLkUpRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6540,7 +5929,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHTNoBrainRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6554,7 +5942,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDHTSkullRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6568,7 +5955,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt2RatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6582,7 +5968,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt3RatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6596,7 +5981,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt4RatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6610,7 +5994,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt5RatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6624,7 +6007,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt2NSRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6638,7 +6020,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt3NSRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6652,7 +6033,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt4NSRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,
@@ -6666,7 +6046,6 @@
       "replaces": false,
       "entries": [
         {
-          "tableName": "Critters.HDMt5NSRatSpawns",
           "name": "RatSpawner",
           "chance": "#rat_corpse_spawn_bias",
           "persists": true,

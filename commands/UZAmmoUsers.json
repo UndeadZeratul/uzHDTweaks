@@ -1,0 +1,882 @@
+{
+    "clean": true,
+    "thingBlacklist": [
+        "BarrelGibs",
+        "BFGSpark",
+        "BloodSplatSilent",
+        "BloodTrail",
+        "btAdrenaline",
+        "CheckPuff",
+        "ClusterSpawner",
+        "ColonGibs",
+        "DecoPusher",
+        "DistanceCheckerCeiling",
+        "DummySpawner",
+        "DustCloud",
+        "DynamicLight",
+        "FragShard",
+        "Gibs",
+        "GrenadeSmokeTrail",
+        "hasHelmet",
+        "HDAIOverride",
+        "HDArmourWorn",
+        "HDBulletActor",
+        "HDBulletPuff",
+        "HDDebris",
+        "HDExplosion",
+        "HDFireball",
+        "HDFireballTail",
+        "HDFireDouse",
+        "HDFlameRed",
+        "HDFlameRedBig",
+        "HDFollower",
+        "HDLadderSection",
+        "HDMagicShield",
+        "HDMasterBlood",
+        "HDMerchant",
+        "HDPlayerCorpse",
+        "HDPlayerPawn",
+        "HDPuff",
+        "HDSmoke",
+        "HDSmokeChunk",
+        "HDTracerYellow",
+        "HHArmourNerf",
+        "HHelmet",
+        "HHelmetWorn",
+        "HideousBubble",
+        "IA_Sound",
+        "ImmunityToFire",
+        "LDLegendaryMonsterChooserHard",
+        "MapMarker",
+        "ParticleWhiteSmall",
+        "PlantBit",
+        "RainBase",
+        "RainSpawner",
+        "REItemGlow",
+        "ReverseImpBallTail",
+        "RocketSmokeTrail",
+        "ScopeCamera",
+        "ShieldSpark",
+        "SmallBloodPool",
+        "SoundEnvironment",
+        "SpicyAirSinkToken",
+        "SpicyAirSourceToken",
+        "TeleFog",
+        "TeleportDest",
+        "UaS_AI_Handler",
+        "UaS_VisWeps_Updater",
+        "VerySimpleRainItem",
+        "VisualFighterImp_Updater",
+        "VisualHealerImp_Updater",
+        "VisualJackboot_Updater",
+        "VisualMageImp_Updater",
+        "VisualOperator_Updater",
+        "VisualStormtrooper_Updater",
+        "WallChunk"
+    ],
+    "ammo": [
+        {
+            "ammoName": "BrontornisRound",
+            "users": [
+                "HD_ATCDevincenzia",
+                "HD_ATCKelenken",
+                "HDScorpion",
+                "RIBrontoBuddy"
+            ]
+        },
+        {
+            "ammoName": "DespicytoFilter",
+            "users": [
+                "Despicyto"
+            ]
+        },
+        {
+            "ammoName": "FourMilAmmo",
+            "users": [
+                "BossRifleButIts4mm",
+                "HackedZM66AssaultRifle",
+                "HDBastardRifle",
+                "HDBitch",
+                "HDDMR",
+                "HDG11Rifle_Scoped",
+                "HDG11Rifle",
+                "HDPDfour",
+                "HDTROGRifle",
+                "IronsLiberatorRifle",
+                "JuncoPistol",
+                "RIReaper",
+                "SavageAutoReloader",
+                "SpeenRunLoader",
+                "ZS_UMS_AUTOMAG"
+            ]
+        },
+        {
+            "ammoName": "HD_12mmBeltLink"
+        },
+        {
+            "ammoName": "HD_35mmBeltLink"
+        },
+        {
+            "ammoName": "HD_776BeltLink"
+        },
+        {
+            "ammoName": "HD069BoreAmmo",
+            "users": [
+                "HDAurochs",
+                "HDShotPistol"
+            ]
+        },
+        {
+            "ammoName": "HD10mAmmo",
+            "users": [
+                "HD10mmPistol",
+                "HDCurrawong",
+                "HDSigcow",
+                "TenMilAutoReloader"
+            ]
+        },
+        {
+            "ammoName": "HD45ACPAmmo",
+            "users": [
+                "HDColt1911",
+                "HDExhuRev",
+                "HDFP45",
+                "HDMAC10",
+                "HDMK23SOCOM",
+                "HDUMP",
+                "HDUSP"
+            ]
+        },
+        {
+            "ammoName": "HD45LCAmmo",
+            "users": [
+                "HDSingleActionRevolver"
+            ]
+        },
+        {
+            "ammoName": "HD4GBAmmo",
+            "users": [
+                "HDCurrawong"
+            ]
+        },
+        {
+            "ammoName": "HD4mMag",
+            "users": [
+                "HackedZM66AssaultRifle",
+                "HDDMR",
+                "HDVera",
+                "RIReaper",
+                "ZS_UMS_AUTOMAG"
+            ]
+        },
+        {
+            "ammoName": "HD4GSAmmo"
+        },
+        {
+            "ammoName": "HD500SWHeavyAmmo",
+            "users": [
+                "HDMBR",
+                "HDOtisGun",
+                "HDSHAK12"
+            ]
+        },
+        {
+            "ammoName": "HD500SWLightAmmo",
+            "users": [
+                "HDKiller7",
+                "HDMajestic",
+                "HDMBR",
+                "HDOldMajestic",
+                "HDOtisGun"
+            ]
+        },
+        {
+            "ammoName": "HD50AM_Ammo",
+            "users": [
+                "HD_AutoMag",
+                "HDLeverGun",
+                "HDViper"
+            ]
+        },
+        {
+            "ammoName": "HD50OMGAmmo",
+            "users": [
+                "BogRifle",
+                "HD_M2HB",
+                "HDWyvern",
+                "ZM94Rifle"
+            ]
+        },
+        {
+            "ammoName": "HD5mm_Ammo",
+            "users": [
+                "BossRifleButItsFuckingPink",
+                "HD_M5165",
+                "HD_Ruger1022"
+            ]
+        },
+        {
+            "ammoName": "HD6mmFlechetteAmmo",
+            "users": [
+                "HD_SteyrACR",
+                "HD_SteyrAICW",
+                "HDColtCommando_CS",
+                "HDTaronga"
+            ]
+        },
+        {
+            "ammoName": "HD762TokarevAmmo",
+            "users": [
+                "HDPPSh41",
+                "HDTT33Pistol"
+            ]
+        },
+        {
+            "ammoName": "HD7mClip",
+            "users": [
+                "HD_M14Short",
+                "HexaNoScopeBoss",
+                "ObrozzPistol"
+            ]
+        },
+        {
+            "ammoName": "HD7mMag",
+            "users": [
+                "HD_M14Short",
+                "IronsLiberatorRifle"
+            ]
+        },
+        {
+            "ammoName": "HD8mElectroMagnetic",
+            "users": [
+                "HDFortuneRailgun"
+            ]
+        },
+        {
+            "ammoName": "HD9mClip",
+            "users": [
+                "BossRifleButIts9mm"
+            ]
+        },
+        {
+            "ammoName": "HD9mMag15",
+            "users": [
+                "HDBPX",
+                "HDRafficaPistol"
+            ]
+        },
+        {
+            "ammoName": "HD9mMag30",
+            "users": [
+                "HDHLAR",
+                "HDMinebeaPM9",
+                "HDStenMk2",
+                "MinervaChaingun",
+                "RIThompson"
+            ]
+        },
+        {
+            "ammoName": "HDAurochsAmmo",
+            "users": [
+                "HDAurochs",
+                "HDCoyote"
+            ]
+        },
+        {
+            "ammoName": "HDBallAmmo",
+            "users": [
+                "HD_FlintlockPistol",
+                "HD_Musket"
+            ]
+        },
+        {
+            "ammoName": "HDBattery",
+            "users": [
+                "CrossPulseThunderBuster",
+                "HDFenris",
+                "HDGreenline",
+                "HDGungnir",
+                "HDHammerhead",
+                "HDLaserMachinegun",
+                "HDLisa",
+                "HDMauler",
+                "HDNCT",
+                "HDOldPersonalShieldGenerator",
+                "HDPlasmaPistol",
+                "HDRedline",
+                "HDTeleporter",
+                "HDVera",
+                "HDWiseau",
+                "HDZorcher",
+                "MinervaChaingun",
+                "PlasmaBuster",
+                "RubyMaser"
+            ]
+        },
+        {
+            "ammoName": "HDBirdshotShellAmmo",
+            "users": [
+                "DuckHunter"
+            ]
+        },
+        {
+            "ammoName": "HDBlackhawkBoltElectric",
+            "users": [
+                "HDBlackhawk"
+            ]
+        },
+        {
+            "ammoName": "HDBlackhawkBoltIncendiary",
+            "users": [
+                "HDBlackhawk"
+            ]
+        },
+        {
+            "ammoName": "HDBlackhawkBoltNuclear",
+            "users": [
+                "HDBlackhawk"
+            ]
+        },
+        {
+            "ammoName": "HDBlackhawkBoltRegular",
+            "users": [
+                "HDBlackhawk"
+            ]
+        },
+        {
+            "ammoName": "HDExplosiveShellAmmo",
+            "users": [
+                "ExplosiveHunter",
+                "MetalFireBlooper"
+            ]
+        },
+        {
+            "ammoName": "HDFlareAmmo",
+            "users": [
+                "FireBlooper",
+                "MetalFireBlooper"
+            ]
+        },
+        {
+            "ammoName": "HDGarand3006Clip",
+            "users": [
+                "HDGarand"
+            ]
+        },
+        {
+            "ammoName": "HDGarandClip",
+            "users": [
+                "HDGarand"
+            ]
+        },
+        {
+            "ammoName": "HDGasTank",
+            "users": [
+                "HDFlamethrower"
+            ]
+        },
+        {
+            "ammoName": "HDGold45LCAmmo",
+            "users": [
+                "HDGoldSingleActionRevolver"
+            ]
+        },
+        {
+            "ammoName": "HDLLShellAmmo",
+            "users": [
+                "LLHunter"
+            ]
+        },
+        {
+            "ammoName": "HDNDMLoose",
+            "users": [
+                "HDBreakerp90",
+                "HDGuillotine"
+            ]
+        },
+        {
+            "ammoName": "HDOmgClip",
+            "users": [
+                "BogRifle"
+            ]
+        },
+        {
+            "ammoName": "HDPistolAmmo",
+            "users": [
+                "BossRifleButIts9mm",
+                "COP357Pistol",
+                "HDBoxCannon",
+                "HDBPX",
+                "HDHLAR",
+                "HDHorseshoePistol",
+                "HDJackdaw",
+                "HDMinebeaPM9",
+                "HDRafficaPistol",
+                "HDSnubNoseRevolver",
+                "HDStenMk2",
+                "HDYureiSMG",
+                "HushPuppyPistol",
+                "MinervaChaingun",
+                "RIThompson",
+                "TenMilAutoReloader",
+                "TenMilAutoReloadingThingy"
+            ]
+        },
+        {
+            "ammoName": "HDReapD20",
+            "users": [
+                "RIReaper"
+            ]
+        },
+        {
+            "ammoName": "HDReapM8",
+            "users": [
+                "RIReaper"
+            ]
+        },
+        {
+            "ammoName": "HDRevolverAmmo",
+            "users": [
+                "COP357Pistol",
+                "HDBlackjack",
+                "HDColt355",
+                "HDDEagle",
+                "HDHelzing",
+                "HDNyx",
+                "HDScopedRevolver",
+                "HDSnubNoseRevolver"
+            ]
+        },
+        {
+            "ammoName": "HDRocketAmmo",
+            "users": [
+                "HackedZM66AssaultRifle",
+                "HDBastardRifle",
+                "HDBitch",
+                "HDChinaLake",
+                "HDHLAR",
+                "HDMBR",
+                "HDTROGRifle",
+                "IronsLiberatorRifle",
+                "RIReaper"
+            ]
+        },
+        {
+            "ammoName": "HDSHAKMag",
+            "users": [
+                "HDSHAK12"
+            ]
+        },
+        {
+            "ammoName": "HDShellAmmo",
+            "users": [
+                "Bossmerg",
+                "DoomHunter",
+                "FireBlooper",
+                "HD_CAWSGUN",
+                "HDAltis",
+                "HDBarracuda",
+                "HDBlackjack",
+                "HDCombatShotgun",
+                "HDGreely",
+                "HDSix12",
+                "HDStreetSweeper",
+                "HDTerminatorSG",
+                "HDUragan5",
+                "MetalFireBlooper",
+                "RIReaper",
+                "SawedSlayer",
+                "ScopedSlayer"
+            ]
+        },
+        {
+            "ammoName": "HDSlugAmmo",
+            "users": [
+                "HDAltis",
+                "HDAuto5",
+                "HDBarracuda",
+                "HDGreely",
+                "HDPDFour",
+                "HDSix12",
+                "MetalFireBlooper"
+            ]
+        },
+        {
+            "ammoName": "HDSlugSpeedLoader",
+            "users": [
+                "HDAuto5"
+            ]
+        },
+        {
+            "ammoName": "HDTmpsD50",
+            "users": [
+                "RIThompson"
+            ]
+        },
+        {
+            "ammoName": "HDTmpsD70",
+            "users": [
+                "RIThompson"
+            ]
+        },
+        {
+            "ammoName": "HDTmpsM20",
+            "users": [
+                "RIThompson"
+            ]
+        },
+        {
+            "ammoName": "HDZM94Mag",
+            "users": [
+                "ZM94Rifle"
+            ]
+        },
+        {
+            "ammoName": "HEATAmmo"
+        },
+        {
+            "ammoName": "PB_HDSteyrACRMag",
+            "users": [
+                "HD_SteyrACR",
+                "HD_SteyrAICW",
+                "HDColtCommando_CS"
+            ]
+        },
+        {
+            "ammoName": "Reusable069Box",
+            "users": [
+                "HDAurochs",
+                "HDShotPistol"
+            ]
+        },
+        {
+            "ammoName": "Reusable10mmBox",
+            "users": [
+                "HD10mmPistol",
+                "HDCurrawong",
+                "HDSigCow",
+                "TenMilAutoReloadingThingy"
+            ]
+        },
+        {
+            "ammoName": "Reusable20mmGrenadeBox",
+            "users": [
+                "HDTaronga",
+                "WAN_MA76C"
+            ]
+        },
+        {
+            "ammoName": "Reusable3006Box",
+            "users": [
+                "M1Garand"
+            ]
+        },
+        {
+            "ammoName": "Reusable300SavageBox",
+            "users": [
+                "Savage99SniperRifle"
+            ]
+        },
+        {
+            "ammoName": "Reusable355Box",
+            "users": [
+                "HDColt355",
+                "HDHelzing",
+                "HDNyx",
+                "HDRevolver",
+                "HDScopedRevolver",
+                "HDSnubNoseRevolver"
+            ]
+        },
+        {
+            "ammoName": "Reusable420Box",
+            "users": [
+                "HDAurochs"
+            ]
+        },
+        {
+            "ammoName": "Reusable45ACPBox",
+            "users": [
+                "HDColt1911",
+                "HDExhuRev",
+                "HDMAC10",
+                "HDMK23SOCOM",
+                "HDUMP",
+                "HDUSP"
+            ]
+        },
+        {
+            "ammoName": "Reusable45LCBox",
+            "users": [
+                "HDSingleActionRevolver"
+            ]
+        },
+        {
+            "ammoName": "Reusable4GaShellBox",
+            "users": [
+                "HD4GBBlaster",
+                "HDCurrawong"
+            ]
+        },
+        {
+            "ammoName": "Reusable500HeavyBox",
+            "users": [
+                "HDOtisGun"
+            ]
+        },
+        {
+            "ammoName": "Reusable500LightBox",
+            "users": [
+                "HDOtisGun"
+            ]
+        },
+        {
+            "ammoName": "Reusable50AMBox",
+            "users": [
+                "HD_AutoMag",
+                "HDLeverGun",
+                "HDViper"
+            ]
+        },
+        {
+            "ammoName": "Reusable50OMGBox",
+            "users": [
+                "BogRifle",
+                "HDM2HB",
+                "HDWyvern",
+                "ZM94Rifle"
+            ]
+        },
+        {
+            "ammoName": "Reusable5mmBox",
+            "users": [
+                "BossRifleButItsFuckingPink",
+                "HD_M5165",
+                "HD_Ruger1022"
+            ]
+        },
+        {
+            "ammoName": "Reusable6mmBox",
+            "users": [
+                "HD_SteyrACR",
+                "HD_SteyrAICW",
+                "HDColtCommando_CS",
+                "HDTaronga"
+            ]
+        },
+        {
+            "ammoName": "Reusable762TokarevBox",
+            "users": [
+                "HDPPSh41",
+                "HDTT33Pistol"
+            ]
+        },
+        {
+            "ammoName": "Reusable7mmBox",
+            "users": [
+                "AutoReloader",
+                "BossRifle",
+                "BossRifleButItsTheWorst",
+                "HD_FNFAL",
+                "HD_M14Short",
+                "HD_PSG1",
+                "HDFrontier",
+                "HDLotus",
+                "HDMicrogun",
+                "HexaNoScopeBoss",
+                "IronsLiberatorRifle",
+                "LiberatorRifle",
+                "ObrozzPistol",
+                "WAN_MA75B"
+            ]
+        },
+        {
+            "ammoName": "Reusable9mmBox",
+            "users": [
+                "BossRifleButIts9mm",
+                "DERPDEAD",
+                "DERPUsable",
+                "HDBoxCannon",
+                "HDBPX",
+                "HDBreakerP90",
+                "HDHLAR",
+                "HDHorseshoePistol",
+                "HDPistol",
+                "HDRevolver",
+                "HDSMG",
+                "HDSnubNoseRevolver",
+                "HDStenMk2",
+                "HushPuppyPistol",
+                "MinervaChaingun",
+                "RIThompson",
+                "TenMilAutoReloadingThingy"
+            ]
+        },
+        {
+            "ammoName": "ReusableBirdshotShellBox",
+            "users": [
+                "DuckHunter"
+            ]
+        },
+        {
+            "ammoName": "ReusableExplosiveShellBox",
+            "users": [
+                "ExplosiveHunter",
+                "MetalFireBlooper"
+            ]
+        },
+        {
+            "ammoName": "ReusableFlareBox",
+            "users": [
+                "FireBlooper",
+                "MetalFireBlooper"
+            ]
+        },
+        {
+            "ammoName": "ReusableLessLethalBox",
+            "users": [
+                "LLHunter"
+            ]
+        },
+        {
+            "ammoName": "ReusableNDMBox",
+            "users": [
+                "HDBreakerP90",
+                "HDGuillotine"
+            ]
+        },
+        {
+            "ammoName": "ReusableRocketBox",
+            "users": [
+                "Blooper",
+                "HackedZM66AssaultRifle",
+                "HDBitch",
+                "HDChinaLake",
+                "HDHLAR",
+                "HDIEDKit",
+                "HDRL",
+                "HDTROGRifle",
+                "IronsLiberatorRifle",
+                "RIReaperGL",
+                "WAN_MA75B"
+            ]
+        },
+        {
+            "ammoName": "ReusableShellBox",
+            "users": [
+                "Bossmerg",
+                "DoomHunter",
+                "FireBlooper",
+                "HD_CAWSGUN",
+                "HDAltis",
+                "HDBarracuda",
+                "HDCombatShotgun",
+                "HDGreely",
+                "HDSix12",
+                "HDStreetSweeper",
+                "HDTerminatorSG",
+                "HDUragan5",
+                "Hunter",
+                "MetalFireBlooper",
+                "RIReaper",
+                "RIReaperGL",
+                "RIReaperZM",
+                "SawedSlayer",
+                "ScopedSlayer",
+                "Slayer",
+                "Wan_WSTEM5"
+            ]
+        },
+        {
+            "ammoName": "ReusableSlugBox",
+            "users": [
+                "HDAltis",
+                "HDAuto5",
+                "HDBarracuda",
+                "HDGreely",
+                "HDPDFour",
+                "HDSix12"
+            ]
+        },
+        {
+            "ammoName": "Savage300Ammo",
+            "users": [
+                "Savage99SniperRifle"
+            ]
+        },
+        {
+            "ammoName": "Savage300Brass",
+            "users": [
+                "Savage99SniperRifle"
+            ]
+        },
+        {
+            "ammoName": "SevenMilAmmo",
+            "users": [
+                "BossRifleButItsTheWorst",
+                "HD_FNFAL",
+                "HD_M14Short",
+                "HD_M60",
+                "HD_PSG1",
+                "HDFrontier",
+                "HDLotus",
+                "HDMicrogun",
+                "HexaNoScopeBoss",
+                "IronsLiberatorRifle",
+                "NoScopeBoss",
+                "ObrozzPistol"
+            ]
+        },
+        {
+            "ammoName": "SevenMilAmmoRecast",
+            "users": [
+                "HD_M14Short",
+                "HDLotus",
+                "HexaNoScopeBoss",
+                "IronsLiberatorRifle",
+                "NoScopeBoss",
+                "ObrozzPistol"
+            ]
+        },
+        {
+            "ammoName": "SevenMilBrass",
+            "users": [
+                "IronsLiberatorRifle",
+                "SpeedRunLoader"
+            ]
+        },
+        {
+            "ammoName": "TenMilBrass",
+            "users": [
+                "TenMilAutoReloader"
+            ]
+        },
+        {
+            "ammoName": "ThirtyAughtSixAmmo",
+            "users": [
+                "HDGarand"
+            ]
+        },
+        {
+            "ammoName": "ThirtyAughtSixBrass"
+        },
+        {
+            "ammoName": "TokarevBrass",
+            "users": [
+                "TokarevAutoReloader"
+            ]
+        },
+        {
+            "ammoName": "WAN_20mmGrenadeAmmo",
+            "users": [
+                "HDTaronga"
+            ]
+        },
+        {
+            "ammoName": "Wan_ThuRKTAmmo"
+        },
+        {
+            "ammoName": "Wan_TortRKTAmmo"
+        }
+    ]
+}

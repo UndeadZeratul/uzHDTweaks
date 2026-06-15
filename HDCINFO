@@ -1,0 +1,7 @@
+configureAmmoBoxSpawnPoolHandler => commands/UZAmmoBoxes.json
+configureAmmoUsesHandler => commands/UZAmmoUsers.json
+configureStorageItemListHandler => commands/UZStorageItemListFilters.json
+configureMerchants => commands/UZMerchants.json
+configureSpawnHandler => commands/UZSpawnTables.json
+configureSpicyAirHandler => commands/UZSpicyAir.json
+configureWeaponCrateSpawnPoolHandler => commands/UZWeaponCrates.json

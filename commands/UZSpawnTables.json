@@ -4579,9 +4579,8 @@
       "replaces": false,
       "entries": [
         {
-          "type": "nested",
-          "name": "BackpackReplaces",
-          "chance": 64,
+          "name": "Backpack",
+          "chance": 196,
           "persists": true,
           "replaces": false
         }
@@ -4593,9 +4592,8 @@
       "replaces": false,
       "entries": [
         {
-          "type": "nested",
-          "name": "BackpackReplaces",
-          "chance": 64,
+          "name": "Backpack",
+          "chance": 128,
           "persists": true,
           "replaces": false
         }

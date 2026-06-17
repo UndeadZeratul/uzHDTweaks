@@ -5235,20 +5235,8 @@
       ]
     },
     {
-      "spawnName": "HDBackpack",
-      "tableName": "4mmBox.BackpackSpawns",
-      "replaces": false,
-      "entries": [
-        {
-          "name": "Reusable4mmBoxEmpty",
-          "chance": 51,
-          "replaces": false
-        }
-      ]
-    },
-    {
       "spawnName": "HDAmBox",
-      "tableName": "4mmBox.AmmoBoxSpawns",
+      "tableName": "UZ.AmmoBox4mmBoxSpawns",
       "replaces": false,
       "entries": [
         {

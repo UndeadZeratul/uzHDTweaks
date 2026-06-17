@@ -1831,13 +1831,6 @@
               "flavorText": "$MERCH_FLAVOR_PD42"
             },
             {
-              "item": "HD_M14Short",
-              "icon": "M14GX0",
-              "displayName": "$TAG_M14K",
-              "basePrice": 400,
-              "flavorText": "All that kick in such a small package."
-            },
-            {
               "item": "RIThompson",
               "icon": "TMPNA0",
               "displayName": "$MERCH_TAG_THOMPSON",
@@ -1951,6 +1944,13 @@
               "displayName": "$MERCH_TAG_LEVERGUN",
               "basePrice": 260,
               "flavorText": "$MERCH_FLAVOR_LEVERGUN"
+            },
+            {
+              "item": "HD_M14Short",
+              "icon": "M14GX0",
+              "displayName": "$MERCH_TAG_M14K",
+              "basePrice": 400,
+              "flavorText": "$MERCH_TAG_M14K"
             }
           ]
         },
